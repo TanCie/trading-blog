@@ -1,0 +1,8798 @@
+[
+  {
+    "NavDate": "24-04-2024",
+    "NavPrice": 658.122
+  },
+  {
+    "NavDate": "23-04-2024",
+    "NavPrice": 652.321
+  },
+  {
+    "NavDate": "22-04-2024",
+    "NavPrice": 649.7063
+  },
+  {
+    "NavDate": "19-04-2024",
+    "NavPrice": 641.6291
+  },
+  {
+    "NavDate": "18-04-2024",
+    "NavPrice": 641.9648
+  },
+  {
+    "NavDate": "16-04-2024",
+    "NavPrice": 643.7749
+  },
+  {
+    "NavDate": "15-04-2024",
+    "NavPrice": 642.0101
+  },
+  {
+    "NavDate": "12-04-2024",
+    "NavPrice": 650.7151
+  },
+  {
+    "NavDate": "10-04-2024",
+    "NavPrice": 654.1684
+  },
+  {
+    "NavDate": "09-04-2024",
+    "NavPrice": 649.8691
+  },
+  {
+    "NavDate": "08-04-2024",
+    "NavPrice": 649.544
+  },
+  {
+    "NavDate": "05-04-2024",
+    "NavPrice": 648.6462
+  },
+  {
+    "NavDate": "04-04-2024",
+    "NavPrice": 644.5665
+  },
+  {
+    "NavDate": "03-04-2024",
+    "NavPrice": 644.492
+  },
+  {
+    "NavDate": "02-04-2024",
+    "NavPrice": 637.7451
+  },
+  {
+    "NavDate": "01-04-2024",
+    "NavPrice": 632.9981
+  },
+  {
+    "NavDate": "31-03-2024",
+    "NavPrice": 617.9561
+  },
+  {
+    "NavDate": "28-03-2024",
+    "NavPrice": 617.9979
+  },
+  {
+    "NavDate": "27-03-2024",
+    "NavPrice": 613.8517
+  },
+  {
+    "NavDate": "26-03-2024",
+    "NavPrice": 610.9961
+  },
+  {
+    "NavDate": "22-03-2024",
+    "NavPrice": 608.5935
+  },
+  {
+    "NavDate": "21-03-2024",
+    "NavPrice": 605.5274
+  },
+  {
+    "NavDate": "20-03-2024",
+    "NavPrice": 592.6972
+  },
+  {
+    "NavDate": "19-03-2024",
+    "NavPrice": 593.038
+  },
+  {
+    "NavDate": "18-03-2024",
+    "NavPrice": 604.3264
+  },
+  {
+    "NavDate": "15-03-2024",
+    "NavPrice": 598.5643
+  },
+  {
+    "NavDate": "14-03-2024",
+    "NavPrice": 599.4033
+  },
+  {
+    "NavDate": "13-03-2024",
+    "NavPrice": 584.2209
+  },
+  {
+    "NavDate": "12-03-2024",
+    "NavPrice": 615.3383
+  },
+  {
+    "NavDate": "11-03-2024",
+    "NavPrice": 624.4168
+  },
+  {
+    "NavDate": "07-03-2024",
+    "NavPrice": 631.8441
+  },
+  {
+    "NavDate": "06-03-2024",
+    "NavPrice": 628.6589
+  },
+  {
+    "NavDate": "05-03-2024",
+    "NavPrice": 633.8832
+  },
+  {
+    "NavDate": "04-03-2024",
+    "NavPrice": 636.4885
+  },
+  {
+    "NavDate": "01-03-2024",
+    "NavPrice": 625.6191
+  },
+  {
+    "NavDate": "29-02-2024",
+    "NavPrice": 617.32
+  },
+  {
+    "NavDate": "28-02-2024",
+    "NavPrice": 612.7635
+  },
+  {
+    "NavDate": "27-02-2024",
+    "NavPrice": 623.4515
+  },
+  {
+    "NavDate": "26-02-2024",
+    "NavPrice": 626.8261
+  },
+  {
+    "NavDate": "23-02-2024",
+    "NavPrice": 629.9541
+  },
+  {
+    "NavDate": "22-02-2024",
+    "NavPrice": 627.5213
+  },
+  {
+    "NavDate": "21-02-2024",
+    "NavPrice": 618.639
+  },
+  {
+    "NavDate": "20-02-2024",
+    "NavPrice": 623.6985
+  },
+  {
+    "NavDate": "19-02-2024",
+    "NavPrice": 623.4107
+  },
+  {
+    "NavDate": "16-02-2024",
+    "NavPrice": 618.8035
+  },
+  {
+    "NavDate": "15-02-2024",
+    "NavPrice": 616.7865
+  },
+  {
+    "NavDate": "14-02-2024",
+    "NavPrice": 610.5419
+  },
+  {
+    "NavDate": "13-02-2024",
+    "NavPrice": 602.0836
+  },
+  {
+    "NavDate": "12-02-2024",
+    "NavPrice": 601.2888
+  },
+  {
+    "NavDate": "09-02-2024",
+    "NavPrice": 619.1333
+  },
+  {
+    "NavDate": "08-02-2024",
+    "NavPrice": 625.2797
+  },
+  {
+    "NavDate": "07-02-2024",
+    "NavPrice": 625.0266
+  },
+  {
+    "NavDate": "06-02-2024",
+    "NavPrice": 624.425
+  },
+  {
+    "NavDate": "05-02-2024",
+    "NavPrice": 618.4539
+  },
+  {
+    "NavDate": "02-02-2024",
+    "NavPrice": 614.9372
+  },
+  {
+    "NavDate": "01-02-2024",
+    "NavPrice": 609.5428
+  },
+  {
+    "NavDate": "31-01-2024",
+    "NavPrice": 612.6397
+  },
+  {
+    "NavDate": "30-01-2024",
+    "NavPrice": 606.2594
+  },
+  {
+    "NavDate": "29-01-2024",
+    "NavPrice": 606.6349
+  },
+  {
+    "NavDate": "25-01-2024",
+    "NavPrice": 593.4329
+  },
+  {
+    "NavDate": "24-01-2024",
+    "NavPrice": 589.2893
+  },
+  {
+    "NavDate": "23-01-2024",
+    "NavPrice": 577.3682
+  },
+  {
+    "NavDate": "19-01-2024",
+    "NavPrice": 592.9102
+  },
+  {
+    "NavDate": "18-01-2024",
+    "NavPrice": 584.9413
+  },
+  {
+    "NavDate": "17-01-2024",
+    "NavPrice": 581.2088
+  },
+  {
+    "NavDate": "16-01-2024",
+    "NavPrice": 588.4435
+  },
+  {
+    "NavDate": "15-01-2024",
+    "NavPrice": 591.8532
+  },
+  {
+    "NavDate": "12-01-2024",
+    "NavPrice": 586.6376
+  },
+  {
+    "NavDate": "11-01-2024",
+    "NavPrice": 583.5784
+  },
+  {
+    "NavDate": "10-01-2024",
+    "NavPrice": 579.8525
+  },
+  {
+    "NavDate": "09-01-2024",
+    "NavPrice": 575.7228
+  },
+  {
+    "NavDate": "08-01-2024",
+    "NavPrice": 573.0221
+  },
+  {
+    "NavDate": "05-01-2024",
+    "NavPrice": 580.3548
+  },
+  {
+    "NavDate": "04-01-2024",
+    "NavPrice": 581.4106
+  },
+  {
+    "NavDate": "03-01-2024",
+    "NavPrice": 573.5107
+  },
+  {
+    "NavDate": "02-01-2024",
+    "NavPrice": 574.9393
+  },
+  {
+    "NavDate": "01-01-2024",
+    "NavPrice": 575.5106
+  },
+  {
+    "NavDate": "29-12-2023",
+    "NavPrice": 572.6229
+  },
+  {
+    "NavDate": "28-12-2023",
+    "NavPrice": 571.0828
+  },
+  {
+    "NavDate": "27-12-2023",
+    "NavPrice": 565.2779
+  },
+  {
+    "NavDate": "26-12-2023",
+    "NavPrice": 562.8494
+  },
+  {
+    "NavDate": "22-12-2023",
+    "NavPrice": 559.4307
+  },
+  {
+    "NavDate": "21-12-2023",
+    "NavPrice": 554.4757
+  },
+  {
+    "NavDate": "20-12-2023",
+    "NavPrice": 543.1603
+  },
+  {
+    "NavDate": "19-12-2023",
+    "NavPrice": 560.5398
+  },
+  {
+    "NavDate": "18-12-2023",
+    "NavPrice": 559.413
+  },
+  {
+    "NavDate": "15-12-2023",
+    "NavPrice": 555.9159
+  },
+  {
+    "NavDate": "14-12-2023",
+    "NavPrice": 552.6418
+  },
+  {
+    "NavDate": "13-12-2023",
+    "NavPrice": 546.8147
+  },
+  {
+    "NavDate": "12-12-2023",
+    "NavPrice": 544.1271
+  },
+  {
+    "NavDate": "11-12-2023",
+    "NavPrice": 545.1836
+  },
+  {
+    "NavDate": "08-12-2023",
+    "NavPrice": 542.3005
+  },
+  {
+    "NavDate": "07-12-2023",
+    "NavPrice": 545.6007
+  },
+  {
+    "NavDate": "06-12-2023",
+    "NavPrice": 544.7566
+  },
+  {
+    "NavDate": "05-12-2023",
+    "NavPrice": 542.4513
+  },
+  {
+    "NavDate": "04-12-2023",
+    "NavPrice": 538.6189
+  },
+  {
+    "NavDate": "01-12-2023",
+    "NavPrice": 532.9267
+  },
+  {
+    "NavDate": "30-11-2023",
+    "NavPrice": 529.9207
+  },
+  {
+    "NavDate": "29-11-2023",
+    "NavPrice": 527.2359
+  },
+  {
+    "NavDate": "28-11-2023",
+    "NavPrice": 524.6516
+  },
+  {
+    "NavDate": "24-11-2023",
+    "NavPrice": 521.4137
+  },
+  {
+    "NavDate": "23-11-2023",
+    "NavPrice": 519.5256
+  },
+  {
+    "NavDate": "22-11-2023",
+    "NavPrice": 520.8136
+  },
+  {
+    "NavDate": "21-11-2023",
+    "NavPrice": 520.8323
+  },
+  {
+    "NavDate": "20-11-2023",
+    "NavPrice": 517.8723
+  },
+  {
+    "NavDate": "17-11-2023",
+    "NavPrice": 518.0507
+  },
+  {
+    "NavDate": "16-11-2023",
+    "NavPrice": 518.1875
+  },
+  {
+    "NavDate": "15-11-2023",
+    "NavPrice": 515.8507
+  },
+  {
+    "NavDate": "13-11-2023",
+    "NavPrice": 511.4833
+  },
+  {
+    "NavDate": "10-11-2023",
+    "NavPrice": 508.0591
+  },
+  {
+    "NavDate": "09-11-2023",
+    "NavPrice": 506.5073
+  },
+  {
+    "NavDate": "08-11-2023",
+    "NavPrice": 506.6531
+  },
+  {
+    "NavDate": "07-11-2023",
+    "NavPrice": 503.8797
+  },
+  {
+    "NavDate": "06-11-2023",
+    "NavPrice": 500.9886
+  },
+  {
+    "NavDate": "03-11-2023",
+    "NavPrice": 496.0214
+  },
+  {
+    "NavDate": "02-11-2023",
+    "NavPrice": 493.5016
+  },
+  {
+    "NavDate": "01-11-2023",
+    "NavPrice": 488.9437
+  },
+  {
+    "NavDate": "31-10-2023",
+    "NavPrice": 490.7445
+  },
+  {
+    "NavDate": "30-10-2023",
+    "NavPrice": 491.8466
+  },
+  {
+    "NavDate": "27-10-2023",
+    "NavPrice": 488.9417
+  },
+  {
+    "NavDate": "26-10-2023",
+    "NavPrice": 481.0964
+  },
+  {
+    "NavDate": "25-10-2023",
+    "NavPrice": 485.3344
+  },
+  {
+    "NavDate": "23-10-2023",
+    "NavPrice": 488.1296
+  },
+  {
+    "NavDate": "20-10-2023",
+    "NavPrice": 502.7942
+  },
+  {
+    "NavDate": "19-10-2023",
+    "NavPrice": 508.9801
+  },
+  {
+    "NavDate": "18-10-2023",
+    "NavPrice": 508.2723
+  },
+  {
+    "NavDate": "17-10-2023",
+    "NavPrice": 512.1752
+  },
+  {
+    "NavDate": "16-10-2023",
+    "NavPrice": 511.4822
+  },
+  {
+    "NavDate": "13-10-2023",
+    "NavPrice": 511.7966
+  },
+  {
+    "NavDate": "12-10-2023",
+    "NavPrice": 513.4926
+  },
+  {
+    "NavDate": "11-10-2023",
+    "NavPrice": 509.6298
+  },
+  {
+    "NavDate": "10-10-2023",
+    "NavPrice": 506.8405
+  },
+  {
+    "NavDate": "09-10-2023",
+    "NavPrice": 499.105
+  },
+  {
+    "NavDate": "06-10-2023",
+    "NavPrice": 506.1952
+  },
+  {
+    "NavDate": "05-10-2023",
+    "NavPrice": 503.4728
+  },
+  {
+    "NavDate": "04-10-2023",
+    "NavPrice": 503.1118
+  },
+  {
+    "NavDate": "03-10-2023",
+    "NavPrice": 509.2535
+  },
+  {
+    "NavDate": "29-09-2023",
+    "NavPrice": 510.1892
+  },
+  {
+    "NavDate": "27-09-2023",
+    "NavPrice": 509.9162
+  },
+  {
+    "NavDate": "26-09-2023",
+    "NavPrice": 505.931
+  },
+  {
+    "NavDate": "25-09-2023",
+    "NavPrice": 507.1205
+  },
+  {
+    "NavDate": "22-09-2023",
+    "NavPrice": 504.9178
+  },
+  {
+    "NavDate": "21-09-2023",
+    "NavPrice": 505.4111
+  },
+  {
+    "NavDate": "20-09-2023",
+    "NavPrice": 509.4632
+  },
+  {
+    "NavDate": "18-09-2023",
+    "NavPrice": 515.3509
+  },
+  {
+    "NavDate": "15-09-2023",
+    "NavPrice": 517.3219
+  },
+  {
+    "NavDate": "14-09-2023",
+    "NavPrice": 517.2682
+  },
+  {
+    "NavDate": "13-09-2023",
+    "NavPrice": 514.4604
+  },
+  {
+    "NavDate": "12-09-2023",
+    "NavPrice": 509.392
+  },
+  {
+    "NavDate": "11-09-2023",
+    "NavPrice": 523.4955
+  },
+  {
+    "NavDate": "08-09-2023",
+    "NavPrice": 519.2339
+  },
+  {
+    "NavDate": "07-09-2023",
+    "NavPrice": 516.2478
+  },
+  {
+    "NavDate": "06-09-2023",
+    "NavPrice": 513.5041
+  },
+  {
+    "NavDate": "05-09-2023",
+    "NavPrice": 514.8495
+  },
+  {
+    "NavDate": "04-09-2023",
+    "NavPrice": 510.5038
+  },
+  {
+    "NavDate": "01-09-2023",
+    "NavPrice": 506.0071
+  },
+  {
+    "NavDate": "31-08-2023",
+    "NavPrice": 499.6833
+  },
+  {
+    "NavDate": "30-08-2023",
+    "NavPrice": 498.6422
+  },
+  {
+    "NavDate": "29-08-2023",
+    "NavPrice": 496.0734
+  },
+  {
+    "NavDate": "28-08-2023",
+    "NavPrice": 494.3455
+  },
+  {
+    "NavDate": "25-08-2023",
+    "NavPrice": 491.2519
+  },
+  {
+    "NavDate": "24-08-2023",
+    "NavPrice": 493.3728
+  },
+  {
+    "NavDate": "23-08-2023",
+    "NavPrice": 495.597
+  },
+  {
+    "NavDate": "22-08-2023",
+    "NavPrice": 493.014
+  },
+  {
+    "NavDate": "21-08-2023",
+    "NavPrice": 489.7829
+  },
+  {
+    "NavDate": "18-08-2023",
+    "NavPrice": 486.7658
+  },
+  {
+    "NavDate": "17-08-2023",
+    "NavPrice": 486.6513
+  },
+  {
+    "NavDate": "16-08-2023",
+    "NavPrice": 487.2222
+  },
+  {
+    "NavDate": "14-08-2023",
+    "NavPrice": 487.0342
+  },
+  {
+    "NavDate": "11-08-2023",
+    "NavPrice": 489.8236
+  },
+  {
+    "NavDate": "10-08-2023",
+    "NavPrice": 489.7441
+  },
+  {
+    "NavDate": "09-08-2023",
+    "NavPrice": 489.7213
+  },
+  {
+    "NavDate": "08-08-2023",
+    "NavPrice": 487.1542
+  },
+  {
+    "NavDate": "07-08-2023",
+    "NavPrice": 487.4403
+  },
+  {
+    "NavDate": "04-08-2023",
+    "NavPrice": 485.5615
+  },
+  {
+    "NavDate": "03-08-2023",
+    "NavPrice": 483.5954
+  },
+  {
+    "NavDate": "02-08-2023",
+    "NavPrice": 484.3566
+  },
+  {
+    "NavDate": "01-08-2023",
+    "NavPrice": 492.4168
+  },
+  {
+    "NavDate": "31-07-2023",
+    "NavPrice": 494.0329
+  },
+  {
+    "NavDate": "28-07-2023",
+    "NavPrice": 490.3967
+  },
+  {
+    "NavDate": "27-07-2023",
+    "NavPrice": 488.0352
+  },
+  {
+    "NavDate": "26-07-2023",
+    "NavPrice": 486.6652
+  },
+  {
+    "NavDate": "25-07-2023",
+    "NavPrice": 482.7371
+  },
+  {
+    "NavDate": "24-07-2023",
+    "NavPrice": 481.2048
+  },
+  {
+    "NavDate": "21-07-2023",
+    "NavPrice": 481.8981
+  },
+  {
+    "NavDate": "20-07-2023",
+    "NavPrice": 483.7496
+  },
+  {
+    "NavDate": "19-07-2023",
+    "NavPrice": 480.6417
+  },
+  {
+    "NavDate": "18-07-2023",
+    "NavPrice": 476.3157
+  },
+  {
+    "NavDate": "17-07-2023",
+    "NavPrice": 477.4228
+  },
+  {
+    "NavDate": "14-07-2023",
+    "NavPrice": 472.5808
+  },
+  {
+    "NavDate": "13-07-2023",
+    "NavPrice": 469.0467
+  },
+  {
+    "NavDate": "12-07-2023",
+    "NavPrice": 472.8072
+  },
+  {
+    "NavDate": "11-07-2023",
+    "NavPrice": 473.7208
+  },
+  {
+    "NavDate": "10-07-2023",
+    "NavPrice": 471.1914
+  },
+  {
+    "NavDate": "07-07-2023",
+    "NavPrice": 470.6604
+  },
+  {
+    "NavDate": "06-07-2023",
+    "NavPrice": 472.9681
+  },
+  {
+    "NavDate": "05-07-2023",
+    "NavPrice": 469.7958
+  },
+  {
+    "NavDate": "04-07-2023",
+    "NavPrice": 468.6484
+  },
+  {
+    "NavDate": "03-07-2023",
+    "NavPrice": 468.1525
+  },
+  {
+    "NavDate": "30-06-2023",
+    "NavPrice": 464.8939
+  },
+  {
+    "NavDate": "28-06-2023",
+    "NavPrice": 461.827
+  },
+  {
+    "NavDate": "27-06-2023",
+    "NavPrice": 459.9495
+  },
+  {
+    "NavDate": "26-06-2023",
+    "NavPrice": 456.445
+  },
+  {
+    "NavDate": "23-06-2023",
+    "NavPrice": 454.8568
+  },
+  {
+    "NavDate": "22-06-2023",
+    "NavPrice": 458.2062
+  },
+  {
+    "NavDate": "21-06-2023",
+    "NavPrice": 461.0123
+  },
+  {
+    "NavDate": "20-06-2023",
+    "NavPrice": 459.9254
+  },
+  {
+    "NavDate": "19-06-2023",
+    "NavPrice": 459.3799
+  },
+  {
+    "NavDate": "16-06-2023",
+    "NavPrice": 460.3325
+  },
+  {
+    "NavDate": "15-06-2023",
+    "NavPrice": 458.0509
+  },
+  {
+    "NavDate": "14-06-2023",
+    "NavPrice": 458.8569
+  },
+  {
+    "NavDate": "13-06-2023",
+    "NavPrice": 458.1731
+  },
+  {
+    "NavDate": "12-06-2023",
+    "NavPrice": 453.472
+  },
+  {
+    "NavDate": "09-06-2023",
+    "NavPrice": 450.8761
+  },
+  {
+    "NavDate": "08-06-2023",
+    "NavPrice": 450.2968
+  },
+  {
+    "NavDate": "07-06-2023",
+    "NavPrice": 453.2715
+  },
+  {
+    "NavDate": "06-06-2023",
+    "NavPrice": 449.0824
+  },
+  {
+    "NavDate": "05-06-2023",
+    "NavPrice": 447.1586
+  },
+  {
+    "NavDate": "02-06-2023",
+    "NavPrice": 447.1616
+  },
+  {
+    "NavDate": "01-06-2023",
+    "NavPrice": 445.7015
+  },
+  {
+    "NavDate": "31-05-2023",
+    "NavPrice": 444.9679
+  },
+  {
+    "NavDate": "30-05-2023",
+    "NavPrice": 444.8227
+  },
+  {
+    "NavDate": "29-05-2023",
+    "NavPrice": 443.7904
+  },
+  {
+    "NavDate": "26-05-2023",
+    "NavPrice": 442.5973
+  },
+  {
+    "NavDate": "25-05-2023",
+    "NavPrice": 439.2528
+  },
+  {
+    "NavDate": "24-05-2023",
+    "NavPrice": 438.8254
+  },
+  {
+    "NavDate": "23-05-2023",
+    "NavPrice": 439.6208
+  },
+  {
+    "NavDate": "22-05-2023",
+    "NavPrice": 438.6281
+  },
+  {
+    "NavDate": "19-05-2023",
+    "NavPrice": 437.3023
+  },
+  {
+    "NavDate": "18-05-2023",
+    "NavPrice": 437.0938
+  },
+  {
+    "NavDate": "17-05-2023",
+    "NavPrice": 440.7943
+  },
+  {
+    "NavDate": "16-05-2023",
+    "NavPrice": 440.9505
+  },
+  {
+    "NavDate": "15-05-2023",
+    "NavPrice": 441.1073
+  },
+  {
+    "NavDate": "12-05-2023",
+    "NavPrice": 438.3131
+  },
+  {
+    "NavDate": "11-05-2023",
+    "NavPrice": 438.9294
+  },
+  {
+    "NavDate": "10-05-2023",
+    "NavPrice": 440.44
+  },
+  {
+    "NavDate": "09-05-2023",
+    "NavPrice": 441.0171
+  },
+  {
+    "NavDate": "08-05-2023",
+    "NavPrice": 441.957
+  },
+  {
+    "NavDate": "05-05-2023",
+    "NavPrice": 439.2494
+  },
+  {
+    "NavDate": "04-05-2023",
+    "NavPrice": 443.8212
+  },
+  {
+    "NavDate": "03-05-2023",
+    "NavPrice": 441.2705
+  },
+  {
+    "NavDate": "02-05-2023",
+    "NavPrice": 441.2927
+  },
+  {
+    "NavDate": "28-04-2023",
+    "NavPrice": 439.1088
+  },
+  {
+    "NavDate": "27-04-2023",
+    "NavPrice": 432.8378
+  },
+  {
+    "NavDate": "26-04-2023",
+    "NavPrice": 430.1221
+  },
+  {
+    "NavDate": "25-04-2023",
+    "NavPrice": 428.5866
+  },
+  {
+    "NavDate": "24-04-2023",
+    "NavPrice": 427.31
+  },
+  {
+    "NavDate": "21-04-2023",
+    "NavPrice": 423.3056
+  },
+  {
+    "NavDate": "20-04-2023",
+    "NavPrice": 424.776
+  },
+  {
+    "NavDate": "19-04-2023",
+    "NavPrice": 424.7631
+  },
+  {
+    "NavDate": "18-04-2023",
+    "NavPrice": 425.4257
+  },
+  {
+    "NavDate": "17-04-2023",
+    "NavPrice": 426.5837
+  },
+  {
+    "NavDate": "13-04-2023",
+    "NavPrice": 425.2551
+  },
+  {
+    "NavDate": "12-04-2023",
+    "NavPrice": 423.3911
+  },
+  {
+    "NavDate": "11-04-2023",
+    "NavPrice": 422.7408
+  },
+  {
+    "NavDate": "10-04-2023",
+    "NavPrice": 420.4351
+  },
+  {
+    "NavDate": "06-04-2023",
+    "NavPrice": 419.7046
+  },
+  {
+    "NavDate": "05-04-2023",
+    "NavPrice": 417.2428
+  },
+  {
+    "NavDate": "03-04-2023",
+    "NavPrice": 414.0913
+  },
+  {
+    "NavDate": "31-03-2023",
+    "NavPrice": 412.9692
+  },
+  {
+    "NavDate": "29-03-2023",
+    "NavPrice": 405.6889
+  },
+  {
+    "NavDate": "28-03-2023",
+    "NavPrice": 398.841
+  },
+  {
+    "NavDate": "27-03-2023",
+    "NavPrice": 400.065
+  },
+  {
+    "NavDate": "24-03-2023",
+    "NavPrice": 402.0126
+  },
+  {
+    "NavDate": "23-03-2023",
+    "NavPrice": 406.389
+  },
+  {
+    "NavDate": "22-03-2023",
+    "NavPrice": 408.0107
+  },
+  {
+    "NavDate": "21-03-2023",
+    "NavPrice": 406.6806
+  },
+  {
+    "NavDate": "20-03-2023",
+    "NavPrice": 403.6544
+  },
+  {
+    "NavDate": "17-03-2023",
+    "NavPrice": 408.5712
+  },
+  {
+    "NavDate": "16-03-2023",
+    "NavPrice": 407.5458
+  },
+  {
+    "NavDate": "15-03-2023",
+    "NavPrice": 408.2271
+  },
+  {
+    "NavDate": "14-03-2023",
+    "NavPrice": 409.9926
+  },
+  {
+    "NavDate": "13-03-2023",
+    "NavPrice": 413.8134
+  },
+  {
+    "NavDate": "10-03-2023",
+    "NavPrice": 422.9941
+  },
+  {
+    "NavDate": "09-03-2023",
+    "NavPrice": 425.3223
+  },
+  {
+    "NavDate": "08-03-2023",
+    "NavPrice": 428.166
+  },
+  {
+    "NavDate": "06-03-2023",
+    "NavPrice": 426.7152
+  },
+  {
+    "NavDate": "03-03-2023",
+    "NavPrice": 423.7836
+  },
+  {
+    "NavDate": "02-03-2023",
+    "NavPrice": 416.9519
+  },
+  {
+    "NavDate": "01-03-2023",
+    "NavPrice": 416.7574
+  },
+  {
+    "NavDate": "28-02-2023",
+    "NavPrice": 411.5642
+  },
+  {
+    "NavDate": "27-02-2023",
+    "NavPrice": 411.8245
+  },
+  {
+    "NavDate": "24-02-2023",
+    "NavPrice": 413.6675
+  },
+  {
+    "NavDate": "23-02-2023",
+    "NavPrice": 417.6579
+  },
+  {
+    "NavDate": "22-02-2023",
+    "NavPrice": 419.9875
+  },
+  {
+    "NavDate": "21-02-2023",
+    "NavPrice": 423.0885
+  },
+  {
+    "NavDate": "20-02-2023",
+    "NavPrice": 423.4486
+  },
+  {
+    "NavDate": "17-02-2023",
+    "NavPrice": 424.093
+  },
+  {
+    "NavDate": "16-02-2023",
+    "NavPrice": 426.927
+  },
+  {
+    "NavDate": "15-02-2023",
+    "NavPrice": 424.8285
+  },
+  {
+    "NavDate": "14-02-2023",
+    "NavPrice": 422.6622
+  },
+  {
+    "NavDate": "13-02-2023",
+    "NavPrice": 420.8936
+  },
+  {
+    "NavDate": "10-02-2023",
+    "NavPrice": 424.0102
+  },
+  {
+    "NavDate": "09-02-2023",
+    "NavPrice": 422.2124
+  },
+  {
+    "NavDate": "08-02-2023",
+    "NavPrice": 422.3221
+  },
+  {
+    "NavDate": "07-02-2023",
+    "NavPrice": 420.2258
+  },
+  {
+    "NavDate": "06-02-2023",
+    "NavPrice": 421.3982
+  },
+  {
+    "NavDate": "03-02-2023",
+    "NavPrice": 420.5942
+  },
+  {
+    "NavDate": "02-02-2023",
+    "NavPrice": 419.5636
+  },
+  {
+    "NavDate": "01-02-2023",
+    "NavPrice": 419.4321
+  },
+  {
+    "NavDate": "31-01-2023",
+    "NavPrice": 433.0378
+  },
+  {
+    "NavDate": "30-01-2023",
+    "NavPrice": 423.949
+  },
+  {
+    "NavDate": "27-01-2023",
+    "NavPrice": 424.7531
+  },
+  {
+    "NavDate": "25-01-2023",
+    "NavPrice": 442.1765
+  },
+  {
+    "NavDate": "24-01-2023",
+    "NavPrice": 451.7651
+  },
+  {
+    "NavDate": "23-01-2023",
+    "NavPrice": 455.5978
+  },
+  {
+    "NavDate": "20-01-2023",
+    "NavPrice": 456.0579
+  },
+  {
+    "NavDate": "19-01-2023",
+    "NavPrice": 456.7902
+  },
+  {
+    "NavDate": "18-01-2023",
+    "NavPrice": 458.8647
+  },
+  {
+    "NavDate": "17-01-2023",
+    "NavPrice": 457.7088
+  },
+  {
+    "NavDate": "16-01-2023",
+    "NavPrice": 458.2948
+  },
+  {
+    "NavDate": "13-01-2023",
+    "NavPrice": 457.2042
+  },
+  {
+    "NavDate": "12-01-2023",
+    "NavPrice": 455.1902
+  },
+  {
+    "NavDate": "11-01-2023",
+    "NavPrice": 456.6552
+  },
+  {
+    "NavDate": "10-01-2023",
+    "NavPrice": 456.3965
+  },
+  {
+    "NavDate": "09-01-2023",
+    "NavPrice": 461.0877
+  },
+  {
+    "NavDate": "06-01-2023",
+    "NavPrice": 456.3921
+  },
+  {
+    "NavDate": "05-01-2023",
+    "NavPrice": 459.4917
+  },
+  {
+    "NavDate": "04-01-2023",
+    "NavPrice": 458.1647
+  },
+  {
+    "NavDate": "03-01-2023",
+    "NavPrice": 464.39
+  },
+  {
+    "NavDate": "02-01-2023",
+    "NavPrice": 463.0524
+  },
+  {
+    "NavDate": "30-12-2022",
+    "NavPrice": 458.5367
+  },
+  {
+    "NavDate": "29-12-2022",
+    "NavPrice": 456.5859
+  },
+  {
+    "NavDate": "28-12-2022",
+    "NavPrice": 454.104
+  },
+  {
+    "NavDate": "27-12-2022",
+    "NavPrice": 453.1322
+  },
+  {
+    "NavDate": "26-12-2022",
+    "NavPrice": 447.0757
+  },
+  {
+    "NavDate": "23-12-2022",
+    "NavPrice": 432.2888
+  },
+  {
+    "NavDate": "22-12-2022",
+    "NavPrice": 452.8286
+  },
+  {
+    "NavDate": "21-12-2022",
+    "NavPrice": 457.6791
+  },
+  {
+    "NavDate": "20-12-2022",
+    "NavPrice": 469.4595
+  },
+  {
+    "NavDate": "19-12-2022",
+    "NavPrice": 470.5933
+  },
+  {
+    "NavDate": "16-12-2022",
+    "NavPrice": 466.6317
+  },
+  {
+    "NavDate": "15-12-2022",
+    "NavPrice": 472.5638
+  },
+  {
+    "NavDate": "14-12-2022",
+    "NavPrice": 479.2129
+  },
+  {
+    "NavDate": "13-12-2022",
+    "NavPrice": 477.5368
+  },
+  {
+    "NavDate": "12-12-2022",
+    "NavPrice": 473.3293
+  },
+  {
+    "NavDate": "09-12-2022",
+    "NavPrice": 469.5076
+  },
+  {
+    "NavDate": "08-12-2022",
+    "NavPrice": 472.9486
+  },
+  {
+    "NavDate": "07-12-2022",
+    "NavPrice": 470.4715
+  },
+  {
+    "NavDate": "06-12-2022",
+    "NavPrice": 472.0921
+  },
+  {
+    "NavDate": "05-12-2022",
+    "NavPrice": 472.888
+  },
+  {
+    "NavDate": "02-12-2022",
+    "NavPrice": 470.68
+  },
+  {
+    "NavDate": "01-12-2022",
+    "NavPrice": 470.3445
+  },
+  {
+    "NavDate": "30-11-2022",
+    "NavPrice": 466.4177
+  },
+  {
+    "NavDate": "29-11-2022",
+    "NavPrice": 465.3327
+  },
+  {
+    "NavDate": "28-11-2022",
+    "NavPrice": 465.952
+  },
+  {
+    "NavDate": "25-11-2022",
+    "NavPrice": 462.8711
+  },
+  {
+    "NavDate": "24-11-2022",
+    "NavPrice": 460.0905
+  },
+  {
+    "NavDate": "23-11-2022",
+    "NavPrice": 454.7714
+  },
+  {
+    "NavDate": "22-11-2022",
+    "NavPrice": 453.0092
+  },
+  {
+    "NavDate": "21-11-2022",
+    "NavPrice": 450.1365
+  },
+  {
+    "NavDate": "18-11-2022",
+    "NavPrice": 452.8002
+  },
+  {
+    "NavDate": "17-11-2022",
+    "NavPrice": 453.0714
+  },
+  {
+    "NavDate": "16-11-2022",
+    "NavPrice": 454.9058
+  },
+  {
+    "NavDate": "15-11-2022",
+    "NavPrice": 458.1527
+  },
+  {
+    "NavDate": "14-11-2022",
+    "NavPrice": 456.6813
+  },
+  {
+    "NavDate": "11-11-2022",
+    "NavPrice": 456.3384
+  },
+  {
+    "NavDate": "10-11-2022",
+    "NavPrice": 455.2592
+  },
+  {
+    "NavDate": "09-11-2022",
+    "NavPrice": 459.5895
+  },
+  {
+    "NavDate": "07-11-2022",
+    "NavPrice": 457.1751
+  },
+  {
+    "NavDate": "04-11-2022",
+    "NavPrice": 454.1409
+  },
+  {
+    "NavDate": "03-11-2022",
+    "NavPrice": 450.7465
+  },
+  {
+    "NavDate": "02-11-2022",
+    "NavPrice": 450.2956
+  },
+  {
+    "NavDate": "01-11-2022",
+    "NavPrice": 449.9758
+  },
+  {
+    "NavDate": "31-10-2022",
+    "NavPrice": 449.0175
+  },
+  {
+    "NavDate": "28-10-2022",
+    "NavPrice": 444.9485
+  },
+  {
+    "NavDate": "27-10-2022",
+    "NavPrice": 446.4745
+  },
+  {
+    "NavDate": "25-10-2022",
+    "NavPrice": 443.2338
+  },
+  {
+    "NavDate": "21-10-2022",
+    "NavPrice": 441.2413
+  },
+  {
+    "NavDate": "20-10-2022",
+    "NavPrice": 444.2642
+  },
+  {
+    "NavDate": "19-10-2022",
+    "NavPrice": 441.2333
+  },
+  {
+    "NavDate": "18-10-2022",
+    "NavPrice": 440.986
+  },
+  {
+    "NavDate": "17-10-2022",
+    "NavPrice": 436.6482
+  },
+  {
+    "NavDate": "14-10-2022",
+    "NavPrice": 432.3336
+  },
+  {
+    "NavDate": "13-10-2022",
+    "NavPrice": 431.0904
+  },
+  {
+    "NavDate": "12-10-2022",
+    "NavPrice": 435.079
+  },
+  {
+    "NavDate": "11-10-2022",
+    "NavPrice": 431.9516
+  },
+  {
+    "NavDate": "10-10-2022",
+    "NavPrice": 440.3616
+  },
+  {
+    "NavDate": "07-10-2022",
+    "NavPrice": 442.9235
+  },
+  {
+    "NavDate": "06-10-2022",
+    "NavPrice": 442.8327
+  },
+  {
+    "NavDate": "04-10-2022",
+    "NavPrice": 436.2376
+  },
+  {
+    "NavDate": "03-10-2022",
+    "NavPrice": 426.2409
+  },
+  {
+    "NavDate": "30-09-2022",
+    "NavPrice": 435.4204
+  },
+  {
+    "NavDate": "29-09-2022",
+    "NavPrice": 428.6589
+  },
+  {
+    "NavDate": "28-09-2022",
+    "NavPrice": 425.9595
+  },
+  {
+    "NavDate": "27-09-2022",
+    "NavPrice": 431.0305
+  },
+  {
+    "NavDate": "26-09-2022",
+    "NavPrice": 431.3278
+  },
+  {
+    "NavDate": "23-09-2022",
+    "NavPrice": 447.9779
+  },
+  {
+    "NavDate": "22-09-2022",
+    "NavPrice": 455.7871
+  },
+  {
+    "NavDate": "21-09-2022",
+    "NavPrice": 456.6483
+  },
+  {
+    "NavDate": "20-09-2022",
+    "NavPrice": 461.1044
+  },
+  {
+    "NavDate": "19-09-2022",
+    "NavPrice": 456.339
+  },
+  {
+    "NavDate": "16-09-2022",
+    "NavPrice": 450.0857
+  },
+  {
+    "NavDate": "15-09-2022",
+    "NavPrice": 461.7917
+  },
+  {
+    "NavDate": "14-09-2022",
+    "NavPrice": 458.666
+  },
+  {
+    "NavDate": "13-09-2022",
+    "NavPrice": 452.4197
+  },
+  {
+    "NavDate": "12-09-2022",
+    "NavPrice": 449.7435
+  },
+  {
+    "NavDate": "09-09-2022",
+    "NavPrice": 445.7497
+  },
+  {
+    "NavDate": "08-09-2022",
+    "NavPrice": 445.7158
+  },
+  {
+    "NavDate": "07-09-2022",
+    "NavPrice": 442.6242
+  },
+  {
+    "NavDate": "06-09-2022",
+    "NavPrice": 440.038
+  },
+  {
+    "NavDate": "05-09-2022",
+    "NavPrice": 438.7297
+  },
+  {
+    "NavDate": "02-09-2022",
+    "NavPrice": 434.6504
+  },
+  {
+    "NavDate": "01-09-2022",
+    "NavPrice": 432.1281
+  },
+  {
+    "NavDate": "30-08-2022",
+    "NavPrice": 432.5009
+  },
+  {
+    "NavDate": "29-08-2022",
+    "NavPrice": 425.5544
+  },
+  {
+    "NavDate": "26-08-2022",
+    "NavPrice": 427.4721
+  },
+  {
+    "NavDate": "25-08-2022",
+    "NavPrice": 424.1415
+  },
+  {
+    "NavDate": "24-08-2022",
+    "NavPrice": 426.4273
+  },
+  {
+    "NavDate": "23-08-2022",
+    "NavPrice": 422.9413
+  },
+  {
+    "NavDate": "22-08-2022",
+    "NavPrice": 419.3961
+  },
+  {
+    "NavDate": "19-08-2022",
+    "NavPrice": 425.6255
+  },
+  {
+    "NavDate": "18-08-2022",
+    "NavPrice": 426.4398
+  },
+  {
+    "NavDate": "17-08-2022",
+    "NavPrice": 425.0967
+  },
+  {
+    "NavDate": "16-08-2022",
+    "NavPrice": 423.6448
+  },
+  {
+    "NavDate": "12-08-2022",
+    "NavPrice": 420.5312
+  },
+  {
+    "NavDate": "11-08-2022",
+    "NavPrice": 418.5177
+  },
+  {
+    "NavDate": "10-08-2022",
+    "NavPrice": 416.9533
+  },
+  {
+    "NavDate": "08-08-2022",
+    "NavPrice": 419.2355
+  },
+  {
+    "NavDate": "05-08-2022",
+    "NavPrice": 414.525
+  },
+  {
+    "NavDate": "04-08-2022",
+    "NavPrice": 413.1156
+  },
+  {
+    "NavDate": "03-08-2022",
+    "NavPrice": 414.6988
+  },
+  {
+    "NavDate": "02-08-2022",
+    "NavPrice": 416.2977
+  },
+  {
+    "NavDate": "01-08-2022",
+    "NavPrice": 416.3724
+  },
+  {
+    "NavDate": "29-07-2022",
+    "NavPrice": 410.8752
+  },
+  {
+    "NavDate": "28-07-2022",
+    "NavPrice": 406.665
+  },
+  {
+    "NavDate": "27-07-2022",
+    "NavPrice": 405.3684
+  },
+  {
+    "NavDate": "26-07-2022",
+    "NavPrice": 401.6512
+  },
+  {
+    "NavDate": "25-07-2022",
+    "NavPrice": 404.1139
+  },
+  {
+    "NavDate": "22-07-2022",
+    "NavPrice": 404.846
+  },
+  {
+    "NavDate": "21-07-2022",
+    "NavPrice": 402.7675
+  },
+  {
+    "NavDate": "20-07-2022",
+    "NavPrice": 397.037
+  },
+  {
+    "NavDate": "19-07-2022",
+    "NavPrice": 395.1363
+  },
+  {
+    "NavDate": "18-07-2022",
+    "NavPrice": 393.6394
+  },
+  {
+    "NavDate": "15-07-2022",
+    "NavPrice": 387.2571
+  },
+  {
+    "NavDate": "14-07-2022",
+    "NavPrice": 385.6373
+  },
+  {
+    "NavDate": "13-07-2022",
+    "NavPrice": 386.3989
+  },
+  {
+    "NavDate": "12-07-2022",
+    "NavPrice": 387.135
+  },
+  {
+    "NavDate": "11-07-2022",
+    "NavPrice": 388.5625
+  },
+  {
+    "NavDate": "08-07-2022",
+    "NavPrice": 385.2343
+  },
+  {
+    "NavDate": "07-07-2022",
+    "NavPrice": 383.4928
+  },
+  {
+    "NavDate": "06-07-2022",
+    "NavPrice": 377.6455
+  },
+  {
+    "NavDate": "05-07-2022",
+    "NavPrice": 374.5004
+  },
+  {
+    "NavDate": "04-07-2022",
+    "NavPrice": 375.6628
+  },
+  {
+    "NavDate": "01-07-2022",
+    "NavPrice": 372.6963
+  },
+  {
+    "NavDate": "30-06-2022",
+    "NavPrice": 372.2802
+  },
+  {
+    "NavDate": "29-06-2022",
+    "NavPrice": 374.7966
+  },
+  {
+    "NavDate": "28-06-2022",
+    "NavPrice": 375.1982
+  },
+  {
+    "NavDate": "27-06-2022",
+    "NavPrice": 372.8533
+  },
+  {
+    "NavDate": "24-06-2022",
+    "NavPrice": 368.3041
+  },
+  {
+    "NavDate": "23-06-2022",
+    "NavPrice": 362.3185
+  },
+  {
+    "NavDate": "22-06-2022",
+    "NavPrice": 359.0479
+  },
+  {
+    "NavDate": "21-06-2022",
+    "NavPrice": 366.5313
+  },
+  {
+    "NavDate": "20-06-2022",
+    "NavPrice": 354.7239
+  },
+  {
+    "NavDate": "17-06-2022",
+    "NavPrice": 364.406
+  },
+  {
+    "NavDate": "16-06-2022",
+    "NavPrice": 367.2114
+  },
+  {
+    "NavDate": "15-06-2022",
+    "NavPrice": 378.8973
+  },
+  {
+    "NavDate": "14-06-2022",
+    "NavPrice": 379.2083
+  },
+  {
+    "NavDate": "13-06-2022",
+    "NavPrice": 378.4981
+  },
+  {
+    "NavDate": "10-06-2022",
+    "NavPrice": 392.0808
+  },
+  {
+    "NavDate": "09-06-2022",
+    "NavPrice": 394.8678
+  },
+  {
+    "NavDate": "08-06-2022",
+    "NavPrice": 393.0355
+  },
+  {
+    "NavDate": "07-06-2022",
+    "NavPrice": 393.4052
+  },
+  {
+    "NavDate": "06-06-2022",
+    "NavPrice": 396.2892
+  },
+  {
+    "NavDate": "03-06-2022",
+    "NavPrice": 396.0428
+  },
+  {
+    "NavDate": "02-06-2022",
+    "NavPrice": 400.0785
+  },
+  {
+    "NavDate": "01-06-2022",
+    "NavPrice": 396.9254
+  },
+  {
+    "NavDate": "31-05-2022",
+    "NavPrice": 396.1791
+  },
+  {
+    "NavDate": "30-05-2022",
+    "NavPrice": 396.1339
+  },
+  {
+    "NavDate": "27-05-2022",
+    "NavPrice": 389.4526
+  },
+  {
+    "NavDate": "26-05-2022",
+    "NavPrice": 387.9559
+  },
+  {
+    "NavDate": "25-05-2022",
+    "NavPrice": 383.4327
+  },
+  {
+    "NavDate": "24-05-2022",
+    "NavPrice": 391.3117
+  },
+  {
+    "NavDate": "23-05-2022",
+    "NavPrice": 395.3917
+  },
+  {
+    "NavDate": "20-05-2022",
+    "NavPrice": 401.2575
+  },
+  {
+    "NavDate": "19-05-2022",
+    "NavPrice": 387.8922
+  },
+  {
+    "NavDate": "18-05-2022",
+    "NavPrice": 396.3709
+  },
+  {
+    "NavDate": "17-05-2022",
+    "NavPrice": 394.7612
+  },
+  {
+    "NavDate": "16-05-2022",
+    "NavPrice": 380.7133
+  },
+  {
+    "NavDate": "13-05-2022",
+    "NavPrice": 375.7065
+  },
+  {
+    "NavDate": "12-05-2022",
+    "NavPrice": 375.9686
+  },
+  {
+    "NavDate": "11-05-2022",
+    "NavPrice": 383.3116
+  },
+  {
+    "NavDate": "10-05-2022",
+    "NavPrice": 391.6367
+  },
+  {
+    "NavDate": "09-05-2022",
+    "NavPrice": 401.5198
+  },
+  {
+    "NavDate": "06-05-2022",
+    "NavPrice": 408.8951
+  },
+  {
+    "NavDate": "05-05-2022",
+    "NavPrice": 413.3193
+  },
+  {
+    "NavDate": "04-05-2022",
+    "NavPrice": 411.389
+  },
+  {
+    "NavDate": "02-05-2022",
+    "NavPrice": 425.3833
+  },
+  {
+    "NavDate": "29-04-2022",
+    "NavPrice": 426.1999
+  },
+  {
+    "NavDate": "28-04-2022",
+    "NavPrice": 430.7438
+  },
+  {
+    "NavDate": "27-04-2022",
+    "NavPrice": 430.4459
+  },
+  {
+    "NavDate": "26-04-2022",
+    "NavPrice": 432.801
+  },
+  {
+    "NavDate": "25-04-2022",
+    "NavPrice": 424.4049
+  },
+  {
+    "NavDate": "22-04-2022",
+    "NavPrice": 434.3617
+  },
+  {
+    "NavDate": "21-04-2022",
+    "NavPrice": 439.6769
+  },
+  {
+    "NavDate": "20-04-2022",
+    "NavPrice": 432.7994
+  },
+  {
+    "NavDate": "19-04-2022",
+    "NavPrice": 432.786
+  },
+  {
+    "NavDate": "18-04-2022",
+    "NavPrice": 438.348
+  },
+  {
+    "NavDate": "13-04-2022",
+    "NavPrice": 442.7291
+  },
+  {
+    "NavDate": "12-04-2022",
+    "NavPrice": 441.7512
+  },
+  {
+    "NavDate": "11-04-2022",
+    "NavPrice": 448.6063
+  },
+  {
+    "NavDate": "08-04-2022",
+    "NavPrice": 446.4141
+  },
+  {
+    "NavDate": "07-04-2022",
+    "NavPrice": 438.6812
+  },
+  {
+    "NavDate": "06-04-2022",
+    "NavPrice": 442.4704
+  },
+  {
+    "NavDate": "05-04-2022",
+    "NavPrice": 440.145
+  },
+  {
+    "NavDate": "04-04-2022",
+    "NavPrice": 439.5755
+  },
+  {
+    "NavDate": "01-04-2022",
+    "NavPrice": 433.6629
+  },
+  {
+    "NavDate": "31-03-2022",
+    "NavPrice": 426.6344
+  },
+  {
+    "NavDate": "30-03-2022",
+    "NavPrice": 423.8589
+  },
+  {
+    "NavDate": "29-03-2022",
+    "NavPrice": 421.1543
+  },
+  {
+    "NavDate": "28-03-2022",
+    "NavPrice": 417.0388
+  },
+  {
+    "NavDate": "25-03-2022",
+    "NavPrice": 416.8981
+  },
+  {
+    "NavDate": "24-03-2022",
+    "NavPrice": 416.9754
+  },
+  {
+    "NavDate": "23-03-2022",
+    "NavPrice": 411.3505
+  },
+  {
+    "NavDate": "22-03-2022",
+    "NavPrice": 410.4933
+  },
+  {
+    "NavDate": "21-03-2022",
+    "NavPrice": 408.0846
+  },
+  {
+    "NavDate": "17-03-2022",
+    "NavPrice": 406.249
+  },
+  {
+    "NavDate": "16-03-2022",
+    "NavPrice": 400.4542
+  },
+  {
+    "NavDate": "15-03-2022",
+    "NavPrice": 393.5116
+  },
+  {
+    "NavDate": "14-03-2022",
+    "NavPrice": 396.5978
+  },
+  {
+    "NavDate": "11-03-2022",
+    "NavPrice": 395.735
+  },
+  {
+    "NavDate": "10-03-2022",
+    "NavPrice": 394.1399
+  },
+  {
+    "NavDate": "09-03-2022",
+    "NavPrice": 390.4001
+  },
+  {
+    "NavDate": "08-03-2022",
+    "NavPrice": 381.3427
+  },
+  {
+    "NavDate": "07-03-2022",
+    "NavPrice": 377.5451
+  },
+  {
+    "NavDate": "04-03-2022",
+    "NavPrice": 385.2676
+  },
+  {
+    "NavDate": "03-03-2022",
+    "NavPrice": 393.0178
+  },
+  {
+    "NavDate": "02-03-2022",
+    "NavPrice": 390.8973
+  },
+  {
+    "NavDate": "28-02-2022",
+    "NavPrice": 391.4625
+  },
+  {
+    "NavDate": "25-02-2022",
+    "NavPrice": 385.9967
+  },
+  {
+    "NavDate": "24-02-2022",
+    "NavPrice": 372.2561
+  },
+  {
+    "NavDate": "23-02-2022",
+    "NavPrice": 393.8168
+  },
+  {
+    "NavDate": "22-02-2022",
+    "NavPrice": 391.9184
+  },
+  {
+    "NavDate": "21-02-2022",
+    "NavPrice": 398.4255
+  },
+  {
+    "NavDate": "18-02-2022",
+    "NavPrice": 406.3437
+  },
+  {
+    "NavDate": "17-02-2022",
+    "NavPrice": 409.4148
+  },
+  {
+    "NavDate": "16-02-2022",
+    "NavPrice": 411.8206
+  },
+  {
+    "NavDate": "15-02-2022",
+    "NavPrice": 412.5381
+  },
+  {
+    "NavDate": "14-02-2022",
+    "NavPrice": 401.8845
+  },
+  {
+    "NavDate": "11-02-2022",
+    "NavPrice": 419.5163
+  },
+  {
+    "NavDate": "10-02-2022",
+    "NavPrice": 426.0843
+  },
+  {
+    "NavDate": "09-02-2022",
+    "NavPrice": 424.5122
+  },
+  {
+    "NavDate": "08-02-2022",
+    "NavPrice": 419.8725
+  },
+  {
+    "NavDate": "07-02-2022",
+    "NavPrice": 423.7273
+  },
+  {
+    "NavDate": "04-02-2022",
+    "NavPrice": 427.7644
+  },
+  {
+    "NavDate": "03-02-2022",
+    "NavPrice": 427.5728
+  },
+  {
+    "NavDate": "02-02-2022",
+    "NavPrice": 428.4422
+  },
+  {
+    "NavDate": "01-02-2022",
+    "NavPrice": 422.8097
+  },
+  {
+    "NavDate": "31-01-2022",
+    "NavPrice": 416.2018
+  },
+  {
+    "NavDate": "28-01-2022",
+    "NavPrice": 412.4476
+  },
+  {
+    "NavDate": "27-01-2022",
+    "NavPrice": 409.6557
+  },
+  {
+    "NavDate": "25-01-2022",
+    "NavPrice": 411.1879
+  },
+  {
+    "NavDate": "24-01-2022",
+    "NavPrice": 403.9729
+  },
+  {
+    "NavDate": "21-01-2022",
+    "NavPrice": 421.6725
+  },
+  {
+    "NavDate": "20-01-2022",
+    "NavPrice": 427.2569
+  },
+  {
+    "NavDate": "19-01-2022",
+    "NavPrice": 428.0654
+  },
+  {
+    "NavDate": "18-01-2022",
+    "NavPrice": 429.2541
+  },
+  {
+    "NavDate": "17-01-2022",
+    "NavPrice": 436.6717
+  },
+  {
+    "NavDate": "14-01-2022",
+    "NavPrice": 436.0684
+  },
+  {
+    "NavDate": "13-01-2022",
+    "NavPrice": 433.6514
+  },
+  {
+    "NavDate": "12-01-2022",
+    "NavPrice": 431.137
+  },
+  {
+    "NavDate": "11-01-2022",
+    "NavPrice": 426.9969
+  },
+  {
+    "NavDate": "10-01-2022",
+    "NavPrice": 428.2887
+  },
+  {
+    "NavDate": "07-01-2022",
+    "NavPrice": 422.3439
+  },
+  {
+    "NavDate": "06-01-2022",
+    "NavPrice": 420.8047
+  },
+  {
+    "NavDate": "05-01-2022",
+    "NavPrice": 421.7094
+  },
+  {
+    "NavDate": "04-01-2022",
+    "NavPrice": 420.9308
+  },
+  {
+    "NavDate": "03-01-2022",
+    "NavPrice": 420.9773
+  },
+  {
+    "NavDate": "31-12-2021",
+    "NavPrice": 415.2009
+  },
+  {
+    "NavDate": "30-12-2021",
+    "NavPrice": 411.2734
+  },
+  {
+    "NavDate": "29-12-2021",
+    "NavPrice": 413.5625
+  },
+  {
+    "NavDate": "28-12-2021",
+    "NavPrice": 414.5226
+  },
+  {
+    "NavDate": "27-12-2021",
+    "NavPrice": 409.0518
+  },
+  {
+    "NavDate": "24-12-2021",
+    "NavPrice": 408.5464
+  },
+  {
+    "NavDate": "23-12-2021",
+    "NavPrice": 410.9676
+  },
+  {
+    "NavDate": "22-12-2021",
+    "NavPrice": 407.0025
+  },
+  {
+    "NavDate": "21-12-2021",
+    "NavPrice": 400.7761
+  },
+  {
+    "NavDate": "20-12-2021",
+    "NavPrice": 394.3788
+  },
+  {
+    "NavDate": "17-12-2021",
+    "NavPrice": 406.8944
+  },
+  {
+    "NavDate": "16-12-2021",
+    "NavPrice": 419.4511
+  },
+  {
+    "NavDate": "15-12-2021",
+    "NavPrice": 421.2629
+  },
+  {
+    "NavDate": "14-12-2021",
+    "NavPrice": 425.0774
+  },
+  {
+    "NavDate": "13-12-2021",
+    "NavPrice": 427.2367
+  },
+  {
+    "NavDate": "10-12-2021",
+    "NavPrice": 427.0369
+  },
+  {
+    "NavDate": "09-12-2021",
+    "NavPrice": 423.8505
+  },
+  {
+    "NavDate": "08-12-2021",
+    "NavPrice": 419.7246
+  },
+  {
+    "NavDate": "07-12-2021",
+    "NavPrice": 414.6773
+  },
+  {
+    "NavDate": "06-12-2021",
+    "NavPrice": 407.6491
+  },
+  {
+    "NavDate": "03-12-2021",
+    "NavPrice": 415.1968
+  },
+  {
+    "NavDate": "02-12-2021",
+    "NavPrice": 417.1599
+  },
+  {
+    "NavDate": "01-12-2021",
+    "NavPrice": 415.0315
+  },
+  {
+    "NavDate": "30-11-2021",
+    "NavPrice": 408.1606
+  },
+  {
+    "NavDate": "29-11-2021",
+    "NavPrice": 409.9643
+  },
+  {
+    "NavDate": "26-11-2021",
+    "NavPrice": 415.2055
+  },
+  {
+    "NavDate": "25-11-2021",
+    "NavPrice": 427.2963
+  },
+  {
+    "NavDate": "24-11-2021",
+    "NavPrice": 420.9557
+  },
+  {
+    "NavDate": "23-11-2021",
+    "NavPrice": 421.5528
+  },
+  {
+    "NavDate": "22-11-2021",
+    "NavPrice": 412.5738
+  },
+  {
+    "NavDate": "18-11-2021",
+    "NavPrice": 421.2686
+  },
+  {
+    "NavDate": "17-11-2021",
+    "NavPrice": 425.3877
+  },
+  {
+    "NavDate": "16-11-2021",
+    "NavPrice": 425.867
+  },
+  {
+    "NavDate": "15-11-2021",
+    "NavPrice": 426.5662
+  },
+  {
+    "NavDate": "12-11-2021",
+    "NavPrice": 427.4882
+  },
+  {
+    "NavDate": "11-11-2021",
+    "NavPrice": 423.7061
+  },
+  {
+    "NavDate": "10-11-2021",
+    "NavPrice": 427.2801
+  },
+  {
+    "NavDate": "09-11-2021",
+    "NavPrice": 428.824
+  },
+  {
+    "NavDate": "08-11-2021",
+    "NavPrice": 424.0977
+  },
+  {
+    "NavDate": "03-11-2021",
+    "NavPrice": 416.4317
+  },
+  {
+    "NavDate": "02-11-2021",
+    "NavPrice": 416.9121
+  },
+  {
+    "NavDate": "01-11-2021",
+    "NavPrice": 412.3075
+  },
+  {
+    "NavDate": "29-10-2021",
+    "NavPrice": 405.5452
+  },
+  {
+    "NavDate": "28-10-2021",
+    "NavPrice": 405.9522
+  },
+  {
+    "NavDate": "27-10-2021",
+    "NavPrice": 419.1956
+  },
+  {
+    "NavDate": "26-10-2021",
+    "NavPrice": 419.4008
+  },
+  {
+    "NavDate": "25-10-2021",
+    "NavPrice": 411.1325
+  },
+  {
+    "NavDate": "22-10-2021",
+    "NavPrice": 416.4211
+  },
+  {
+    "NavDate": "21-10-2021",
+    "NavPrice": 421.3323
+  },
+  {
+    "NavDate": "20-10-2021",
+    "NavPrice": 422.6803
+  },
+  {
+    "NavDate": "19-10-2021",
+    "NavPrice": 428.6608
+  },
+  {
+    "NavDate": "18-10-2021",
+    "NavPrice": 437.3117
+  },
+  {
+    "NavDate": "14-10-2021",
+    "NavPrice": 431.6127
+  },
+  {
+    "NavDate": "13-10-2021",
+    "NavPrice": 424.3979
+  },
+  {
+    "NavDate": "12-10-2021",
+    "NavPrice": 419.7616
+  },
+  {
+    "NavDate": "11-10-2021",
+    "NavPrice": 416.8753
+  },
+  {
+    "NavDate": "08-10-2021",
+    "NavPrice": 412.7823
+  },
+  {
+    "NavDate": "07-10-2021",
+    "NavPrice": 411.7057
+  },
+  {
+    "NavDate": "06-10-2021",
+    "NavPrice": 407.2711
+  },
+  {
+    "NavDate": "05-10-2021",
+    "NavPrice": 413.934
+  },
+  {
+    "NavDate": "04-10-2021",
+    "NavPrice": 412.4177
+  },
+  {
+    "NavDate": "01-10-2021",
+    "NavPrice": 404.5385
+  },
+  {
+    "NavDate": "30-09-2021",
+    "NavPrice": 404.076
+  },
+  {
+    "NavDate": "29-09-2021",
+    "NavPrice": 404.5813
+  },
+  {
+    "NavDate": "28-09-2021",
+    "NavPrice": 403.4293
+  },
+  {
+    "NavDate": "27-09-2021",
+    "NavPrice": 406.352
+  },
+  {
+    "NavDate": "24-09-2021",
+    "NavPrice": 406.6033
+  },
+  {
+    "NavDate": "23-09-2021",
+    "NavPrice": 409.661
+  },
+  {
+    "NavDate": "22-09-2021",
+    "NavPrice": 403.1128
+  },
+  {
+    "NavDate": "21-09-2021",
+    "NavPrice": 397.9341
+  },
+  {
+    "NavDate": "20-09-2021",
+    "NavPrice": 393.4964
+  },
+  {
+    "NavDate": "17-09-2021",
+    "NavPrice": 401.8896
+  },
+  {
+    "NavDate": "16-09-2021",
+    "NavPrice": 407.8981
+  },
+  {
+    "NavDate": "15-09-2021",
+    "NavPrice": 404.4779
+  },
+  {
+    "NavDate": "14-09-2021",
+    "NavPrice": 402.656
+  },
+  {
+    "NavDate": "13-09-2021",
+    "NavPrice": 399.9032
+  },
+  {
+    "NavDate": "09-09-2021",
+    "NavPrice": 397.1275
+  },
+  {
+    "NavDate": "08-09-2021",
+    "NavPrice": 396.9296
+  },
+  {
+    "NavDate": "07-09-2021",
+    "NavPrice": 395.1806
+  },
+  {
+    "NavDate": "06-09-2021",
+    "NavPrice": 397.911
+  },
+  {
+    "NavDate": "03-09-2021",
+    "NavPrice": 394.6679
+  },
+  {
+    "NavDate": "02-09-2021",
+    "NavPrice": 389.3955
+  },
+  {
+    "NavDate": "01-09-2021",
+    "NavPrice": 386.7709
+  },
+  {
+    "NavDate": "31-08-2021",
+    "NavPrice": 386.1517
+  },
+  {
+    "NavDate": "30-08-2021",
+    "NavPrice": 384.8324
+  },
+  {
+    "NavDate": "27-08-2021",
+    "NavPrice": 379.7865
+  },
+  {
+    "NavDate": "26-08-2021",
+    "NavPrice": 375.9242
+  },
+  {
+    "NavDate": "25-08-2021",
+    "NavPrice": 378.0635
+  },
+  {
+    "NavDate": "24-08-2021",
+    "NavPrice": 373.771
+  },
+  {
+    "NavDate": "23-08-2021",
+    "NavPrice": 365.4186
+  },
+  {
+    "NavDate": "20-08-2021",
+    "NavPrice": 368.7107
+  },
+  {
+    "NavDate": "18-08-2021",
+    "NavPrice": 376.5211
+  },
+  {
+    "NavDate": "17-08-2021",
+    "NavPrice": 378.3913
+  },
+  {
+    "NavDate": "16-08-2021",
+    "NavPrice": 383.7121
+  },
+  {
+    "NavDate": "13-08-2021",
+    "NavPrice": 382.2826
+  },
+  {
+    "NavDate": "12-08-2021",
+    "NavPrice": 383.4117
+  },
+  {
+    "NavDate": "11-08-2021",
+    "NavPrice": 378.0203
+  },
+  {
+    "NavDate": "10-08-2021",
+    "NavPrice": 375.4476
+  },
+  {
+    "NavDate": "09-08-2021",
+    "NavPrice": 383.989
+  },
+  {
+    "NavDate": "06-08-2021",
+    "NavPrice": 388.6803
+  },
+  {
+    "NavDate": "05-08-2021",
+    "NavPrice": 389.3676
+  },
+  {
+    "NavDate": "04-08-2021",
+    "NavPrice": 390.7053
+  },
+  {
+    "NavDate": "03-08-2021",
+    "NavPrice": 393.052
+  },
+  {
+    "NavDate": "02-08-2021",
+    "NavPrice": 390.8818
+  },
+  {
+    "NavDate": "30-07-2021",
+    "NavPrice": 385.2861
+  },
+  {
+    "NavDate": "29-07-2021",
+    "NavPrice": 383.0764
+  },
+  {
+    "NavDate": "28-07-2021",
+    "NavPrice": 379.9181
+  },
+  {
+    "NavDate": "27-07-2021",
+    "NavPrice": 380.0107
+  },
+  {
+    "NavDate": "26-07-2021",
+    "NavPrice": 379.3912
+  },
+  {
+    "NavDate": "23-07-2021",
+    "NavPrice": 376.63
+  },
+  {
+    "NavDate": "22-07-2021",
+    "NavPrice": 374.7438
+  },
+  {
+    "NavDate": "20-07-2021",
+    "NavPrice": 369.691
+  },
+  {
+    "NavDate": "19-07-2021",
+    "NavPrice": 374.8042
+  },
+  {
+    "NavDate": "16-07-2021",
+    "NavPrice": 374.4988
+  },
+  {
+    "NavDate": "15-07-2021",
+    "NavPrice": 372.456
+  },
+  {
+    "NavDate": "14-07-2021",
+    "NavPrice": 371.3086
+  },
+  {
+    "NavDate": "13-07-2021",
+    "NavPrice": 369.3207
+  },
+  {
+    "NavDate": "12-07-2021",
+    "NavPrice": 367.8874
+  },
+  {
+    "NavDate": "09-07-2021",
+    "NavPrice": 365.7876
+  },
+  {
+    "NavDate": "08-07-2021",
+    "NavPrice": 363.779
+  },
+  {
+    "NavDate": "07-07-2021",
+    "NavPrice": 367.2077
+  },
+  {
+    "NavDate": "06-07-2021",
+    "NavPrice": 365.3512
+  },
+  {
+    "NavDate": "05-07-2021",
+    "NavPrice": 366.3791
+  },
+  {
+    "NavDate": "02-07-2021",
+    "NavPrice": 361.425
+  },
+  {
+    "NavDate": "01-07-2021",
+    "NavPrice": 359.4057
+  },
+  {
+    "NavDate": "30-06-2021",
+    "NavPrice": 359.1634
+  },
+  {
+    "NavDate": "29-06-2021",
+    "NavPrice": 358.9995
+  },
+  {
+    "NavDate": "28-06-2021",
+    "NavPrice": 360.1143
+  },
+  {
+    "NavDate": "25-06-2021",
+    "NavPrice": 360.4647
+  },
+  {
+    "NavDate": "24-06-2021",
+    "NavPrice": 355.3217
+  },
+  {
+    "NavDate": "23-06-2021",
+    "NavPrice": 356.4681
+  },
+  {
+    "NavDate": "22-06-2021",
+    "NavPrice": 356.5676
+  },
+  {
+    "NavDate": "21-06-2021",
+    "NavPrice": 355.3305
+  },
+  {
+    "NavDate": "18-06-2021",
+    "NavPrice": 352.523
+  },
+  {
+    "NavDate": "17-06-2021",
+    "NavPrice": 355.5853
+  },
+  {
+    "NavDate": "16-06-2021",
+    "NavPrice": 360.1638
+  },
+  {
+    "NavDate": "15-06-2021",
+    "NavPrice": 361.1063
+  },
+  {
+    "NavDate": "14-06-2021",
+    "NavPrice": 361.4112
+  },
+  {
+    "NavDate": "11-06-2021",
+    "NavPrice": 362.5209
+  },
+  {
+    "NavDate": "10-06-2021",
+    "NavPrice": 360.1352
+  },
+  {
+    "NavDate": "09-06-2021",
+    "NavPrice": 356.387
+  },
+  {
+    "NavDate": "08-06-2021",
+    "NavPrice": 360.426
+  },
+  {
+    "NavDate": "07-06-2021",
+    "NavPrice": 361.4721
+  },
+  {
+    "NavDate": "04-06-2021",
+    "NavPrice": 357.5439
+  },
+  {
+    "NavDate": "03-06-2021",
+    "NavPrice": 357.1514
+  },
+  {
+    "NavDate": "02-06-2021",
+    "NavPrice": 355.39
+  },
+  {
+    "NavDate": "01-06-2021",
+    "NavPrice": 354.5447
+  },
+  {
+    "NavDate": "31-05-2021",
+    "NavPrice": 356.6487
+  },
+  {
+    "NavDate": "28-05-2021",
+    "NavPrice": 353.7141
+  },
+  {
+    "NavDate": "27-05-2021",
+    "NavPrice": 352.6632
+  },
+  {
+    "NavDate": "26-05-2021",
+    "NavPrice": 351.2468
+  },
+  {
+    "NavDate": "25-05-2021",
+    "NavPrice": 351.0048
+  },
+  {
+    "NavDate": "24-05-2021",
+    "NavPrice": 351.4714
+  },
+  {
+    "NavDate": "21-05-2021",
+    "NavPrice": 350.1999
+  },
+  {
+    "NavDate": "20-05-2021",
+    "NavPrice": 348.3876
+  },
+  {
+    "NavDate": "19-05-2021",
+    "NavPrice": 349.0781
+  },
+  {
+    "NavDate": "18-05-2021",
+    "NavPrice": 349.3207
+  },
+  {
+    "NavDate": "17-05-2021",
+    "NavPrice": 346.5588
+  },
+  {
+    "NavDate": "14-05-2021",
+    "NavPrice": 343.6998
+  },
+  {
+    "NavDate": "12-05-2021",
+    "NavPrice": 348.4169
+  },
+  {
+    "NavDate": "11-05-2021",
+    "NavPrice": 353.0744
+  },
+  {
+    "NavDate": "10-05-2021",
+    "NavPrice": 351.4281
+  },
+  {
+    "NavDate": "07-05-2021",
+    "NavPrice": 345.3118
+  },
+  {
+    "NavDate": "06-05-2021",
+    "NavPrice": 339.7011
+  },
+  {
+    "NavDate": "05-05-2021",
+    "NavPrice": 336.1454
+  },
+  {
+    "NavDate": "04-05-2021",
+    "NavPrice": 331.009
+  },
+  {
+    "NavDate": "03-05-2021",
+    "NavPrice": 332.0953
+  },
+  {
+    "NavDate": "30-04-2021",
+    "NavPrice": 327.1001
+  },
+  {
+    "NavDate": "29-04-2021",
+    "NavPrice": 327.0622
+  },
+  {
+    "NavDate": "28-04-2021",
+    "NavPrice": 326.7439
+  },
+  {
+    "NavDate": "27-04-2021",
+    "NavPrice": 322.3181
+  },
+  {
+    "NavDate": "26-04-2021",
+    "NavPrice": 317.3442
+  },
+  {
+    "NavDate": "23-04-2021",
+    "NavPrice": 315.2187
+  },
+  {
+    "NavDate": "22-04-2021",
+    "NavPrice": 315.7656
+  },
+  {
+    "NavDate": "20-04-2021",
+    "NavPrice": 313.1154
+  },
+  {
+    "NavDate": "19-04-2021",
+    "NavPrice": 311.73
+  },
+  {
+    "NavDate": "16-04-2021",
+    "NavPrice": 317.0113
+  },
+  {
+    "NavDate": "15-04-2021",
+    "NavPrice": 312.6782
+  },
+  {
+    "NavDate": "13-04-2021",
+    "NavPrice": 312.8047
+  },
+  {
+    "NavDate": "12-04-2021",
+    "NavPrice": 309.9407
+  },
+  {
+    "NavDate": "09-04-2021",
+    "NavPrice": 320.3335
+  },
+  {
+    "NavDate": "08-04-2021",
+    "NavPrice": 318.2094
+  },
+  {
+    "NavDate": "07-04-2021",
+    "NavPrice": 313.3478
+  },
+  {
+    "NavDate": "06-04-2021",
+    "NavPrice": 310.1315
+  },
+  {
+    "NavDate": "05-04-2021",
+    "NavPrice": 308.0105
+  },
+  {
+    "NavDate": "01-04-2021",
+    "NavPrice": 306.6322
+  },
+  {
+    "NavDate": "31-03-2021",
+    "NavPrice": 300.8904
+  },
+  {
+    "NavDate": "30-03-2021",
+    "NavPrice": 300.3626
+  },
+  {
+    "NavDate": "26-03-2021",
+    "NavPrice": 295.6177
+  },
+  {
+    "NavDate": "25-03-2021",
+    "NavPrice": 292.9885
+  },
+  {
+    "NavDate": "24-03-2021",
+    "NavPrice": 298.8527
+  },
+  {
+    "NavDate": "23-03-2021",
+    "NavPrice": 303.7109
+  },
+  {
+    "NavDate": "22-03-2021",
+    "NavPrice": 302.223
+  },
+  {
+    "NavDate": "19-03-2021",
+    "NavPrice": 298.5362
+  },
+  {
+    "NavDate": "18-03-2021",
+    "NavPrice": 292.9341
+  },
+  {
+    "NavDate": "17-03-2021",
+    "NavPrice": 295.4107
+  },
+  {
+    "NavDate": "16-03-2021",
+    "NavPrice": 299.277
+  },
+  {
+    "NavDate": "15-03-2021",
+    "NavPrice": 297.3955
+  },
+  {
+    "NavDate": "12-03-2021",
+    "NavPrice": 295.8787
+  },
+  {
+    "NavDate": "10-03-2021",
+    "NavPrice": 294.7614
+  },
+  {
+    "NavDate": "09-03-2021",
+    "NavPrice": 293.2761
+  },
+  {
+    "NavDate": "08-03-2021",
+    "NavPrice": 293.8658
+  },
+  {
+    "NavDate": "05-03-2021",
+    "NavPrice": 292.4102
+  },
+  {
+    "NavDate": "04-03-2021",
+    "NavPrice": 297.1538
+  },
+  {
+    "NavDate": "03-03-2021",
+    "NavPrice": 297.2237
+  },
+  {
+    "NavDate": "02-03-2021",
+    "NavPrice": 295.386
+  },
+  {
+    "NavDate": "01-03-2021",
+    "NavPrice": 290.4192
+  },
+  {
+    "NavDate": "26-02-2021",
+    "NavPrice": 285.1341
+  },
+  {
+    "NavDate": "25-02-2021",
+    "NavPrice": 288.7007
+  },
+  {
+    "NavDate": "24-02-2021",
+    "NavPrice": 283.9634
+  },
+  {
+    "NavDate": "23-02-2021",
+    "NavPrice": 282.6089
+  },
+  {
+    "NavDate": "22-02-2021",
+    "NavPrice": 280.6254
+  },
+  {
+    "NavDate": "19-02-2021",
+    "NavPrice": 285.9386
+  },
+  {
+    "NavDate": "18-02-2021",
+    "NavPrice": 287.2961
+  },
+  {
+    "NavDate": "17-02-2021",
+    "NavPrice": 285.5862
+  },
+  {
+    "NavDate": "16-02-2021",
+    "NavPrice": 284.0923
+  },
+  {
+    "NavDate": "15-02-2021",
+    "NavPrice": 282.9108
+  },
+  {
+    "NavDate": "12-02-2021",
+    "NavPrice": 282.7578
+  },
+  {
+    "NavDate": "11-02-2021",
+    "NavPrice": 283.6795
+  },
+  {
+    "NavDate": "10-02-2021",
+    "NavPrice": 283.0587
+  },
+  {
+    "NavDate": "09-02-2021",
+    "NavPrice": 282.0833
+  },
+  {
+    "NavDate": "08-02-2021",
+    "NavPrice": 280.864
+  },
+  {
+    "NavDate": "05-02-2021",
+    "NavPrice": 277.883
+  },
+  {
+    "NavDate": "04-02-2021",
+    "NavPrice": 279.6096
+  },
+  {
+    "NavDate": "03-02-2021",
+    "NavPrice": 278.6469
+  },
+  {
+    "NavDate": "02-02-2021",
+    "NavPrice": 273.5917
+  },
+  {
+    "NavDate": "01-02-2021",
+    "NavPrice": 269.4364
+  },
+  {
+    "NavDate": "29-01-2021",
+    "NavPrice": 264.4555
+  },
+  {
+    "NavDate": "28-01-2021",
+    "NavPrice": 266.1315
+  },
+  {
+    "NavDate": "27-01-2021",
+    "NavPrice": 264.9153
+  },
+  {
+    "NavDate": "25-01-2021",
+    "NavPrice": 271.1068
+  },
+  {
+    "NavDate": "22-01-2021",
+    "NavPrice": 273.2304
+  },
+  {
+    "NavDate": "21-01-2021",
+    "NavPrice": 277.0279
+  },
+  {
+    "NavDate": "20-01-2021",
+    "NavPrice": 281.3252
+  },
+  {
+    "NavDate": "19-01-2021",
+    "NavPrice": 280.7569
+  },
+  {
+    "NavDate": "18-01-2021",
+    "NavPrice": 278
+  },
+  {
+    "NavDate": "15-01-2021",
+    "NavPrice": 284.0095
+  },
+  {
+    "NavDate": "14-01-2021",
+    "NavPrice": 283.2793
+  },
+  {
+    "NavDate": "13-01-2021",
+    "NavPrice": 280.3811
+  },
+  {
+    "NavDate": "12-01-2021",
+    "NavPrice": 280.1343
+  },
+  {
+    "NavDate": "11-01-2021",
+    "NavPrice": 279.9335
+  },
+  {
+    "NavDate": "08-01-2021",
+    "NavPrice": 279.8794
+  },
+  {
+    "NavDate": "07-01-2021",
+    "NavPrice": 275.1063
+  },
+  {
+    "NavDate": "06-01-2021",
+    "NavPrice": 274.0424
+  },
+  {
+    "NavDate": "05-01-2021",
+    "NavPrice": 273.0884
+  },
+  {
+    "NavDate": "04-01-2021",
+    "NavPrice": 271.6177
+  },
+  {
+    "NavDate": "01-01-2021",
+    "NavPrice": 268.7654
+  },
+  {
+    "NavDate": "31-12-2020",
+    "NavPrice": 266.7639
+  },
+  {
+    "NavDate": "30-12-2020",
+    "NavPrice": 266.9707
+  },
+  {
+    "NavDate": "29-12-2020",
+    "NavPrice": 266.9523
+  },
+  {
+    "NavDate": "28-12-2020",
+    "NavPrice": 266.6917
+  },
+  {
+    "NavDate": "24-12-2020",
+    "NavPrice": 261.8348
+  },
+  {
+    "NavDate": "23-12-2020",
+    "NavPrice": 259.3963
+  },
+  {
+    "NavDate": "22-12-2020",
+    "NavPrice": 254.541
+  },
+  {
+    "NavDate": "21-12-2020",
+    "NavPrice": 249.4803
+  },
+  {
+    "NavDate": "18-12-2020",
+    "NavPrice": 260.2399
+  },
+  {
+    "NavDate": "17-12-2020",
+    "NavPrice": 257.9854
+  },
+  {
+    "NavDate": "16-12-2020",
+    "NavPrice": 257.4573
+  },
+  {
+    "NavDate": "15-12-2020",
+    "NavPrice": 255.9683
+  },
+  {
+    "NavDate": "14-12-2020",
+    "NavPrice": 256.0395
+  },
+  {
+    "NavDate": "11-12-2020",
+    "NavPrice": 255.3039
+  },
+  {
+    "NavDate": "10-12-2020",
+    "NavPrice": 255.3449
+  },
+  {
+    "NavDate": "09-12-2020",
+    "NavPrice": 255.7038
+  },
+  {
+    "NavDate": "08-12-2020",
+    "NavPrice": 255.5293
+  },
+  {
+    "NavDate": "07-12-2020",
+    "NavPrice": 255.3987
+  },
+  {
+    "NavDate": "04-12-2020",
+    "NavPrice": 249.7704
+  },
+  {
+    "NavDate": "03-12-2020",
+    "NavPrice": 248.2805
+  },
+  {
+    "NavDate": "02-12-2020",
+    "NavPrice": 246.5428
+  },
+  {
+    "NavDate": "01-12-2020",
+    "NavPrice": 243.9554
+  },
+  {
+    "NavDate": "27-11-2020",
+    "NavPrice": 239.6826
+  },
+  {
+    "NavDate": "26-11-2020",
+    "NavPrice": 238.1662
+  },
+  {
+    "NavDate": "25-11-2020",
+    "NavPrice": 236.4747
+  },
+  {
+    "NavDate": "24-11-2020",
+    "NavPrice": 238.3562
+  },
+  {
+    "NavDate": "23-11-2020",
+    "NavPrice": 235.8184
+  },
+  {
+    "NavDate": "20-11-2020",
+    "NavPrice": 233.9565
+  },
+  {
+    "NavDate": "19-11-2020",
+    "NavPrice": 233.1739
+  },
+  {
+    "NavDate": "18-11-2020",
+    "NavPrice": 234.465
+  },
+  {
+    "NavDate": "17-11-2020",
+    "NavPrice": 233.717
+  },
+  {
+    "NavDate": "13-11-2020",
+    "NavPrice": 231.2546
+  },
+  {
+    "NavDate": "12-11-2020",
+    "NavPrice": 230.5141
+  },
+  {
+    "NavDate": "11-11-2020",
+    "NavPrice": 228.6595
+  },
+  {
+    "NavDate": "10-11-2020",
+    "NavPrice": 226.5526
+  },
+  {
+    "NavDate": "09-11-2020",
+    "NavPrice": 229.6997
+  },
+  {
+    "NavDate": "06-11-2020",
+    "NavPrice": 228.3312
+  },
+  {
+    "NavDate": "05-11-2020",
+    "NavPrice": 228.6516
+  },
+  {
+    "NavDate": "04-11-2020",
+    "NavPrice": 225.3305
+  },
+  {
+    "NavDate": "03-11-2020",
+    "NavPrice": 224.7543
+  },
+  {
+    "NavDate": "02-11-2020",
+    "NavPrice": 224.6487
+  },
+  {
+    "NavDate": "30-10-2020",
+    "NavPrice": 224.7245
+  },
+  {
+    "NavDate": "29-10-2020",
+    "NavPrice": 224.446
+  },
+  {
+    "NavDate": "28-10-2020",
+    "NavPrice": 224.7307
+  },
+  {
+    "NavDate": "27-10-2020",
+    "NavPrice": 224.803
+  },
+  {
+    "NavDate": "26-10-2020",
+    "NavPrice": 224.7117
+  },
+  {
+    "NavDate": "23-10-2020",
+    "NavPrice": 225.2746
+  },
+  {
+    "NavDate": "22-10-2020",
+    "NavPrice": 222.733
+  },
+  {
+    "NavDate": "21-10-2020",
+    "NavPrice": 222.3191
+  },
+  {
+    "NavDate": "20-10-2020",
+    "NavPrice": 222.3744
+  },
+  {
+    "NavDate": "19-10-2020",
+    "NavPrice": 221.1567
+  },
+  {
+    "NavDate": "16-10-2020",
+    "NavPrice": 219.1125
+  },
+  {
+    "NavDate": "15-10-2020",
+    "NavPrice": 218.0889
+  },
+  {
+    "NavDate": "14-10-2020",
+    "NavPrice": 223.3118
+  },
+  {
+    "NavDate": "13-10-2020",
+    "NavPrice": 224.395
+  },
+  {
+    "NavDate": "12-10-2020",
+    "NavPrice": 224.4114
+  },
+  {
+    "NavDate": "09-10-2020",
+    "NavPrice": 225.7289
+  },
+  {
+    "NavDate": "08-10-2020",
+    "NavPrice": 226.7612
+  },
+  {
+    "NavDate": "07-10-2020",
+    "NavPrice": 225.6719
+  },
+  {
+    "NavDate": "06-10-2020",
+    "NavPrice": 226.5881
+  },
+  {
+    "NavDate": "05-10-2020",
+    "NavPrice": 224.9231
+  },
+  {
+    "NavDate": "01-10-2020",
+    "NavPrice": 224.3899
+  },
+  {
+    "NavDate": "30-09-2020",
+    "NavPrice": 222.9988
+  },
+  {
+    "NavDate": "29-09-2020",
+    "NavPrice": 223.0837
+  },
+  {
+    "NavDate": "28-09-2020",
+    "NavPrice": 223.9133
+  },
+  {
+    "NavDate": "25-09-2020",
+    "NavPrice": 219.0889
+  },
+  {
+    "NavDate": "24-09-2020",
+    "NavPrice": 213.7726
+  },
+  {
+    "NavDate": "23-09-2020",
+    "NavPrice": 218.8701
+  },
+  {
+    "NavDate": "22-09-2020",
+    "NavPrice": 218.684
+  },
+  {
+    "NavDate": "21-09-2020",
+    "NavPrice": 220.8832
+  },
+  {
+    "NavDate": "18-09-2020",
+    "NavPrice": 230.4466
+  },
+  {
+    "NavDate": "17-09-2020",
+    "NavPrice": 228.66
+  },
+  {
+    "NavDate": "16-09-2020",
+    "NavPrice": 227.795
+  },
+  {
+    "NavDate": "15-09-2020",
+    "NavPrice": 224.0264
+  },
+  {
+    "NavDate": "14-09-2020",
+    "NavPrice": 222.0628
+  },
+  {
+    "NavDate": "11-09-2020",
+    "NavPrice": 219.3019
+  },
+  {
+    "NavDate": "10-09-2020",
+    "NavPrice": 215.8125
+  },
+  {
+    "NavDate": "09-09-2020",
+    "NavPrice": 211.9275
+  },
+  {
+    "NavDate": "08-09-2020",
+    "NavPrice": 214.4268
+  },
+  {
+    "NavDate": "07-09-2020",
+    "NavPrice": 216.5634
+  },
+  {
+    "NavDate": "04-09-2020",
+    "NavPrice": 216.3076
+  },
+  {
+    "NavDate": "03-09-2020",
+    "NavPrice": 220.3677
+  },
+  {
+    "NavDate": "02-09-2020",
+    "NavPrice": 220.4013
+  },
+  {
+    "NavDate": "01-09-2020",
+    "NavPrice": 215.333
+  },
+  {
+    "NavDate": "31-08-2020",
+    "NavPrice": 213.7874
+  },
+  {
+    "NavDate": "28-08-2020",
+    "NavPrice": 222.7137
+  },
+  {
+    "NavDate": "27-08-2020",
+    "NavPrice": 223.6997
+  },
+  {
+    "NavDate": "26-08-2020",
+    "NavPrice": 224.1495
+  },
+  {
+    "NavDate": "25-08-2020",
+    "NavPrice": 224.3561
+  },
+  {
+    "NavDate": "24-08-2020",
+    "NavPrice": 224.3269
+  },
+  {
+    "NavDate": "21-08-2020",
+    "NavPrice": 220.6265
+  },
+  {
+    "NavDate": "20-08-2020",
+    "NavPrice": 217.5654
+  },
+  {
+    "NavDate": "19-08-2020",
+    "NavPrice": 216.8832
+  },
+  {
+    "NavDate": "18-08-2020",
+    "NavPrice": 215.6029
+  },
+  {
+    "NavDate": "17-08-2020",
+    "NavPrice": 214.6123
+  },
+  {
+    "NavDate": "14-08-2020",
+    "NavPrice": 213.1982
+  },
+  {
+    "NavDate": "13-08-2020",
+    "NavPrice": 214.8887
+  },
+  {
+    "NavDate": "12-08-2020",
+    "NavPrice": 215.5517
+  },
+  {
+    "NavDate": "11-08-2020",
+    "NavPrice": 216.5475
+  },
+  {
+    "NavDate": "10-08-2020",
+    "NavPrice": 217.4472
+  },
+  {
+    "NavDate": "07-08-2020",
+    "NavPrice": 211.7879
+  },
+  {
+    "NavDate": "06-08-2020",
+    "NavPrice": 210.514
+  },
+  {
+    "NavDate": "05-08-2020",
+    "NavPrice": 209.7241
+  },
+  {
+    "NavDate": "04-08-2020",
+    "NavPrice": 207.8
+  },
+  {
+    "NavDate": "03-08-2020",
+    "NavPrice": 207.8532
+  },
+  {
+    "NavDate": "31-07-2020",
+    "NavPrice": 205.3151
+  },
+  {
+    "NavDate": "30-07-2020",
+    "NavPrice": 199.567
+  },
+  {
+    "NavDate": "29-07-2020",
+    "NavPrice": 199.6129
+  },
+  {
+    "NavDate": "28-07-2020",
+    "NavPrice": 197.3851
+  },
+  {
+    "NavDate": "27-07-2020",
+    "NavPrice": 196.4982
+  },
+  {
+    "NavDate": "24-07-2020",
+    "NavPrice": 195.9874
+  },
+  {
+    "NavDate": "23-07-2020",
+    "NavPrice": 195.1115
+  },
+  {
+    "NavDate": "22-07-2020",
+    "NavPrice": 192.567
+  },
+  {
+    "NavDate": "21-07-2020",
+    "NavPrice": 192.918
+  },
+  {
+    "NavDate": "20-07-2020",
+    "NavPrice": 193.2298
+  },
+  {
+    "NavDate": "17-07-2020",
+    "NavPrice": 192.4213
+  },
+  {
+    "NavDate": "16-07-2020",
+    "NavPrice": 190.358
+  },
+  {
+    "NavDate": "15-07-2020",
+    "NavPrice": 189.0672
+  },
+  {
+    "NavDate": "14-07-2020",
+    "NavPrice": 190.0987
+  },
+  {
+    "NavDate": "13-07-2020",
+    "NavPrice": 191.1319
+  },
+  {
+    "NavDate": "10-07-2020",
+    "NavPrice": 188.1756
+  },
+  {
+    "NavDate": "09-07-2020",
+    "NavPrice": 187.2188
+  },
+  {
+    "NavDate": "08-07-2020",
+    "NavPrice": 186.1101
+  },
+  {
+    "NavDate": "07-07-2020",
+    "NavPrice": 185.9296
+  },
+  {
+    "NavDate": "06-07-2020",
+    "NavPrice": 186.4097
+  },
+  {
+    "NavDate": "03-07-2020",
+    "NavPrice": 185.1447
+  },
+  {
+    "NavDate": "02-07-2020",
+    "NavPrice": 183.6342
+  },
+  {
+    "NavDate": "01-07-2020",
+    "NavPrice": 183.3281
+  },
+  {
+    "NavDate": "30-06-2020",
+    "NavPrice": 182.2576
+  },
+  {
+    "NavDate": "29-06-2020",
+    "NavPrice": 182.9008
+  },
+  {
+    "NavDate": "26-06-2020",
+    "NavPrice": 184.4335
+  },
+  {
+    "NavDate": "25-06-2020",
+    "NavPrice": 185.9374
+  },
+  {
+    "NavDate": "24-06-2020",
+    "NavPrice": 182.8073
+  },
+  {
+    "NavDate": "23-06-2020",
+    "NavPrice": 187.4722
+  },
+  {
+    "NavDate": "22-06-2020",
+    "NavPrice": 185.6797
+  },
+  {
+    "NavDate": "19-06-2020",
+    "NavPrice": 180.2459
+  },
+  {
+    "NavDate": "18-06-2020",
+    "NavPrice": 179.7788
+  },
+  {
+    "NavDate": "17-06-2020",
+    "NavPrice": 178.5103
+  },
+  {
+    "NavDate": "16-06-2020",
+    "NavPrice": 175.7894
+  },
+  {
+    "NavDate": "15-06-2020",
+    "NavPrice": 174.333
+  },
+  {
+    "NavDate": "12-06-2020",
+    "NavPrice": 172.4701
+  },
+  {
+    "NavDate": "11-06-2020",
+    "NavPrice": 171.9108
+  },
+  {
+    "NavDate": "10-06-2020",
+    "NavPrice": 173.4024
+  },
+  {
+    "NavDate": "09-06-2020",
+    "NavPrice": 171.1115
+  },
+  {
+    "NavDate": "08-06-2020",
+    "NavPrice": 172.4299
+  },
+  {
+    "NavDate": "05-06-2020",
+    "NavPrice": 173.3654
+  },
+  {
+    "NavDate": "04-06-2020",
+    "NavPrice": 171.2223
+  },
+  {
+    "NavDate": "03-06-2020",
+    "NavPrice": 170.1785
+  },
+  {
+    "NavDate": "02-06-2020",
+    "NavPrice": 169.9683
+  },
+  {
+    "NavDate": "01-06-2020",
+    "NavPrice": 168.6933
+  },
+  {
+    "NavDate": "29-05-2020",
+    "NavPrice": 165.9327
+  },
+  {
+    "NavDate": "28-05-2020",
+    "NavPrice": 164.3502
+  },
+  {
+    "NavDate": "27-05-2020",
+    "NavPrice": 164.61
+  },
+  {
+    "NavDate": "26-05-2020",
+    "NavPrice": 163.075
+  },
+  {
+    "NavDate": "22-05-2020",
+    "NavPrice": 163.1558
+  },
+  {
+    "NavDate": "21-05-2020",
+    "NavPrice": 163.3513
+  },
+  {
+    "NavDate": "20-05-2020",
+    "NavPrice": 160.7907
+  },
+  {
+    "NavDate": "19-05-2020",
+    "NavPrice": 159.3899
+  },
+  {
+    "NavDate": "18-05-2020",
+    "NavPrice": 157.7978
+  },
+  {
+    "NavDate": "15-05-2020",
+    "NavPrice": 160.1934
+  },
+  {
+    "NavDate": "14-05-2020",
+    "NavPrice": 160.2912
+  },
+  {
+    "NavDate": "13-05-2020",
+    "NavPrice": 159.7067
+  },
+  {
+    "NavDate": "12-05-2020",
+    "NavPrice": 159.6607
+  },
+  {
+    "NavDate": "11-05-2020",
+    "NavPrice": 160.5837
+  },
+  {
+    "NavDate": "08-05-2020",
+    "NavPrice": 160.5745
+  },
+  {
+    "NavDate": "07-05-2020",
+    "NavPrice": 159.9022
+  },
+  {
+    "NavDate": "06-05-2020",
+    "NavPrice": 159.9011
+  },
+  {
+    "NavDate": "05-05-2020",
+    "NavPrice": 158.8565
+  },
+  {
+    "NavDate": "04-05-2020",
+    "NavPrice": 159.4592
+  },
+  {
+    "NavDate": "30-04-2020",
+    "NavPrice": 161.1409
+  },
+  {
+    "NavDate": "29-04-2020",
+    "NavPrice": 159.9404
+  },
+  {
+    "NavDate": "28-04-2020",
+    "NavPrice": 157.4754
+  },
+  {
+    "NavDate": "27-04-2020",
+    "NavPrice": 157.5136
+  },
+  {
+    "NavDate": "24-04-2020",
+    "NavPrice": 153.8874
+  },
+  {
+    "NavDate": "23-04-2020",
+    "NavPrice": 156.2677
+  },
+  {
+    "NavDate": "22-04-2020",
+    "NavPrice": 155.3289
+  },
+  {
+    "NavDate": "21-04-2020",
+    "NavPrice": 153.2085
+  },
+  {
+    "NavDate": "20-04-2020",
+    "NavPrice": 155.8118
+  },
+  {
+    "NavDate": "17-04-2020",
+    "NavPrice": 157.8083
+  },
+  {
+    "NavDate": "16-04-2020",
+    "NavPrice": 156.5146
+  },
+  {
+    "NavDate": "15-04-2020",
+    "NavPrice": 155.1071
+  },
+  {
+    "NavDate": "13-04-2020",
+    "NavPrice": 155.0241
+  },
+  {
+    "NavDate": "09-04-2020",
+    "NavPrice": 154.6218
+  },
+  {
+    "NavDate": "08-04-2020",
+    "NavPrice": 150.4018
+  },
+  {
+    "NavDate": "07-04-2020",
+    "NavPrice": 146.0061
+  },
+  {
+    "NavDate": "03-04-2020",
+    "NavPrice": 134.8635
+  },
+  {
+    "NavDate": "01-04-2020",
+    "NavPrice": 135.2575
+  },
+  {
+    "NavDate": "31-03-2020",
+    "NavPrice": 137.9742
+  },
+  {
+    "NavDate": "30-03-2020",
+    "NavPrice": 132.3671
+  },
+  {
+    "NavDate": "27-03-2020",
+    "NavPrice": 133.6611
+  },
+  {
+    "NavDate": "26-03-2020",
+    "NavPrice": 133.9914
+  },
+  {
+    "NavDate": "25-03-2020",
+    "NavPrice": 128.2753
+  },
+  {
+    "NavDate": "24-03-2020",
+    "NavPrice": 125.2688
+  },
+  {
+    "NavDate": "23-03-2020",
+    "NavPrice": 124.2583
+  },
+  {
+    "NavDate": "20-03-2020",
+    "NavPrice": 138.3564
+  },
+  {
+    "NavDate": "19-03-2020",
+    "NavPrice": 129.857
+  },
+  {
+    "NavDate": "18-03-2020",
+    "NavPrice": 133.6353
+  },
+  {
+    "NavDate": "17-03-2020",
+    "NavPrice": 141.6386
+  },
+  {
+    "NavDate": "16-03-2020",
+    "NavPrice": 144.6167
+  },
+  {
+    "NavDate": "13-03-2020",
+    "NavPrice": 155.5383
+  },
+  {
+    "NavDate": "12-03-2020",
+    "NavPrice": 152.2664
+  },
+  {
+    "NavDate": "11-03-2020",
+    "NavPrice": 166.156
+  },
+  {
+    "NavDate": "09-03-2020",
+    "NavPrice": 166.439
+  },
+  {
+    "NavDate": "06-03-2020",
+    "NavPrice": 175.6191
+  },
+  {
+    "NavDate": "05-03-2020",
+    "NavPrice": 180.2316
+  },
+  {
+    "NavDate": "04-03-2020",
+    "NavPrice": 178.5825
+  },
+  {
+    "NavDate": "03-03-2020",
+    "NavPrice": 179.5063
+  },
+  {
+    "NavDate": "02-03-2020",
+    "NavPrice": 175.1242
+  },
+  {
+    "NavDate": "28-02-2020",
+    "NavPrice": 175.1229
+  },
+  {
+    "NavDate": "27-02-2020",
+    "NavPrice": 182.5336
+  },
+  {
+    "NavDate": "26-02-2020",
+    "NavPrice": 183.7762
+  },
+  {
+    "NavDate": "25-02-2020",
+    "NavPrice": 186.2413
+  },
+  {
+    "NavDate": "24-02-2020",
+    "NavPrice": 187.151
+  },
+  {
+    "NavDate": "20-02-2020",
+    "NavPrice": 191.4804
+  },
+  {
+    "NavDate": "19-02-2020",
+    "NavPrice": 190.6162
+  },
+  {
+    "NavDate": "18-02-2020",
+    "NavPrice": 185.8979
+  },
+  {
+    "NavDate": "17-02-2020",
+    "NavPrice": 185.7832
+  },
+  {
+    "NavDate": "14-02-2020",
+    "NavPrice": 188.6959
+  },
+  {
+    "NavDate": "13-02-2020",
+    "NavPrice": 190.1336
+  },
+  {
+    "NavDate": "12-02-2020",
+    "NavPrice": 190.3507
+  },
+  {
+    "NavDate": "11-02-2020",
+    "NavPrice": 188.9312
+  },
+  {
+    "NavDate": "10-02-2020",
+    "NavPrice": 187.6062
+  },
+  {
+    "NavDate": "07-02-2020",
+    "NavPrice": 189.1849
+  },
+  {
+    "NavDate": "06-02-2020",
+    "NavPrice": 187.811
+  },
+  {
+    "NavDate": "05-02-2020",
+    "NavPrice": 186.4887
+  },
+  {
+    "NavDate": "04-02-2020",
+    "NavPrice": 184.7199
+  },
+  {
+    "NavDate": "03-02-2020",
+    "NavPrice": 181.1929
+  },
+  {
+    "NavDate": "31-01-2020",
+    "NavPrice": 188.1163
+  },
+  {
+    "NavDate": "30-01-2020",
+    "NavPrice": 189.4044
+  },
+  {
+    "NavDate": "29-01-2020",
+    "NavPrice": 192.0917
+  },
+  {
+    "NavDate": "28-01-2020",
+    "NavPrice": 191.5764
+  },
+  {
+    "NavDate": "27-01-2020",
+    "NavPrice": 192.9998
+  },
+  {
+    "NavDate": "24-01-2020",
+    "NavPrice": 193.5683
+  },
+  {
+    "NavDate": "23-01-2020",
+    "NavPrice": 191.4278
+  },
+  {
+    "NavDate": "22-01-2020",
+    "NavPrice": 189.1987
+  },
+  {
+    "NavDate": "21-01-2020",
+    "NavPrice": 188.6959
+  },
+  {
+    "NavDate": "20-01-2020",
+    "NavPrice": 189.1692
+  },
+  {
+    "NavDate": "17-01-2020",
+    "NavPrice": 189.9419
+  },
+  {
+    "NavDate": "16-01-2020",
+    "NavPrice": 189.8235
+  },
+  {
+    "NavDate": "15-01-2020",
+    "NavPrice": 189.7457
+  },
+  {
+    "NavDate": "14-01-2020",
+    "NavPrice": 189.8458
+  },
+  {
+    "NavDate": "13-01-2020",
+    "NavPrice": 189.59
+  },
+  {
+    "NavDate": "10-01-2020",
+    "NavPrice": 187.9649
+  },
+  {
+    "NavDate": "09-01-2020",
+    "NavPrice": 186.9347
+  },
+  {
+    "NavDate": "08-01-2020",
+    "NavPrice": 184.0902
+  },
+  {
+    "NavDate": "07-01-2020",
+    "NavPrice": 184.5715
+  },
+  {
+    "NavDate": "06-01-2020",
+    "NavPrice": 183.0497
+  },
+  {
+    "NavDate": "03-01-2020",
+    "NavPrice": 187.2149
+  },
+  {
+    "NavDate": "02-01-2020",
+    "NavPrice": 187.5911
+  },
+  {
+    "NavDate": "01-01-2020",
+    "NavPrice": 185.5863
+  },
+  {
+    "NavDate": "31-12-2019",
+    "NavPrice": 185.8283
+  },
+  {
+    "NavDate": "30-12-2019",
+    "NavPrice": 186.2726
+  },
+  {
+    "NavDate": "27-12-2019",
+    "NavPrice": 186.6462
+  },
+  {
+    "NavDate": "26-12-2019",
+    "NavPrice": 184.9426
+  },
+  {
+    "NavDate": "24-12-2019",
+    "NavPrice": 185.2459
+  },
+  {
+    "NavDate": "23-12-2019",
+    "NavPrice": 185.9066
+  },
+  {
+    "NavDate": "20-12-2019",
+    "NavPrice": 186.2408
+  },
+  {
+    "NavDate": "19-12-2019",
+    "NavPrice": 185.7646
+  },
+  {
+    "NavDate": "18-12-2019",
+    "NavPrice": 185.0249
+  },
+  {
+    "NavDate": "17-12-2019",
+    "NavPrice": 184.7017
+  },
+  {
+    "NavDate": "16-12-2019",
+    "NavPrice": 184.3736
+  },
+  {
+    "NavDate": "13-12-2019",
+    "NavPrice": 185.9364
+  },
+  {
+    "NavDate": "12-12-2019",
+    "NavPrice": 184.4227
+  },
+  {
+    "NavDate": "11-12-2019",
+    "NavPrice": 183.252
+  },
+  {
+    "NavDate": "10-12-2019",
+    "NavPrice": 183.1635
+  },
+  {
+    "NavDate": "09-12-2019",
+    "NavPrice": 186.0208
+  },
+  {
+    "NavDate": "06-12-2019",
+    "NavPrice": 187.1854
+  },
+  {
+    "NavDate": "05-12-2019",
+    "NavPrice": 189.0768
+  },
+  {
+    "NavDate": "04-12-2019",
+    "NavPrice": 190.1613
+  },
+  {
+    "NavDate": "03-12-2019",
+    "NavPrice": 190.828
+  },
+  {
+    "NavDate": "02-12-2019",
+    "NavPrice": 191.3068
+  },
+  {
+    "NavDate": "29-11-2019",
+    "NavPrice": 191.7823
+  },
+  {
+    "NavDate": "28-11-2019",
+    "NavPrice": 192.7814
+  },
+  {
+    "NavDate": "27-11-2019",
+    "NavPrice": 191.7907
+  },
+  {
+    "NavDate": "26-11-2019",
+    "NavPrice": 190.9963
+  },
+  {
+    "NavDate": "25-11-2019",
+    "NavPrice": 192.6503
+  },
+  {
+    "NavDate": "22-11-2019",
+    "NavPrice": 191.8648
+  },
+  {
+    "NavDate": "21-11-2019",
+    "NavPrice": 193.5376
+  },
+  {
+    "NavDate": "20-11-2019",
+    "NavPrice": 192.5762
+  },
+  {
+    "NavDate": "19-11-2019",
+    "NavPrice": 191.738
+  },
+  {
+    "NavDate": "18-11-2019",
+    "NavPrice": 190.992
+  },
+  {
+    "NavDate": "15-11-2019",
+    "NavPrice": 192.0974
+  },
+  {
+    "NavDate": "14-11-2019",
+    "NavPrice": 192.8314
+  },
+  {
+    "NavDate": "13-11-2019",
+    "NavPrice": 193.261
+  },
+  {
+    "NavDate": "11-11-2019",
+    "NavPrice": 191.9059
+  },
+  {
+    "NavDate": "08-11-2019",
+    "NavPrice": 190.3884
+  },
+  {
+    "NavDate": "07-11-2019",
+    "NavPrice": 191.6573
+  },
+  {
+    "NavDate": "06-11-2019",
+    "NavPrice": 192.4167
+  },
+  {
+    "NavDate": "05-11-2019",
+    "NavPrice": 190.793
+  },
+  {
+    "NavDate": "04-11-2019",
+    "NavPrice": 192.9435
+  },
+  {
+    "NavDate": "01-11-2019",
+    "NavPrice": 193.2364
+  },
+  {
+    "NavDate": "31-10-2019",
+    "NavPrice": 194.8943
+  },
+  {
+    "NavDate": "30-10-2019",
+    "NavPrice": 194.8894
+  },
+  {
+    "NavDate": "29-10-2019",
+    "NavPrice": 191.6044
+  },
+  {
+    "NavDate": "25-10-2019",
+    "NavPrice": 187.9724
+  },
+  {
+    "NavDate": "24-10-2019",
+    "NavPrice": 186.1045
+  },
+  {
+    "NavDate": "23-10-2019",
+    "NavPrice": 187.4873
+  },
+  {
+    "NavDate": "22-10-2019",
+    "NavPrice": 186.063
+  },
+  {
+    "NavDate": "18-10-2019",
+    "NavPrice": 184.0682
+  },
+  {
+    "NavDate": "17-10-2019",
+    "NavPrice": 181.2495
+  },
+  {
+    "NavDate": "16-10-2019",
+    "NavPrice": 178.7587
+  },
+  {
+    "NavDate": "15-10-2019",
+    "NavPrice": 175.4392
+  },
+  {
+    "NavDate": "14-10-2019",
+    "NavPrice": 174.045
+  },
+  {
+    "NavDate": "11-10-2019",
+    "NavPrice": 172.6048
+  },
+  {
+    "NavDate": "10-10-2019",
+    "NavPrice": 172.0018
+  },
+  {
+    "NavDate": "09-10-2019",
+    "NavPrice": 174.0035
+  },
+  {
+    "NavDate": "07-10-2019",
+    "NavPrice": 172.3251
+  },
+  {
+    "NavDate": "04-10-2019",
+    "NavPrice": 173.7208
+  },
+  {
+    "NavDate": "03-10-2019",
+    "NavPrice": 176.6762
+  },
+  {
+    "NavDate": "01-10-2019",
+    "NavPrice": 176.7051
+  },
+  {
+    "NavDate": "30-09-2019",
+    "NavPrice": 176.9052
+  },
+  {
+    "NavDate": "27-09-2019",
+    "NavPrice": 177.8227
+  },
+  {
+    "NavDate": "26-09-2019",
+    "NavPrice": 177.6167
+  },
+  {
+    "NavDate": "25-09-2019",
+    "NavPrice": 175.2946
+  },
+  {
+    "NavDate": "24-09-2019",
+    "NavPrice": 177.8148
+  },
+  {
+    "NavDate": "23-09-2019",
+    "NavPrice": 178.8139
+  },
+  {
+    "NavDate": "20-09-2019",
+    "NavPrice": 174.8857
+  },
+  {
+    "NavDate": "19-09-2019",
+    "NavPrice": 165.3622
+  },
+  {
+    "NavDate": "18-09-2019",
+    "NavPrice": 167.2632
+  },
+  {
+    "NavDate": "17-09-2019",
+    "NavPrice": 165.5552
+  },
+  {
+    "NavDate": "16-09-2019",
+    "NavPrice": 169.6932
+  },
+  {
+    "NavDate": "13-09-2019",
+    "NavPrice": 171.3592
+  },
+  {
+    "NavDate": "12-09-2019",
+    "NavPrice": 170.6834
+  },
+  {
+    "NavDate": "11-09-2019",
+    "NavPrice": 171.3374
+  },
+  {
+    "NavDate": "09-09-2019",
+    "NavPrice": 170.7594
+  },
+  {
+    "NavDate": "06-09-2019",
+    "NavPrice": 169.5678
+  },
+  {
+    "NavDate": "05-09-2019",
+    "NavPrice": 167.2972
+  },
+  {
+    "NavDate": "04-09-2019",
+    "NavPrice": 167.5716
+  },
+  {
+    "NavDate": "03-09-2019",
+    "NavPrice": 167.2577
+  },
+  {
+    "NavDate": "30-08-2019",
+    "NavPrice": 170.4405
+  },
+  {
+    "NavDate": "29-08-2019",
+    "NavPrice": 169.042
+  },
+  {
+    "NavDate": "28-08-2019",
+    "NavPrice": 170.8669
+  },
+  {
+    "NavDate": "27-08-2019",
+    "NavPrice": 170.7237
+  },
+  {
+    "NavDate": "26-08-2019",
+    "NavPrice": 167.6774
+  },
+  {
+    "NavDate": "23-08-2019",
+    "NavPrice": 163.5216
+  },
+  {
+    "NavDate": "22-08-2019",
+    "NavPrice": 162.9895
+  },
+  {
+    "NavDate": "21-08-2019",
+    "NavPrice": 165.6782
+  },
+  {
+    "NavDate": "20-08-2019",
+    "NavPrice": 169.097
+  },
+  {
+    "NavDate": "19-08-2019",
+    "NavPrice": 171.2623
+  },
+  {
+    "NavDate": "16-08-2019",
+    "NavPrice": 171.7806
+  },
+  {
+    "NavDate": "14-08-2019",
+    "NavPrice": 170.1201
+  },
+  {
+    "NavDate": "13-08-2019",
+    "NavPrice": 167.3811
+  },
+  {
+    "NavDate": "09-08-2019",
+    "NavPrice": 171.6874
+  },
+  {
+    "NavDate": "08-08-2019",
+    "NavPrice": 170.0942
+  },
+  {
+    "NavDate": "07-08-2019",
+    "NavPrice": 168.2852
+  },
+  {
+    "NavDate": "06-08-2019",
+    "NavPrice": 170.7068
+  },
+  {
+    "NavDate": "05-08-2019",
+    "NavPrice": 168.0607
+  },
+  {
+    "NavDate": "02-08-2019",
+    "NavPrice": 170.5876
+  },
+  {
+    "NavDate": "01-08-2019",
+    "NavPrice": 170.1559
+  },
+  {
+    "NavDate": "31-07-2019",
+    "NavPrice": 173.4209
+  },
+  {
+    "NavDate": "30-07-2019",
+    "NavPrice": 171.6973
+  },
+  {
+    "NavDate": "29-07-2019",
+    "NavPrice": 174.7833
+  },
+  {
+    "NavDate": "26-07-2019",
+    "NavPrice": 178.2724
+  },
+  {
+    "NavDate": "25-07-2019",
+    "NavPrice": 177.3253
+  },
+  {
+    "NavDate": "24-07-2019",
+    "NavPrice": 176.5809
+  },
+  {
+    "NavDate": "23-07-2019",
+    "NavPrice": 179.0266
+  },
+  {
+    "NavDate": "22-07-2019",
+    "NavPrice": 179.8519
+  },
+  {
+    "NavDate": "19-07-2019",
+    "NavPrice": 180.3844
+  },
+  {
+    "NavDate": "18-07-2019",
+    "NavPrice": 183.2364
+  },
+  {
+    "NavDate": "17-07-2019",
+    "NavPrice": 185.5142
+  },
+  {
+    "NavDate": "16-07-2019",
+    "NavPrice": 184.8477
+  },
+  {
+    "NavDate": "15-07-2019",
+    "NavPrice": 184.6251
+  },
+  {
+    "NavDate": "12-07-2019",
+    "NavPrice": 184.5683
+  },
+  {
+    "NavDate": "11-07-2019",
+    "NavPrice": 183.4576
+  },
+  {
+    "NavDate": "10-07-2019",
+    "NavPrice": 180.5929
+  },
+  {
+    "NavDate": "09-07-2019",
+    "NavPrice": 182.6783
+  },
+  {
+    "NavDate": "08-07-2019",
+    "NavPrice": 181.0041
+  },
+  {
+    "NavDate": "05-07-2019",
+    "NavPrice": 186.4998
+  },
+  {
+    "NavDate": "04-07-2019",
+    "NavPrice": 188.6398
+  },
+  {
+    "NavDate": "03-07-2019",
+    "NavPrice": 187.4397
+  },
+  {
+    "NavDate": "02-07-2019",
+    "NavPrice": 186.4436
+  },
+  {
+    "NavDate": "01-07-2019",
+    "NavPrice": 185.9327
+  },
+  {
+    "NavDate": "28-06-2019",
+    "NavPrice": 185.3163
+  },
+  {
+    "NavDate": "27-06-2019",
+    "NavPrice": 184.2701
+  },
+  {
+    "NavDate": "26-06-2019",
+    "NavPrice": 183.8267
+  },
+  {
+    "NavDate": "25-06-2019",
+    "NavPrice": 182.0233
+  },
+  {
+    "NavDate": "24-06-2019",
+    "NavPrice": 181.5477
+  },
+  {
+    "NavDate": "21-06-2019",
+    "NavPrice": 181.8231
+  },
+  {
+    "NavDate": "20-06-2019",
+    "NavPrice": 182.1284
+  },
+  {
+    "NavDate": "19-06-2019",
+    "NavPrice": 179.6819
+  },
+  {
+    "NavDate": "18-06-2019",
+    "NavPrice": 180.6364
+  },
+  {
+    "NavDate": "17-06-2019",
+    "NavPrice": 180.1579
+  },
+  {
+    "NavDate": "14-06-2019",
+    "NavPrice": 182.4792
+  },
+  {
+    "NavDate": "13-06-2019",
+    "NavPrice": 183.7583
+  },
+  {
+    "NavDate": "12-06-2019",
+    "NavPrice": 184.1438
+  },
+  {
+    "NavDate": "11-06-2019",
+    "NavPrice": 185.7021
+  },
+  {
+    "NavDate": "10-06-2019",
+    "NavPrice": 185.2833
+  },
+  {
+    "NavDate": "07-06-2019",
+    "NavPrice": 184.621
+  },
+  {
+    "NavDate": "06-06-2019",
+    "NavPrice": 184.454
+  },
+  {
+    "NavDate": "04-06-2019",
+    "NavPrice": 187.8848
+  },
+  {
+    "NavDate": "03-06-2019",
+    "NavPrice": 189.3384
+  },
+  {
+    "NavDate": "31-05-2019",
+    "NavPrice": 187.5936
+  },
+  {
+    "NavDate": "30-05-2019",
+    "NavPrice": 187.9006
+  },
+  {
+    "NavDate": "29-05-2019",
+    "NavPrice": 187.1368
+  },
+  {
+    "NavDate": "28-05-2019",
+    "NavPrice": 189.4261
+  },
+  {
+    "NavDate": "27-05-2019",
+    "NavPrice": 189.8915
+  },
+  {
+    "NavDate": "24-05-2019",
+    "NavPrice": 185.2516
+  },
+  {
+    "NavDate": "23-05-2019",
+    "NavPrice": 179.9164
+  },
+  {
+    "NavDate": "22-05-2019",
+    "NavPrice": 179.6736
+  },
+  {
+    "NavDate": "21-05-2019",
+    "NavPrice": 178.7671
+  },
+  {
+    "NavDate": "20-05-2019",
+    "NavPrice": 180.1419
+  },
+  {
+    "NavDate": "17-05-2019",
+    "NavPrice": 173.5509
+  },
+  {
+    "NavDate": "16-05-2019",
+    "NavPrice": 172.9301
+  },
+  {
+    "NavDate": "15-05-2019",
+    "NavPrice": 171.9748
+  },
+  {
+    "NavDate": "14-05-2019",
+    "NavPrice": 173.3152
+  },
+  {
+    "NavDate": "13-05-2019",
+    "NavPrice": 171.632
+  },
+  {
+    "NavDate": "10-05-2019",
+    "NavPrice": 175.436
+  },
+  {
+    "NavDate": "09-05-2019",
+    "NavPrice": 175.3756
+  },
+  {
+    "NavDate": "08-05-2019",
+    "NavPrice": 176.6304
+  },
+  {
+    "NavDate": "07-05-2019",
+    "NavPrice": 178.5036
+  },
+  {
+    "NavDate": "06-05-2019",
+    "NavPrice": 180.3936
+  },
+  {
+    "NavDate": "03-05-2019",
+    "NavPrice": 182.2297
+  },
+  {
+    "NavDate": "02-05-2019",
+    "NavPrice": 181.9143
+  },
+  {
+    "NavDate": "30-04-2019",
+    "NavPrice": 182.243
+  },
+  {
+    "NavDate": "26-04-2019",
+    "NavPrice": 183.6331
+  },
+  {
+    "NavDate": "25-04-2019",
+    "NavPrice": 182.1831
+  },
+  {
+    "NavDate": "24-04-2019",
+    "NavPrice": 183.4116
+  },
+  {
+    "NavDate": "23-04-2019",
+    "NavPrice": 181.9584
+  },
+  {
+    "NavDate": "22-04-2019",
+    "NavPrice": 181.2614
+  },
+  {
+    "NavDate": "18-04-2019",
+    "NavPrice": 184.5485
+  },
+  {
+    "NavDate": "16-04-2019",
+    "NavPrice": 185.6075
+  },
+  {
+    "NavDate": "15-04-2019",
+    "NavPrice": 185.0561
+  },
+  {
+    "NavDate": "12-04-2019",
+    "NavPrice": 185.0482
+  },
+  {
+    "NavDate": "11-04-2019",
+    "NavPrice": 183.4678
+  },
+  {
+    "NavDate": "10-04-2019",
+    "NavPrice": 182.4022
+  },
+  {
+    "NavDate": "09-04-2019",
+    "NavPrice": 183.2872
+  },
+  {
+    "NavDate": "08-04-2019",
+    "NavPrice": 182.6638
+  },
+  {
+    "NavDate": "05-04-2019",
+    "NavPrice": 182.0547
+  },
+  {
+    "NavDate": "04-04-2019",
+    "NavPrice": 181.1686
+  },
+  {
+    "NavDate": "03-04-2019",
+    "NavPrice": 182.4745
+  },
+  {
+    "NavDate": "02-04-2019",
+    "NavPrice": 183.8212
+  },
+  {
+    "NavDate": "01-04-2019",
+    "NavPrice": 184.5428
+  },
+  {
+    "NavDate": "31-03-2019",
+    "NavPrice": 183.7462
+  },
+  {
+    "NavDate": "29-03-2019",
+    "NavPrice": 183.7683
+  },
+  {
+    "NavDate": "28-03-2019",
+    "NavPrice": 181.616
+  },
+  {
+    "NavDate": "27-03-2019",
+    "NavPrice": 179.9847
+  },
+  {
+    "NavDate": "26-03-2019",
+    "NavPrice": 179.4144
+  },
+  {
+    "NavDate": "25-03-2019",
+    "NavPrice": 177.2427
+  },
+  {
+    "NavDate": "22-03-2019",
+    "NavPrice": 179.4631
+  },
+  {
+    "NavDate": "20-03-2019",
+    "NavPrice": 180.7152
+  },
+  {
+    "NavDate": "19-03-2019",
+    "NavPrice": 181.1448
+  },
+  {
+    "NavDate": "18-03-2019",
+    "NavPrice": 179.8579
+  },
+  {
+    "NavDate": "15-03-2019",
+    "NavPrice": 179.6278
+  },
+  {
+    "NavDate": "14-03-2019",
+    "NavPrice": 179.098
+  },
+  {
+    "NavDate": "13-03-2019",
+    "NavPrice": 179.0405
+  },
+  {
+    "NavDate": "12-03-2019",
+    "NavPrice": 179.8386
+  },
+  {
+    "NavDate": "11-03-2019",
+    "NavPrice": 178.0827
+  },
+  {
+    "NavDate": "08-03-2019",
+    "NavPrice": 175.0211
+  },
+  {
+    "NavDate": "07-03-2019",
+    "NavPrice": 175.2824
+  },
+  {
+    "NavDate": "06-03-2019",
+    "NavPrice": 175.1356
+  },
+  {
+    "NavDate": "05-03-2019",
+    "NavPrice": 173.9454
+  },
+  {
+    "NavDate": "01-03-2019",
+    "NavPrice": 170.7099
+  },
+  {
+    "NavDate": "28-02-2019",
+    "NavPrice": 168.8831
+  },
+  {
+    "NavDate": "27-02-2019",
+    "NavPrice": 168.2573
+  },
+  {
+    "NavDate": "26-02-2019",
+    "NavPrice": 167.585
+  },
+  {
+    "NavDate": "25-02-2019",
+    "NavPrice": 168.28
+  },
+  {
+    "NavDate": "22-02-2019",
+    "NavPrice": 167.6778
+  },
+  {
+    "NavDate": "21-02-2019",
+    "NavPrice": 167.1961
+  },
+  {
+    "NavDate": "20-02-2019",
+    "NavPrice": 166.1329
+  },
+  {
+    "NavDate": "19-02-2019",
+    "NavPrice": 164.895
+  },
+  {
+    "NavDate": "18-02-2019",
+    "NavPrice": 164.1053
+  },
+  {
+    "NavDate": "15-02-2019",
+    "NavPrice": 165.2388
+  },
+  {
+    "NavDate": "14-02-2019",
+    "NavPrice": 166.9622
+  },
+  {
+    "NavDate": "13-02-2019",
+    "NavPrice": 166.4927
+  },
+  {
+    "NavDate": "12-02-2019",
+    "NavPrice": 168.5145
+  },
+  {
+    "NavDate": "11-02-2019",
+    "NavPrice": 169.152
+  },
+  {
+    "NavDate": "08-02-2019",
+    "NavPrice": 171.5523
+  },
+  {
+    "NavDate": "07-02-2019",
+    "NavPrice": 173.9643
+  },
+  {
+    "NavDate": "06-02-2019",
+    "NavPrice": 172.7283
+  },
+  {
+    "NavDate": "05-02-2019",
+    "NavPrice": 171.3545
+  },
+  {
+    "NavDate": "04-02-2019",
+    "NavPrice": 172.4602
+  },
+  {
+    "NavDate": "01-02-2019",
+    "NavPrice": 173.7729
+  },
+  {
+    "NavDate": "31-01-2019",
+    "NavPrice": 174.7303
+  },
+  {
+    "NavDate": "30-01-2019",
+    "NavPrice": 173.258
+  },
+  {
+    "NavDate": "29-01-2019",
+    "NavPrice": 171.0762
+  },
+  {
+    "NavDate": "28-01-2019",
+    "NavPrice": 169.4688
+  },
+  {
+    "NavDate": "25-01-2019",
+    "NavPrice": 172.8335
+  },
+  {
+    "NavDate": "24-01-2019",
+    "NavPrice": 174.6452
+  },
+  {
+    "NavDate": "23-01-2019",
+    "NavPrice": 174.5433
+  },
+  {
+    "NavDate": "22-01-2019",
+    "NavPrice": 176.2037
+  },
+  {
+    "NavDate": "21-01-2019",
+    "NavPrice": 176.0536
+  },
+  {
+    "NavDate": "18-01-2019",
+    "NavPrice": 177.2786
+  },
+  {
+    "NavDate": "17-01-2019",
+    "NavPrice": 179.442
+  },
+  {
+    "NavDate": "16-01-2019",
+    "NavPrice": 180.6476
+  },
+  {
+    "NavDate": "15-01-2019",
+    "NavPrice": 180.7718
+  },
+  {
+    "NavDate": "14-01-2019",
+    "NavPrice": 180.3954
+  },
+  {
+    "NavDate": "11-01-2019",
+    "NavPrice": 181.4391
+  },
+  {
+    "NavDate": "10-01-2019",
+    "NavPrice": 181.8753
+  },
+  {
+    "NavDate": "09-01-2019",
+    "NavPrice": 181.8109
+  },
+  {
+    "NavDate": "08-01-2019",
+    "NavPrice": 181.0697
+  },
+  {
+    "NavDate": "07-01-2019",
+    "NavPrice": 178.7176
+  },
+  {
+    "NavDate": "04-01-2019",
+    "NavPrice": 178.651
+  },
+  {
+    "NavDate": "03-01-2019",
+    "NavPrice": 176.662
+  },
+  {
+    "NavDate": "02-01-2019",
+    "NavPrice": 178.0014
+  },
+  {
+    "NavDate": "01-01-2019",
+    "NavPrice": 179.5767
+  },
+  {
+    "NavDate": "31-12-2018",
+    "NavPrice": 178.729
+  },
+  {
+    "NavDate": "28-12-2018",
+    "NavPrice": 178.5029
+  },
+  {
+    "NavDate": "27-12-2018",
+    "NavPrice": 176.2863
+  },
+  {
+    "NavDate": "26-12-2018",
+    "NavPrice": 176.1948
+  },
+  {
+    "NavDate": "24-12-2018",
+    "NavPrice": 175.244
+  },
+  {
+    "NavDate": "21-12-2018",
+    "NavPrice": 176.2978
+  },
+  {
+    "NavDate": "20-12-2018",
+    "NavPrice": 178.8707
+  },
+  {
+    "NavDate": "19-12-2018",
+    "NavPrice": 179.813
+  },
+  {
+    "NavDate": "18-12-2018",
+    "NavPrice": 177.0214
+  },
+  {
+    "NavDate": "17-12-2018",
+    "NavPrice": 176.1601
+  },
+  {
+    "NavDate": "14-12-2018",
+    "NavPrice": 175.5546
+  },
+  {
+    "NavDate": "13-12-2018",
+    "NavPrice": 175.4617
+  },
+  {
+    "NavDate": "12-12-2018",
+    "NavPrice": 174.5268
+  },
+  {
+    "NavDate": "11-12-2018",
+    "NavPrice": 170.8258
+  },
+  {
+    "NavDate": "10-12-2018",
+    "NavPrice": 168.2177
+  },
+  {
+    "NavDate": "07-12-2018",
+    "NavPrice": 171.5366
+  },
+  {
+    "NavDate": "06-12-2018",
+    "NavPrice": 170.8337
+  },
+  {
+    "NavDate": "05-12-2018",
+    "NavPrice": 173.8357
+  },
+  {
+    "NavDate": "04-12-2018",
+    "NavPrice": 176.553
+  },
+  {
+    "NavDate": "03-12-2018",
+    "NavPrice": 177.7183
+  },
+  {
+    "NavDate": "30-11-2018",
+    "NavPrice": 178.2206
+  },
+  {
+    "NavDate": "29-11-2018",
+    "NavPrice": 177.396
+  },
+  {
+    "NavDate": "28-11-2018",
+    "NavPrice": 175.395
+  },
+  {
+    "NavDate": "27-11-2018",
+    "NavPrice": 175.7052
+  },
+  {
+    "NavDate": "26-11-2018",
+    "NavPrice": 175.7258
+  },
+  {
+    "NavDate": "22-11-2018",
+    "NavPrice": 174.4219
+  },
+  {
+    "NavDate": "21-11-2018",
+    "NavPrice": 176.2931
+  },
+  {
+    "NavDate": "20-11-2018",
+    "NavPrice": 175.4235
+  },
+  {
+    "NavDate": "19-11-2018",
+    "NavPrice": 177.7956
+  },
+  {
+    "NavDate": "16-11-2018",
+    "NavPrice": 176.8672
+  },
+  {
+    "NavDate": "15-11-2018",
+    "NavPrice": 176.5592
+  },
+  {
+    "NavDate": "14-11-2018",
+    "NavPrice": 175.4947
+  },
+  {
+    "NavDate": "13-11-2018",
+    "NavPrice": 174.9094
+  },
+  {
+    "NavDate": "12-11-2018",
+    "NavPrice": 173.9941
+  },
+  {
+    "NavDate": "09-11-2018",
+    "NavPrice": 175.5128
+  },
+  {
+    "NavDate": "06-11-2018",
+    "NavPrice": 173.2977
+  },
+  {
+    "NavDate": "05-11-2018",
+    "NavPrice": 174.1751
+  },
+  {
+    "NavDate": "02-11-2018",
+    "NavPrice": 174.0812
+  },
+  {
+    "NavDate": "01-11-2018",
+    "NavPrice": 172.1523
+  },
+  {
+    "NavDate": "31-10-2018",
+    "NavPrice": 171.9656
+  },
+  {
+    "NavDate": "30-10-2018",
+    "NavPrice": 169.0927
+  },
+  {
+    "NavDate": "29-10-2018",
+    "NavPrice": 168.8176
+  },
+  {
+    "NavDate": "26-10-2018",
+    "NavPrice": 164.117
+  },
+  {
+    "NavDate": "25-10-2018",
+    "NavPrice": 164.9242
+  },
+  {
+    "NavDate": "24-10-2018",
+    "NavPrice": 166.9747
+  },
+  {
+    "NavDate": "23-10-2018",
+    "NavPrice": 166.749
+  },
+  {
+    "NavDate": "22-10-2018",
+    "NavPrice": 168.2165
+  },
+  {
+    "NavDate": "19-10-2018",
+    "NavPrice": 168.785
+  },
+  {
+    "NavDate": "17-10-2018",
+    "NavPrice": 170.6673
+  },
+  {
+    "NavDate": "16-10-2018",
+    "NavPrice": 172.4629
+  },
+  {
+    "NavDate": "15-10-2018",
+    "NavPrice": 171.2844
+  },
+  {
+    "NavDate": "12-10-2018",
+    "NavPrice": 169.7016
+  },
+  {
+    "NavDate": "11-10-2018",
+    "NavPrice": 167.3293
+  },
+  {
+    "NavDate": "10-10-2018",
+    "NavPrice": 170.224
+  },
+  {
+    "NavDate": "09-10-2018",
+    "NavPrice": 167.835
+  },
+  {
+    "NavDate": "08-10-2018",
+    "NavPrice": 167.6906
+  },
+  {
+    "NavDate": "05-10-2018",
+    "NavPrice": 168.7231
+  },
+  {
+    "NavDate": "04-10-2018",
+    "NavPrice": 172.2798
+  },
+  {
+    "NavDate": "03-10-2018",
+    "NavPrice": 175.6866
+  },
+  {
+    "NavDate": "01-10-2018",
+    "NavPrice": 176.397
+  },
+  {
+    "NavDate": "28-09-2018",
+    "NavPrice": 175.6981
+  },
+  {
+    "NavDate": "27-09-2018",
+    "NavPrice": 177.3858
+  },
+  {
+    "NavDate": "26-09-2018",
+    "NavPrice": 179.3753
+  },
+  {
+    "NavDate": "25-09-2018",
+    "NavPrice": 178.6857
+  },
+  {
+    "NavDate": "24-09-2018",
+    "NavPrice": 176.5353
+  },
+  {
+    "NavDate": "21-09-2018",
+    "NavPrice": 180.1084
+  },
+  {
+    "NavDate": "19-09-2018",
+    "NavPrice": 182.666
+  },
+  {
+    "NavDate": "18-09-2018",
+    "NavPrice": 183.2436
+  },
+  {
+    "NavDate": "17-09-2018",
+    "NavPrice": 185.1939
+  },
+  {
+    "NavDate": "14-09-2018",
+    "NavPrice": 187.1147
+  },
+  {
+    "NavDate": "12-09-2018",
+    "NavPrice": 184.8291
+  },
+  {
+    "NavDate": "11-09-2018",
+    "NavPrice": 183.774
+  },
+  {
+    "NavDate": "10-09-2018",
+    "NavPrice": 186.4843
+  },
+  {
+    "NavDate": "07-09-2018",
+    "NavPrice": 189.0319
+  },
+  {
+    "NavDate": "06-09-2018",
+    "NavPrice": 187.4358
+  },
+  {
+    "NavDate": "05-09-2018",
+    "NavPrice": 184.6711
+  },
+  {
+    "NavDate": "04-09-2018",
+    "NavPrice": 184.8285
+  },
+  {
+    "NavDate": "03-09-2018",
+    "NavPrice": 187.0507
+  },
+  {
+    "NavDate": "31-08-2018",
+    "NavPrice": 188.7891
+  },
+  {
+    "NavDate": "30-08-2018",
+    "NavPrice": 187.5992
+  },
+  {
+    "NavDate": "29-08-2018",
+    "NavPrice": 187.0716
+  },
+  {
+    "NavDate": "28-08-2018",
+    "NavPrice": 187.6855
+  },
+  {
+    "NavDate": "27-08-2018",
+    "NavPrice": 187.1051
+  },
+  {
+    "NavDate": "24-08-2018",
+    "NavPrice": 186.0407
+  },
+  {
+    "NavDate": "23-08-2018",
+    "NavPrice": 185.4341
+  },
+  {
+    "NavDate": "21-08-2018",
+    "NavPrice": 184.6646
+  },
+  {
+    "NavDate": "20-08-2018",
+    "NavPrice": 184.5165
+  },
+  {
+    "NavDate": "17-08-2018",
+    "NavPrice": 182.4831
+  },
+  {
+    "NavDate": "16-08-2018",
+    "NavPrice": 180.2653
+  },
+  {
+    "NavDate": "14-08-2018",
+    "NavPrice": 181.7701
+  },
+  {
+    "NavDate": "13-08-2018",
+    "NavPrice": 180.9238
+  },
+  {
+    "NavDate": "10-08-2018",
+    "NavPrice": 181.4903
+  },
+  {
+    "NavDate": "09-08-2018",
+    "NavPrice": 182.6519
+  },
+  {
+    "NavDate": "08-08-2018",
+    "NavPrice": 182.9927
+  },
+  {
+    "NavDate": "07-08-2018",
+    "NavPrice": 183.0353
+  },
+  {
+    "NavDate": "06-08-2018",
+    "NavPrice": 182.4306
+  },
+  {
+    "NavDate": "03-08-2018",
+    "NavPrice": 181.856
+  },
+  {
+    "NavDate": "02-08-2018",
+    "NavPrice": 180.3969
+  },
+  {
+    "NavDate": "01-08-2018",
+    "NavPrice": 182.4492
+  },
+  {
+    "NavDate": "31-07-2018",
+    "NavPrice": 182.137
+  },
+  {
+    "NavDate": "30-07-2018",
+    "NavPrice": 181.7548
+  },
+  {
+    "NavDate": "27-07-2018",
+    "NavPrice": 181.6222
+  },
+  {
+    "NavDate": "26-07-2018",
+    "NavPrice": 180.1866
+  },
+  {
+    "NavDate": "25-07-2018",
+    "NavPrice": 179.6916
+  },
+  {
+    "NavDate": "24-07-2018",
+    "NavPrice": 179.6381
+  },
+  {
+    "NavDate": "23-07-2018",
+    "NavPrice": 176.8961
+  },
+  {
+    "NavDate": "20-07-2018",
+    "NavPrice": 174.721
+  },
+  {
+    "NavDate": "19-07-2018",
+    "NavPrice": 173.8596
+  },
+  {
+    "NavDate": "18-07-2018",
+    "NavPrice": 174.6788
+  },
+  {
+    "NavDate": "17-07-2018",
+    "NavPrice": 175.6361
+  },
+  {
+    "NavDate": "16-07-2018",
+    "NavPrice": 174.6048
+  },
+  {
+    "NavDate": "13-07-2018",
+    "NavPrice": 176.9044
+  },
+  {
+    "NavDate": "12-07-2018",
+    "NavPrice": 177.5122
+  },
+  {
+    "NavDate": "11-07-2018",
+    "NavPrice": 176.9115
+  },
+  {
+    "NavDate": "10-07-2018",
+    "NavPrice": 178.0145
+  },
+  {
+    "NavDate": "09-07-2018",
+    "NavPrice": 176.9468
+  },
+  {
+    "NavDate": "06-07-2018",
+    "NavPrice": 175.6948
+  },
+  {
+    "NavDate": "05-07-2018",
+    "NavPrice": 175.0719
+  },
+  {
+    "NavDate": "04-07-2018",
+    "NavPrice": 174.9452
+  },
+  {
+    "NavDate": "03-07-2018",
+    "NavPrice": 174.7617
+  },
+  {
+    "NavDate": "02-07-2018",
+    "NavPrice": 173.8307
+  },
+  {
+    "NavDate": "29-06-2018",
+    "NavPrice": 175.1641
+  },
+  {
+    "NavDate": "28-06-2018",
+    "NavPrice": 173.7595
+  },
+  {
+    "NavDate": "27-06-2018",
+    "NavPrice": 175.0404
+  },
+  {
+    "NavDate": "26-06-2018",
+    "NavPrice": 175.9226
+  },
+  {
+    "NavDate": "25-06-2018",
+    "NavPrice": 175.1728
+  },
+  {
+    "NavDate": "22-06-2018",
+    "NavPrice": 176.406
+  },
+  {
+    "NavDate": "21-06-2018",
+    "NavPrice": 175.5937
+  },
+  {
+    "NavDate": "20-06-2018",
+    "NavPrice": 176.8224
+  },
+  {
+    "NavDate": "19-06-2018",
+    "NavPrice": 176.2366
+  },
+  {
+    "NavDate": "18-06-2018",
+    "NavPrice": 177.3068
+  },
+  {
+    "NavDate": "15-06-2018",
+    "NavPrice": 177.1485
+  },
+  {
+    "NavDate": "14-06-2018",
+    "NavPrice": 177.549
+  },
+  {
+    "NavDate": "13-06-2018",
+    "NavPrice": 177.6678
+  },
+  {
+    "NavDate": "12-06-2018",
+    "NavPrice": 178.2609
+  },
+  {
+    "NavDate": "11-06-2018",
+    "NavPrice": 177.3981
+  },
+  {
+    "NavDate": "08-06-2018",
+    "NavPrice": 176.7047
+  },
+  {
+    "NavDate": "07-06-2018",
+    "NavPrice": 176.9691
+  },
+  {
+    "NavDate": "06-06-2018",
+    "NavPrice": 175.3407
+  },
+  {
+    "NavDate": "05-06-2018",
+    "NavPrice": 173.918
+  },
+  {
+    "NavDate": "04-06-2018",
+    "NavPrice": 175.0043
+  },
+  {
+    "NavDate": "01-06-2018",
+    "NavPrice": 176.2914
+  },
+  {
+    "NavDate": "31-05-2018",
+    "NavPrice": 177.298
+  },
+  {
+    "NavDate": "30-05-2018",
+    "NavPrice": 176.7676
+  },
+  {
+    "NavDate": "29-05-2018",
+    "NavPrice": 176.9307
+  },
+  {
+    "NavDate": "28-05-2018",
+    "NavPrice": 177.4316
+  },
+  {
+    "NavDate": "25-05-2018",
+    "NavPrice": 175.8374
+  },
+  {
+    "NavDate": "24-05-2018",
+    "NavPrice": 174.2986
+  },
+  {
+    "NavDate": "23-05-2018",
+    "NavPrice": 174.9612
+  },
+  {
+    "NavDate": "22-05-2018",
+    "NavPrice": 175.7543
+  },
+  {
+    "NavDate": "21-05-2018",
+    "NavPrice": 175.2826
+  },
+  {
+    "NavDate": "18-05-2018",
+    "NavPrice": 177.2489
+  },
+  {
+    "NavDate": "17-05-2018",
+    "NavPrice": 178.9377
+  },
+  {
+    "NavDate": "16-05-2018",
+    "NavPrice": 179.2245
+  },
+  {
+    "NavDate": "15-05-2018",
+    "NavPrice": 179.0525
+  },
+  {
+    "NavDate": "14-05-2018",
+    "NavPrice": 180.0457
+  },
+  {
+    "NavDate": "11-05-2018",
+    "NavPrice": 179.7003
+  },
+  {
+    "NavDate": "10-05-2018",
+    "NavPrice": 178.7147
+  },
+  {
+    "NavDate": "09-05-2018",
+    "NavPrice": 179.9082
+  },
+  {
+    "NavDate": "08-05-2018",
+    "NavPrice": 179.6082
+  },
+  {
+    "NavDate": "07-05-2018",
+    "NavPrice": 179.8409
+  },
+  {
+    "NavDate": "04-05-2018",
+    "NavPrice": 178.6371
+  },
+  {
+    "NavDate": "03-05-2018",
+    "NavPrice": 179.894
+  },
+  {
+    "NavDate": "02-05-2018",
+    "NavPrice": 181.2442
+  },
+  {
+    "NavDate": "30-04-2018",
+    "NavPrice": 182.1829
+  },
+  {
+    "NavDate": "27-04-2018",
+    "NavPrice": 181.2971
+  },
+  {
+    "NavDate": "26-04-2018",
+    "NavPrice": 180.068
+  },
+  {
+    "NavDate": "25-04-2018",
+    "NavPrice": 180.1152
+  },
+  {
+    "NavDate": "24-04-2018",
+    "NavPrice": 180.7414
+  },
+  {
+    "NavDate": "23-04-2018",
+    "NavPrice": 180.1966
+  },
+  {
+    "NavDate": "20-04-2018",
+    "NavPrice": 179.6796
+  },
+  {
+    "NavDate": "19-04-2018",
+    "NavPrice": 180.5917
+  },
+  {
+    "NavDate": "18-04-2018",
+    "NavPrice": 179.7565
+  },
+  {
+    "NavDate": "17-04-2018",
+    "NavPrice": 179.8302
+  },
+  {
+    "NavDate": "16-04-2018",
+    "NavPrice": 180.3265
+  },
+  {
+    "NavDate": "13-04-2018",
+    "NavPrice": 179.2801
+  },
+  {
+    "NavDate": "12-04-2018",
+    "NavPrice": 178.9774
+  },
+  {
+    "NavDate": "11-04-2018",
+    "NavPrice": 179.1906
+  },
+  {
+    "NavDate": "10-04-2018",
+    "NavPrice": 179.2844
+  },
+  {
+    "NavDate": "09-04-2018",
+    "NavPrice": 178.9702
+  },
+  {
+    "NavDate": "06-04-2018",
+    "NavPrice": 179.0239
+  },
+  {
+    "NavDate": "05-04-2018",
+    "NavPrice": 178.1734
+  },
+  {
+    "NavDate": "04-04-2018",
+    "NavPrice": 176.345
+  },
+  {
+    "NavDate": "03-04-2018",
+    "NavPrice": 177.6358
+  },
+  {
+    "NavDate": "02-04-2018",
+    "NavPrice": 176.9085
+  },
+  {
+    "NavDate": "31-03-2018",
+    "NavPrice": 174.3756
+  },
+  {
+    "NavDate": "28-03-2018",
+    "NavPrice": 174.3945
+  },
+  {
+    "NavDate": "27-03-2018",
+    "NavPrice": 174.6666
+  },
+  {
+    "NavDate": "26-03-2018",
+    "NavPrice": 173.3085
+  },
+  {
+    "NavDate": "23-03-2018",
+    "NavPrice": 171.653
+  },
+  {
+    "NavDate": "22-03-2018",
+    "NavPrice": 172.7778
+  },
+  {
+    "NavDate": "21-03-2018",
+    "NavPrice": 173.4073
+  },
+  {
+    "NavDate": "20-03-2018",
+    "NavPrice": 173.5527
+  },
+  {
+    "NavDate": "19-03-2018",
+    "NavPrice": 173.2191
+  },
+  {
+    "NavDate": "16-03-2018",
+    "NavPrice": 174.5278
+  },
+  {
+    "NavDate": "15-03-2018",
+    "NavPrice": 175.9457
+  },
+  {
+    "NavDate": "14-03-2018",
+    "NavPrice": 176.261
+  },
+  {
+    "NavDate": "13-03-2018",
+    "NavPrice": 175.9849
+  },
+  {
+    "NavDate": "12-03-2018",
+    "NavPrice": 175.5116
+  },
+  {
+    "NavDate": "09-03-2018",
+    "NavPrice": 174.6523
+  },
+  {
+    "NavDate": "08-03-2018",
+    "NavPrice": 174.5187
+  },
+  {
+    "NavDate": "07-03-2018",
+    "NavPrice": 173.8744
+  },
+  {
+    "NavDate": "06-03-2018",
+    "NavPrice": 175.995
+  },
+  {
+    "NavDate": "05-03-2018",
+    "NavPrice": 176.9692
+  },
+  {
+    "NavDate": "01-03-2018",
+    "NavPrice": 179.1004
+  },
+  {
+    "NavDate": "28-02-2018",
+    "NavPrice": 179.2919
+  },
+  {
+    "NavDate": "27-02-2018",
+    "NavPrice": 179.68
+  },
+  {
+    "NavDate": "26-02-2018",
+    "NavPrice": 179.7946
+  },
+  {
+    "NavDate": "23-02-2018",
+    "NavPrice": 177.651
+  },
+  {
+    "NavDate": "22-02-2018",
+    "NavPrice": 175.9972
+  },
+  {
+    "NavDate": "21-02-2018",
+    "NavPrice": 175.8462
+  },
+  {
+    "NavDate": "20-02-2018",
+    "NavPrice": 176.0561
+  },
+  {
+    "NavDate": "19-02-2018",
+    "NavPrice": 175.5336
+  },
+  {
+    "NavDate": "16-02-2018",
+    "NavPrice": 177.038
+  },
+  {
+    "NavDate": "15-02-2018",
+    "NavPrice": 178.4849
+  },
+  {
+    "NavDate": "14-02-2018",
+    "NavPrice": 180.0168
+  },
+  {
+    "NavDate": "12-02-2018",
+    "NavPrice": 179.5076
+  },
+  {
+    "NavDate": "09-02-2018",
+    "NavPrice": 177.7147
+  },
+  {
+    "NavDate": "08-02-2018",
+    "NavPrice": 178.161
+  },
+  {
+    "NavDate": "07-02-2018",
+    "NavPrice": 174.6668
+  },
+  {
+    "NavDate": "06-02-2018",
+    "NavPrice": 173.8882
+  },
+  {
+    "NavDate": "05-02-2018",
+    "NavPrice": 175.6367
+  },
+  {
+    "NavDate": "02-02-2018",
+    "NavPrice": 176.9984
+  },
+  {
+    "NavDate": "01-02-2018",
+    "NavPrice": 182.2313
+  },
+  {
+    "NavDate": "31-01-2018",
+    "NavPrice": 180.4911
+  },
+  {
+    "NavDate": "30-01-2018",
+    "NavPrice": 180.9732
+  },
+  {
+    "NavDate": "29-01-2018",
+    "NavPrice": 181.5811
+  },
+  {
+    "NavDate": "25-01-2018",
+    "NavPrice": 181.5528
+  },
+  {
+    "NavDate": "24-01-2018",
+    "NavPrice": 182.6545
+  },
+  {
+    "NavDate": "23-01-2018",
+    "NavPrice": 183.7659
+  },
+  {
+    "NavDate": "22-01-2018",
+    "NavPrice": 183.3568
+  },
+  {
+    "NavDate": "19-01-2018",
+    "NavPrice": 182.684
+  },
+  {
+    "NavDate": "18-01-2018",
+    "NavPrice": 181.8901
+  },
+  {
+    "NavDate": "17-01-2018",
+    "NavPrice": 183.6975
+  },
+  {
+    "NavDate": "16-01-2018",
+    "NavPrice": 182.4843
+  },
+  {
+    "NavDate": "15-01-2018",
+    "NavPrice": 184.9738
+  },
+  {
+    "NavDate": "12-01-2018",
+    "NavPrice": 184.3125
+  },
+  {
+    "NavDate": "11-01-2018",
+    "NavPrice": 184.2761
+  },
+  {
+    "NavDate": "10-01-2018",
+    "NavPrice": 184.0091
+  },
+  {
+    "NavDate": "09-01-2018",
+    "NavPrice": 184.661
+  },
+  {
+    "NavDate": "08-01-2018",
+    "NavPrice": 184.4729
+  },
+  {
+    "NavDate": "05-01-2018",
+    "NavPrice": 183.8948
+  },
+  {
+    "NavDate": "04-01-2018",
+    "NavPrice": 182.1646
+  },
+  {
+    "NavDate": "03-01-2018",
+    "NavPrice": 180.8881
+  },
+  {
+    "NavDate": "02-01-2018",
+    "NavPrice": 179.6707
+  },
+  {
+    "NavDate": "01-01-2018",
+    "NavPrice": 180.635
+  },
+  {
+    "NavDate": "29-12-2017",
+    "NavPrice": 181.0426
+  },
+  {
+    "NavDate": "28-12-2017",
+    "NavPrice": 180.6487
+  },
+  {
+    "NavDate": "27-12-2017",
+    "NavPrice": 180.6071
+  },
+  {
+    "NavDate": "26-12-2017",
+    "NavPrice": 181.4235
+  },
+  {
+    "NavDate": "22-12-2017",
+    "NavPrice": 181.4499
+  },
+  {
+    "NavDate": "21-12-2017",
+    "NavPrice": 181.1874
+  },
+  {
+    "NavDate": "20-12-2017",
+    "NavPrice": 180.0576
+  },
+  {
+    "NavDate": "19-12-2017",
+    "NavPrice": 179.9231
+  },
+  {
+    "NavDate": "18-12-2017",
+    "NavPrice": 178.2445
+  },
+  {
+    "NavDate": "15-12-2017",
+    "NavPrice": 176.9194
+  },
+  {
+    "NavDate": "14-12-2017",
+    "NavPrice": 174.5771
+  },
+  {
+    "NavDate": "13-12-2017",
+    "NavPrice": 174.0337
+  },
+  {
+    "NavDate": "12-12-2017",
+    "NavPrice": 174.6591
+  },
+  {
+    "NavDate": "11-12-2017",
+    "NavPrice": 176.1325
+  },
+  {
+    "NavDate": "08-12-2017",
+    "NavPrice": 175.48
+  },
+  {
+    "NavDate": "07-12-2017",
+    "NavPrice": 173.9023
+  },
+  {
+    "NavDate": "06-12-2017",
+    "NavPrice": 171.9396
+  },
+  {
+    "NavDate": "05-12-2017",
+    "NavPrice": 173.3257
+  },
+  {
+    "NavDate": "04-12-2017",
+    "NavPrice": 173.4014
+  },
+  {
+    "NavDate": "01-12-2017",
+    "NavPrice": 173.4906
+  },
+  {
+    "NavDate": "30-11-2017",
+    "NavPrice": 174.7723
+  },
+  {
+    "NavDate": "29-11-2017",
+    "NavPrice": 175.919
+  },
+  {
+    "NavDate": "28-11-2017",
+    "NavPrice": 176.4257
+  },
+  {
+    "NavDate": "27-11-2017",
+    "NavPrice": 175.9387
+  },
+  {
+    "NavDate": "24-11-2017",
+    "NavPrice": 175.3924
+  },
+  {
+    "NavDate": "23-11-2017",
+    "NavPrice": 175.7312
+  },
+  {
+    "NavDate": "22-11-2017",
+    "NavPrice": 175.7982
+  },
+  {
+    "NavDate": "21-11-2017",
+    "NavPrice": 174.1813
+  },
+  {
+    "NavDate": "20-11-2017",
+    "NavPrice": 173.8668
+  },
+  {
+    "NavDate": "17-11-2017",
+    "NavPrice": 172.1246
+  },
+  {
+    "NavDate": "16-11-2017",
+    "NavPrice": 171.0778
+  },
+  {
+    "NavDate": "15-11-2017",
+    "NavPrice": 170.4554
+  },
+  {
+    "NavDate": "14-11-2017",
+    "NavPrice": 171.0824
+  },
+  {
+    "NavDate": "13-11-2017",
+    "NavPrice": 169.6072
+  },
+  {
+    "NavDate": "10-11-2017",
+    "NavPrice": 171.2601
+  },
+  {
+    "NavDate": "09-11-2017",
+    "NavPrice": 170.5058
+  },
+  {
+    "NavDate": "08-11-2017",
+    "NavPrice": 169.977
+  },
+  {
+    "NavDate": "07-11-2017",
+    "NavPrice": 170.1713
+  },
+  {
+    "NavDate": "06-11-2017",
+    "NavPrice": 171.8959
+  },
+  {
+    "NavDate": "03-11-2017",
+    "NavPrice": 171.595
+  },
+  {
+    "NavDate": "02-11-2017",
+    "NavPrice": 170.8202
+  },
+  {
+    "NavDate": "01-11-2017",
+    "NavPrice": 171.3254
+  },
+  {
+    "NavDate": "31-10-2017",
+    "NavPrice": 169.5497
+  },
+  {
+    "NavDate": "30-10-2017",
+    "NavPrice": 169.9177
+  },
+  {
+    "NavDate": "27-10-2017",
+    "NavPrice": 168.3118
+  },
+  {
+    "NavDate": "26-10-2017",
+    "NavPrice": 167.6925
+  },
+  {
+    "NavDate": "25-10-2017",
+    "NavPrice": 167.1441
+  },
+  {
+    "NavDate": "24-10-2017",
+    "NavPrice": 165.2697
+  },
+  {
+    "NavDate": "23-10-2017",
+    "NavPrice": 165.2397
+  },
+  {
+    "NavDate": "18-10-2017",
+    "NavPrice": 164.3086
+  },
+  {
+    "NavDate": "17-10-2017",
+    "NavPrice": 164.6305
+  },
+  {
+    "NavDate": "16-10-2017",
+    "NavPrice": 164.5749
+  },
+  {
+    "NavDate": "13-10-2017",
+    "NavPrice": 164.0406
+  },
+  {
+    "NavDate": "12-10-2017",
+    "NavPrice": 163.7623
+  },
+  {
+    "NavDate": "11-10-2017",
+    "NavPrice": 162.855
+  },
+  {
+    "NavDate": "10-10-2017",
+    "NavPrice": 163.7094
+  },
+  {
+    "NavDate": "09-10-2017",
+    "NavPrice": 163.4174
+  },
+  {
+    "NavDate": "06-10-2017",
+    "NavPrice": 163.1923
+  },
+  {
+    "NavDate": "05-10-2017",
+    "NavPrice": 161.7294
+  },
+  {
+    "NavDate": "04-10-2017",
+    "NavPrice": 161.4145
+  },
+  {
+    "NavDate": "03-10-2017",
+    "NavPrice": 161.0121
+  },
+  {
+    "NavDate": "29-09-2017",
+    "NavPrice": 160.2146
+  },
+  {
+    "NavDate": "28-09-2017",
+    "NavPrice": 159.4878
+  },
+  {
+    "NavDate": "27-09-2017",
+    "NavPrice": 158.7792
+  },
+  {
+    "NavDate": "26-09-2017",
+    "NavPrice": 161.6615
+  },
+  {
+    "NavDate": "25-09-2017",
+    "NavPrice": 160.8071
+  },
+  {
+    "NavDate": "22-09-2017",
+    "NavPrice": 162.9841
+  },
+  {
+    "NavDate": "21-09-2017",
+    "NavPrice": 166.5988
+  },
+  {
+    "NavDate": "20-09-2017",
+    "NavPrice": 167.3884
+  },
+  {
+    "NavDate": "19-09-2017",
+    "NavPrice": 167.6439
+  },
+  {
+    "NavDate": "18-09-2017",
+    "NavPrice": 167.2585
+  },
+  {
+    "NavDate": "15-09-2017",
+    "NavPrice": 166.6299
+  },
+  {
+    "NavDate": "14-09-2017",
+    "NavPrice": 166.8239
+  },
+  {
+    "NavDate": "13-09-2017",
+    "NavPrice": 166.885
+  },
+  {
+    "NavDate": "12-09-2017",
+    "NavPrice": 167.4388
+  },
+  {
+    "NavDate": "11-09-2017",
+    "NavPrice": 165.1109
+  },
+  {
+    "NavDate": "08-09-2017",
+    "NavPrice": 163.4675
+  },
+  {
+    "NavDate": "07-09-2017",
+    "NavPrice": 163.0518
+  },
+  {
+    "NavDate": "06-09-2017",
+    "NavPrice": 161.4171
+  },
+  {
+    "NavDate": "05-09-2017",
+    "NavPrice": 161.487
+  },
+  {
+    "NavDate": "04-09-2017",
+    "NavPrice": 160.9799
+  },
+  {
+    "NavDate": "01-09-2017",
+    "NavPrice": 162.0013
+  },
+  {
+    "NavDate": "31-08-2017",
+    "NavPrice": 160.9025
+  },
+  {
+    "NavDate": "30-08-2017",
+    "NavPrice": 160.8359
+  },
+  {
+    "NavDate": "29-08-2017",
+    "NavPrice": 159.5131
+  },
+  {
+    "NavDate": "28-08-2017",
+    "NavPrice": 160.8567
+  },
+  {
+    "NavDate": "24-08-2017",
+    "NavPrice": 159.5948
+  },
+  {
+    "NavDate": "23-08-2017",
+    "NavPrice": 159.9414
+  },
+  {
+    "NavDate": "22-08-2017",
+    "NavPrice": 158.5465
+  },
+  {
+    "NavDate": "21-08-2017",
+    "NavPrice": 159.2946
+  },
+  {
+    "NavDate": "18-08-2017",
+    "NavPrice": 160.0516
+  },
+  {
+    "NavDate": "17-08-2017",
+    "NavPrice": 160.9603
+  },
+  {
+    "NavDate": "16-08-2017",
+    "NavPrice": 161.3964
+  },
+  {
+    "NavDate": "14-08-2017",
+    "NavPrice": 160.2779
+  },
+  {
+    "NavDate": "11-08-2017",
+    "NavPrice": 157.6224
+  },
+  {
+    "NavDate": "10-08-2017",
+    "NavPrice": 157.922
+  },
+  {
+    "NavDate": "09-08-2017",
+    "NavPrice": 160.2474
+  },
+  {
+    "NavDate": "08-08-2017",
+    "NavPrice": 162.3317
+  },
+  {
+    "NavDate": "07-08-2017",
+    "NavPrice": 159.0499
+  },
+  {
+    "NavDate": "04-08-2017",
+    "NavPrice": 157.3295
+  },
+  {
+    "NavDate": "03-08-2017",
+    "NavPrice": 157.7149
+  },
+  {
+    "NavDate": "02-08-2017",
+    "NavPrice": 158.4262
+  },
+  {
+    "NavDate": "01-08-2017",
+    "NavPrice": 158.8334
+  },
+  {
+    "NavDate": "31-07-2017",
+    "NavPrice": 159.1024
+  },
+  {
+    "NavDate": "28-07-2017",
+    "NavPrice": 158.498
+  },
+  {
+    "NavDate": "27-07-2017",
+    "NavPrice": 158.1758
+  },
+  {
+    "NavDate": "26-07-2017",
+    "NavPrice": 158.866
+  },
+  {
+    "NavDate": "25-07-2017",
+    "NavPrice": 158.485
+  },
+  {
+    "NavDate": "24-07-2017",
+    "NavPrice": 157.8619
+  },
+  {
+    "NavDate": "21-07-2017",
+    "NavPrice": 158.4317
+  },
+  {
+    "NavDate": "20-07-2017",
+    "NavPrice": 158.7965
+  },
+  {
+    "NavDate": "19-07-2017",
+    "NavPrice": 158.1663
+  },
+  {
+    "NavDate": "18-07-2017",
+    "NavPrice": 157.3122
+  },
+  {
+    "NavDate": "17-07-2017",
+    "NavPrice": 157.6013
+  },
+  {
+    "NavDate": "14-07-2017",
+    "NavPrice": 157.3454
+  },
+  {
+    "NavDate": "13-07-2017",
+    "NavPrice": 157.7982
+  },
+  {
+    "NavDate": "12-07-2017",
+    "NavPrice": 157.1664
+  },
+  {
+    "NavDate": "11-07-2017",
+    "NavPrice": 156.5513
+  },
+  {
+    "NavDate": "10-07-2017",
+    "NavPrice": 157.2984
+  },
+  {
+    "NavDate": "07-07-2017",
+    "NavPrice": 156.5905
+  },
+  {
+    "NavDate": "06-07-2017",
+    "NavPrice": 156.9251
+  },
+  {
+    "NavDate": "05-07-2017",
+    "NavPrice": 157.4018
+  },
+  {
+    "NavDate": "04-07-2017",
+    "NavPrice": 156.6193
+  },
+  {
+    "NavDate": "03-07-2017",
+    "NavPrice": 155.7005
+  },
+  {
+    "NavDate": "30-06-2017",
+    "NavPrice": 154.1923
+  },
+  {
+    "NavDate": "29-06-2017",
+    "NavPrice": 153.3447
+  },
+  {
+    "NavDate": "28-06-2017",
+    "NavPrice": 152.0478
+  },
+  {
+    "NavDate": "27-06-2017",
+    "NavPrice": 152.1076
+  },
+  {
+    "NavDate": "23-06-2017",
+    "NavPrice": 153.6723
+  },
+  {
+    "NavDate": "22-06-2017",
+    "NavPrice": 155.5434
+  },
+  {
+    "NavDate": "21-06-2017",
+    "NavPrice": 156.2693
+  },
+  {
+    "NavDate": "20-06-2017",
+    "NavPrice": 156.429
+  },
+  {
+    "NavDate": "19-06-2017",
+    "NavPrice": 155.4055
+  },
+  {
+    "NavDate": "16-06-2017",
+    "NavPrice": 154.6603
+  },
+  {
+    "NavDate": "15-06-2017",
+    "NavPrice": 154.044
+  },
+  {
+    "NavDate": "14-06-2017",
+    "NavPrice": 153.9255
+  },
+  {
+    "NavDate": "13-06-2017",
+    "NavPrice": 153.5704
+  },
+  {
+    "NavDate": "12-06-2017",
+    "NavPrice": 154.4866
+  },
+  {
+    "NavDate": "09-06-2017",
+    "NavPrice": 155.2453
+  },
+  {
+    "NavDate": "08-06-2017",
+    "NavPrice": 155.0258
+  },
+  {
+    "NavDate": "07-06-2017",
+    "NavPrice": 155.0964
+  },
+  {
+    "NavDate": "06-06-2017",
+    "NavPrice": 153.7274
+  },
+  {
+    "NavDate": "05-06-2017",
+    "NavPrice": 154.2633
+  },
+  {
+    "NavDate": "02-06-2017",
+    "NavPrice": 153.3405
+  },
+  {
+    "NavDate": "01-06-2017",
+    "NavPrice": 153.113
+  },
+  {
+    "NavDate": "31-05-2017",
+    "NavPrice": 152.4573
+  },
+  {
+    "NavDate": "30-05-2017",
+    "NavPrice": 150.8903
+  },
+  {
+    "NavDate": "29-05-2017",
+    "NavPrice": 150.6789
+  },
+  {
+    "NavDate": "26-05-2017",
+    "NavPrice": 152.196
+  },
+  {
+    "NavDate": "25-05-2017",
+    "NavPrice": 150.8714
+  },
+  {
+    "NavDate": "24-05-2017",
+    "NavPrice": 148.3699
+  },
+  {
+    "NavDate": "23-05-2017",
+    "NavPrice": 148.8667
+  },
+  {
+    "NavDate": "22-05-2017",
+    "NavPrice": 150.35
+  },
+  {
+    "NavDate": "19-05-2017",
+    "NavPrice": 150.8953
+  },
+  {
+    "NavDate": "18-05-2017",
+    "NavPrice": 151.8224
+  },
+  {
+    "NavDate": "17-05-2017",
+    "NavPrice": 154.5539
+  },
+  {
+    "NavDate": "16-05-2017",
+    "NavPrice": 153.9213
+  },
+  {
+    "NavDate": "15-05-2017",
+    "NavPrice": 153.9474
+  },
+  {
+    "NavDate": "12-05-2017",
+    "NavPrice": 152.7204
+  },
+  {
+    "NavDate": "11-05-2017",
+    "NavPrice": 153.4957
+  },
+  {
+    "NavDate": "10-05-2017",
+    "NavPrice": 153.7719
+  },
+  {
+    "NavDate": "09-05-2017",
+    "NavPrice": 153.2805
+  },
+  {
+    "NavDate": "08-05-2017",
+    "NavPrice": 152.488
+  },
+  {
+    "NavDate": "05-05-2017",
+    "NavPrice": 152.0372
+  },
+  {
+    "NavDate": "04-05-2017",
+    "NavPrice": 152.6536
+  },
+  {
+    "NavDate": "03-05-2017",
+    "NavPrice": 152.074
+  },
+  {
+    "NavDate": "02-05-2017",
+    "NavPrice": 152.9873
+  },
+  {
+    "NavDate": "28-04-2017",
+    "NavPrice": 152.1788
+  },
+  {
+    "NavDate": "27-04-2017",
+    "NavPrice": 151.822
+  },
+  {
+    "NavDate": "26-04-2017",
+    "NavPrice": 152.1387
+  },
+  {
+    "NavDate": "25-04-2017",
+    "NavPrice": 152.4748
+  },
+  {
+    "NavDate": "24-04-2017",
+    "NavPrice": 152.2265
+  },
+  {
+    "NavDate": "21-04-2017",
+    "NavPrice": 150.8546
+  },
+  {
+    "NavDate": "20-04-2017",
+    "NavPrice": 151.2354
+  },
+  {
+    "NavDate": "19-04-2017",
+    "NavPrice": 150.2753
+  },
+  {
+    "NavDate": "18-04-2017",
+    "NavPrice": 149.5887
+  },
+  {
+    "NavDate": "17-04-2017",
+    "NavPrice": 150.499
+  },
+  {
+    "NavDate": "13-04-2017",
+    "NavPrice": 149.3085
+  },
+  {
+    "NavDate": "12-04-2017",
+    "NavPrice": 149.1176
+  },
+  {
+    "NavDate": "11-04-2017",
+    "NavPrice": 149.5357
+  },
+  {
+    "NavDate": "10-04-2017",
+    "NavPrice": 148.2445
+  },
+  {
+    "NavDate": "07-04-2017",
+    "NavPrice": 147.6013
+  },
+  {
+    "NavDate": "06-04-2017",
+    "NavPrice": 148.7507
+  },
+  {
+    "NavDate": "05-04-2017",
+    "NavPrice": 148.77
+  },
+  {
+    "NavDate": "03-04-2017",
+    "NavPrice": 149.1393
+  },
+  {
+    "NavDate": "31-03-2017",
+    "NavPrice": 146.6926
+  },
+  {
+    "NavDate": "30-03-2017",
+    "NavPrice": 146.2869
+  },
+  {
+    "NavDate": "29-03-2017",
+    "NavPrice": 145.8872
+  },
+  {
+    "NavDate": "28-03-2017",
+    "NavPrice": 145.5239
+  },
+  {
+    "NavDate": "27-03-2017",
+    "NavPrice": 144.6731
+  },
+  {
+    "NavDate": "24-03-2017",
+    "NavPrice": 144.3806
+  },
+  {
+    "NavDate": "23-03-2017",
+    "NavPrice": 144.2262
+  },
+  {
+    "NavDate": "22-03-2017",
+    "NavPrice": 143.1658
+  },
+  {
+    "NavDate": "21-03-2017",
+    "NavPrice": 144.0233
+  },
+  {
+    "NavDate": "20-03-2017",
+    "NavPrice": 144.64
+  },
+  {
+    "NavDate": "17-03-2017",
+    "NavPrice": 144.5788
+  },
+  {
+    "NavDate": "16-03-2017",
+    "NavPrice": 145.188
+  },
+  {
+    "NavDate": "15-03-2017",
+    "NavPrice": 143.6232
+  },
+  {
+    "NavDate": "14-03-2017",
+    "NavPrice": 143.2886
+  },
+  {
+    "NavDate": "10-03-2017",
+    "NavPrice": 140.3508
+  },
+  {
+    "NavDate": "09-03-2017",
+    "NavPrice": 141.1872
+  },
+  {
+    "NavDate": "08-03-2017",
+    "NavPrice": 141.038
+  },
+  {
+    "NavDate": "07-03-2017",
+    "NavPrice": 141.625
+  },
+  {
+    "NavDate": "06-03-2017",
+    "NavPrice": 141.4935
+  },
+  {
+    "NavDate": "03-03-2017",
+    "NavPrice": 141.2559
+  },
+  {
+    "NavDate": "02-03-2017",
+    "NavPrice": 139.7174
+  },
+  {
+    "NavDate": "01-03-2017",
+    "NavPrice": 141.0617
+  },
+  {
+    "NavDate": "28-02-2017",
+    "NavPrice": 139.9299
+  },
+  {
+    "NavDate": "27-02-2017",
+    "NavPrice": 139.7802
+  },
+  {
+    "NavDate": "23-02-2017",
+    "NavPrice": 140.1106
+  },
+  {
+    "NavDate": "22-02-2017",
+    "NavPrice": 139.452
+  },
+  {
+    "NavDate": "21-02-2017",
+    "NavPrice": 139.7009
+  },
+  {
+    "NavDate": "20-02-2017",
+    "NavPrice": 139.4874
+  },
+  {
+    "NavDate": "17-02-2017",
+    "NavPrice": 139.0336
+  },
+  {
+    "NavDate": "16-02-2017",
+    "NavPrice": 138.3375
+  },
+  {
+    "NavDate": "15-02-2017",
+    "NavPrice": 136.8125
+  },
+  {
+    "NavDate": "14-02-2017",
+    "NavPrice": 138.3969
+  },
+  {
+    "NavDate": "13-02-2017",
+    "NavPrice": 138.2999
+  },
+  {
+    "NavDate": "10-02-2017",
+    "NavPrice": 138.4147
+  },
+  {
+    "NavDate": "09-02-2017",
+    "NavPrice": 137.9522
+  },
+  {
+    "NavDate": "08-02-2017",
+    "NavPrice": 137.715
+  },
+  {
+    "NavDate": "07-02-2017",
+    "NavPrice": 137.0997
+  },
+  {
+    "NavDate": "06-02-2017",
+    "NavPrice": 137.2838
+  },
+  {
+    "NavDate": "03-02-2017",
+    "NavPrice": 136.6699
+  },
+  {
+    "NavDate": "02-02-2017",
+    "NavPrice": 137.0968
+  },
+  {
+    "NavDate": "01-02-2017",
+    "NavPrice": 136.3556
+  },
+  {
+    "NavDate": "31-01-2017",
+    "NavPrice": 134.504
+  },
+  {
+    "NavDate": "30-01-2017",
+    "NavPrice": 136.3928
+  },
+  {
+    "NavDate": "27-01-2017",
+    "NavPrice": 136.2181
+  },
+  {
+    "NavDate": "25-01-2017",
+    "NavPrice": 135.107
+  },
+  {
+    "NavDate": "24-01-2017",
+    "NavPrice": 134.5926
+  },
+  {
+    "NavDate": "23-01-2017",
+    "NavPrice": 133.8025
+  },
+  {
+    "NavDate": "20-01-2017",
+    "NavPrice": 133.2901
+  },
+  {
+    "NavDate": "19-01-2017",
+    "NavPrice": 135.0718
+  },
+  {
+    "NavDate": "18-01-2017",
+    "NavPrice": 135.0264
+  },
+  {
+    "NavDate": "17-01-2017",
+    "NavPrice": 134.6398
+  },
+  {
+    "NavDate": "16-01-2017",
+    "NavPrice": 134.6076
+  },
+  {
+    "NavDate": "13-01-2017",
+    "NavPrice": 134.2616
+  },
+  {
+    "NavDate": "12-01-2017",
+    "NavPrice": 134.3034
+  },
+  {
+    "NavDate": "11-01-2017",
+    "NavPrice": 134.0958
+  },
+  {
+    "NavDate": "10-01-2017",
+    "NavPrice": 133.1486
+  },
+  {
+    "NavDate": "09-01-2017",
+    "NavPrice": 133.1753
+  },
+  {
+    "NavDate": "06-01-2017",
+    "NavPrice": 132.5351
+  },
+  {
+    "NavDate": "05-01-2017",
+    "NavPrice": 133.1468
+  },
+  {
+    "NavDate": "04-01-2017",
+    "NavPrice": 132.1796
+  },
+  {
+    "NavDate": "03-01-2017",
+    "NavPrice": 132.0832
+  },
+  {
+    "NavDate": "02-01-2017",
+    "NavPrice": 131.2128
+  },
+  {
+    "NavDate": "30-12-2016",
+    "NavPrice": 130.9582
+  },
+  {
+    "NavDate": "29-12-2016",
+    "NavPrice": 129.1959
+  },
+  {
+    "NavDate": "28-12-2016",
+    "NavPrice": 128.0934
+  },
+  {
+    "NavDate": "27-12-2016",
+    "NavPrice": 127.2346
+  },
+  {
+    "NavDate": "26-12-2016",
+    "NavPrice": 125.5882
+  },
+  {
+    "NavDate": "23-12-2016",
+    "NavPrice": 127.4117
+  },
+  {
+    "NavDate": "22-12-2016",
+    "NavPrice": 127.5092
+  },
+  {
+    "NavDate": "21-12-2016",
+    "NavPrice": 129.2362
+  },
+  {
+    "NavDate": "20-12-2016",
+    "NavPrice": 129.8638
+  },
+  {
+    "NavDate": "19-12-2016",
+    "NavPrice": 131.5319
+  },
+  {
+    "NavDate": "16-12-2016",
+    "NavPrice": 132.3661
+  },
+  {
+    "NavDate": "15-12-2016",
+    "NavPrice": 131.7836
+  },
+  {
+    "NavDate": "14-12-2016",
+    "NavPrice": 131.5564
+  },
+  {
+    "NavDate": "13-12-2016",
+    "NavPrice": 131.955
+  },
+  {
+    "NavDate": "12-12-2016",
+    "NavPrice": 131.7047
+  },
+  {
+    "NavDate": "09-12-2016",
+    "NavPrice": 132.5482
+  },
+  {
+    "NavDate": "08-12-2016",
+    "NavPrice": 132.6579
+  },
+  {
+    "NavDate": "07-12-2016",
+    "NavPrice": 130.5223
+  },
+  {
+    "NavDate": "06-12-2016",
+    "NavPrice": 131.3154
+  },
+  {
+    "NavDate": "05-12-2016",
+    "NavPrice": 131.0271
+  },
+  {
+    "NavDate": "02-12-2016",
+    "NavPrice": 130.7567
+  },
+  {
+    "NavDate": "01-12-2016",
+    "NavPrice": 131.9729
+  },
+  {
+    "NavDate": "30-11-2016",
+    "NavPrice": 132.7825
+  },
+  {
+    "NavDate": "29-11-2016",
+    "NavPrice": 131.5047
+  },
+  {
+    "NavDate": "28-11-2016",
+    "NavPrice": 131.3643
+  },
+  {
+    "NavDate": "25-11-2016",
+    "NavPrice": 131.3618
+  },
+  {
+    "NavDate": "24-11-2016",
+    "NavPrice": 128.8434
+  },
+  {
+    "NavDate": "23-11-2016",
+    "NavPrice": 128.707
+  },
+  {
+    "NavDate": "22-11-2016",
+    "NavPrice": 127.0452
+  },
+  {
+    "NavDate": "21-11-2016",
+    "NavPrice": 125.9303
+  },
+  {
+    "NavDate": "18-11-2016",
+    "NavPrice": 129.4447
+  },
+  {
+    "NavDate": "17-11-2016",
+    "NavPrice": 128.8759
+  },
+  {
+    "NavDate": "16-11-2016",
+    "NavPrice": 129.3074
+  },
+  {
+    "NavDate": "15-11-2016",
+    "NavPrice": 129.0818
+  },
+  {
+    "NavDate": "11-11-2016",
+    "NavPrice": 134.8453
+  },
+  {
+    "NavDate": "10-11-2016",
+    "NavPrice": 139.13
+  },
+  {
+    "NavDate": "09-11-2016",
+    "NavPrice": 137.5991
+  },
+  {
+    "NavDate": "08-11-2016",
+    "NavPrice": 140.236
+  },
+  {
+    "NavDate": "07-11-2016",
+    "NavPrice": 139.5866
+  },
+  {
+    "NavDate": "04-11-2016",
+    "NavPrice": 137.7626
+  },
+  {
+    "NavDate": "03-11-2016",
+    "NavPrice": 140.1532
+  },
+  {
+    "NavDate": "02-11-2016",
+    "NavPrice": 141.2401
+  },
+  {
+    "NavDate": "01-11-2016",
+    "NavPrice": 142.8693
+  },
+  {
+    "NavDate": "28-10-2016",
+    "NavPrice": 142.1217
+  },
+  {
+    "NavDate": "27-10-2016",
+    "NavPrice": 141.179
+  },
+  {
+    "NavDate": "26-10-2016",
+    "NavPrice": 141.7999
+  },
+  {
+    "NavDate": "25-10-2016",
+    "NavPrice": 143.0509
+  },
+  {
+    "NavDate": "24-10-2016",
+    "NavPrice": 142.9488
+  },
+  {
+    "NavDate": "21-10-2016",
+    "NavPrice": 143.0261
+  },
+  {
+    "NavDate": "20-10-2016",
+    "NavPrice": 143.314
+  },
+  {
+    "NavDate": "19-10-2016",
+    "NavPrice": 143.3958
+  },
+  {
+    "NavDate": "18-10-2016",
+    "NavPrice": 142.8973
+  },
+  {
+    "NavDate": "17-10-2016",
+    "NavPrice": 141.1073
+  },
+  {
+    "NavDate": "14-10-2016",
+    "NavPrice": 141.342
+  },
+  {
+    "NavDate": "13-10-2016",
+    "NavPrice": 140.2017
+  },
+  {
+    "NavDate": "10-10-2016",
+    "NavPrice": 142.6528
+  },
+  {
+    "NavDate": "07-10-2016",
+    "NavPrice": 142.6881
+  },
+  {
+    "NavDate": "06-10-2016",
+    "NavPrice": 143.2016
+  },
+  {
+    "NavDate": "05-10-2016",
+    "NavPrice": 143.8022
+  },
+  {
+    "NavDate": "04-10-2016",
+    "NavPrice": 142.2161
+  },
+  {
+    "NavDate": "03-10-2016",
+    "NavPrice": 141.3797
+  },
+  {
+    "NavDate": "30-09-2016",
+    "NavPrice": 138.5722
+  },
+  {
+    "NavDate": "29-09-2016",
+    "NavPrice": 136.5692
+  },
+  {
+    "NavDate": "28-09-2016",
+    "NavPrice": 140.96
+  },
+  {
+    "NavDate": "27-09-2016",
+    "NavPrice": 140.0174
+  },
+  {
+    "NavDate": "26-09-2016",
+    "NavPrice": 140.3227
+  },
+  {
+    "NavDate": "23-09-2016",
+    "NavPrice": 141.3089
+  },
+  {
+    "NavDate": "22-09-2016",
+    "NavPrice": 141.1993
+  },
+  {
+    "NavDate": "21-09-2016",
+    "NavPrice": 139.3341
+  },
+  {
+    "NavDate": "20-09-2016",
+    "NavPrice": 139.1051
+  },
+  {
+    "NavDate": "19-09-2016",
+    "NavPrice": 139.1002
+  },
+  {
+    "NavDate": "16-09-2016",
+    "NavPrice": 139.3332
+  },
+  {
+    "NavDate": "15-09-2016",
+    "NavPrice": 138.8278
+  },
+  {
+    "NavDate": "14-09-2016",
+    "NavPrice": 138.7523
+  },
+  {
+    "NavDate": "12-09-2016",
+    "NavPrice": 138.3846
+  },
+  {
+    "NavDate": "09-09-2016",
+    "NavPrice": 140.521
+  },
+  {
+    "NavDate": "08-09-2016",
+    "NavPrice": 140.7089
+  },
+  {
+    "NavDate": "07-09-2016",
+    "NavPrice": 140.4888
+  },
+  {
+    "NavDate": "06-09-2016",
+    "NavPrice": 140.9751
+  },
+  {
+    "NavDate": "02-09-2016",
+    "NavPrice": 140.0879
+  },
+  {
+    "NavDate": "01-09-2016",
+    "NavPrice": 138.676
+  },
+  {
+    "NavDate": "31-08-2016",
+    "NavPrice": 138.8553
+  },
+  {
+    "NavDate": "30-08-2016",
+    "NavPrice": 139.1277
+  },
+  {
+    "NavDate": "29-08-2016",
+    "NavPrice": 137.5634
+  },
+  {
+    "NavDate": "26-08-2016",
+    "NavPrice": 136.3373
+  },
+  {
+    "NavDate": "25-08-2016",
+    "NavPrice": 135.8906
+  },
+  {
+    "NavDate": "24-08-2016",
+    "NavPrice": 136.0978
+  },
+  {
+    "NavDate": "23-08-2016",
+    "NavPrice": 136.1605
+  },
+  {
+    "NavDate": "22-08-2016",
+    "NavPrice": 136.1701
+  },
+  {
+    "NavDate": "19-08-2016",
+    "NavPrice": 136.6135
+  },
+  {
+    "NavDate": "18-08-2016",
+    "NavPrice": 136.6689
+  },
+  {
+    "NavDate": "17-08-2016",
+    "NavPrice": 135.8357
+  },
+  {
+    "NavDate": "16-08-2016",
+    "NavPrice": 135.1407
+  },
+  {
+    "NavDate": "12-08-2016",
+    "NavPrice": 135.4446
+  },
+  {
+    "NavDate": "11-08-2016",
+    "NavPrice": 136.0873
+  },
+  {
+    "NavDate": "10-08-2016",
+    "NavPrice": 136.4086
+  },
+  {
+    "NavDate": "09-08-2016",
+    "NavPrice": 137.7026
+  },
+  {
+    "NavDate": "08-08-2016",
+    "NavPrice": 137.5574
+  },
+  {
+    "NavDate": "05-08-2016",
+    "NavPrice": 136.0552
+  },
+  {
+    "NavDate": "04-08-2016",
+    "NavPrice": 133.5907
+  },
+  {
+    "NavDate": "03-08-2016",
+    "NavPrice": 133.4464
+  },
+  {
+    "NavDate": "02-08-2016",
+    "NavPrice": 134.0077
+  },
+  {
+    "NavDate": "01-08-2016",
+    "NavPrice": 134.4266
+  },
+  {
+    "NavDate": "29-07-2016",
+    "NavPrice": 134.4843
+  },
+  {
+    "NavDate": "28-07-2016",
+    "NavPrice": 134.8304
+  },
+  {
+    "NavDate": "27-07-2016",
+    "NavPrice": 135.1812
+  },
+  {
+    "NavDate": "26-07-2016",
+    "NavPrice": 133.8168
+  },
+  {
+    "NavDate": "25-07-2016",
+    "NavPrice": 134.381
+  },
+  {
+    "NavDate": "22-07-2016",
+    "NavPrice": 133.3714
+  },
+  {
+    "NavDate": "21-07-2016",
+    "NavPrice": 132.6837
+  },
+  {
+    "NavDate": "20-07-2016",
+    "NavPrice": 133.1132
+  },
+  {
+    "NavDate": "19-07-2016",
+    "NavPrice": 132.5486
+  },
+  {
+    "NavDate": "18-07-2016",
+    "NavPrice": 132.8508
+  },
+  {
+    "NavDate": "15-07-2016",
+    "NavPrice": 133.1945
+  },
+  {
+    "NavDate": "14-07-2016",
+    "NavPrice": 134.35
+  },
+  {
+    "NavDate": "13-07-2016",
+    "NavPrice": 134.0958
+  },
+  {
+    "NavDate": "12-07-2016",
+    "NavPrice": 134.8102
+  },
+  {
+    "NavDate": "11-07-2016",
+    "NavPrice": 134.8524
+  },
+  {
+    "NavDate": "08-07-2016",
+    "NavPrice": 133.9329
+  },
+  {
+    "NavDate": "07-07-2016",
+    "NavPrice": 134.0992
+  },
+  {
+    "NavDate": "05-07-2016",
+    "NavPrice": 134.3827
+  },
+  {
+    "NavDate": "04-07-2016",
+    "NavPrice": 134.3269
+  },
+  {
+    "NavDate": "01-07-2016",
+    "NavPrice": 133.4108
+  },
+  {
+    "NavDate": "30-06-2016",
+    "NavPrice": 132.7575
+  },
+  {
+    "NavDate": "29-06-2016",
+    "NavPrice": 131.221
+  },
+  {
+    "NavDate": "28-06-2016",
+    "NavPrice": 129.7602
+  },
+  {
+    "NavDate": "27-06-2016",
+    "NavPrice": 129.6798
+  },
+  {
+    "NavDate": "24-06-2016",
+    "NavPrice": 128.6965
+  },
+  {
+    "NavDate": "23-06-2016",
+    "NavPrice": 130.0341
+  },
+  {
+    "NavDate": "22-06-2016",
+    "NavPrice": 129.9617
+  },
+  {
+    "NavDate": "21-06-2016",
+    "NavPrice": 130.0061
+  },
+  {
+    "NavDate": "20-06-2016",
+    "NavPrice": 129.8138
+  },
+  {
+    "NavDate": "17-06-2016",
+    "NavPrice": 129.8695
+  },
+  {
+    "NavDate": "16-06-2016",
+    "NavPrice": 129.4717
+  },
+  {
+    "NavDate": "15-06-2016",
+    "NavPrice": 130.11
+  },
+  {
+    "NavDate": "14-06-2016",
+    "NavPrice": 129.1358
+  },
+  {
+    "NavDate": "13-06-2016",
+    "NavPrice": 128.8126
+  },
+  {
+    "NavDate": "10-06-2016",
+    "NavPrice": 130.0644
+  },
+  {
+    "NavDate": "09-06-2016",
+    "NavPrice": 130.6771
+  },
+  {
+    "NavDate": "08-06-2016",
+    "NavPrice": 130.9631
+  },
+  {
+    "NavDate": "07-06-2016",
+    "NavPrice": 130.2079
+  },
+  {
+    "NavDate": "06-06-2016",
+    "NavPrice": 129.8726
+  },
+  {
+    "NavDate": "03-06-2016",
+    "NavPrice": 129.7969
+  },
+  {
+    "NavDate": "02-06-2016",
+    "NavPrice": 129.313
+  },
+  {
+    "NavDate": "01-06-2016",
+    "NavPrice": 129.4922
+  },
+  {
+    "NavDate": "31-05-2016",
+    "NavPrice": 129.6244
+  },
+  {
+    "NavDate": "30-05-2016",
+    "NavPrice": 130.5154
+  },
+  {
+    "NavDate": "27-05-2016",
+    "NavPrice": 130.5995
+  },
+  {
+    "NavDate": "26-05-2016",
+    "NavPrice": 129.0118
+  },
+  {
+    "NavDate": "25-05-2016",
+    "NavPrice": 127.8401
+  },
+  {
+    "NavDate": "24-05-2016",
+    "NavPrice": 126.9586
+  },
+  {
+    "NavDate": "23-05-2016",
+    "NavPrice": 126.9215
+  },
+  {
+    "NavDate": "20-05-2016",
+    "NavPrice": 127.8689
+  },
+  {
+    "NavDate": "19-05-2016",
+    "NavPrice": 128.7829
+  },
+  {
+    "NavDate": "18-05-2016",
+    "NavPrice": 129.6946
+  },
+  {
+    "NavDate": "17-05-2016",
+    "NavPrice": 128.7116
+  },
+  {
+    "NavDate": "16-05-2016",
+    "NavPrice": 128.9005
+  },
+  {
+    "NavDate": "13-05-2016",
+    "NavPrice": 129.2118
+  },
+  {
+    "NavDate": "12-05-2016",
+    "NavPrice": 130.5718
+  },
+  {
+    "NavDate": "11-05-2016",
+    "NavPrice": 129.4799
+  },
+  {
+    "NavDate": "10-05-2016",
+    "NavPrice": 129.0751
+  },
+  {
+    "NavDate": "09-05-2016",
+    "NavPrice": 128.843
+  },
+  {
+    "NavDate": "06-05-2016",
+    "NavPrice": 126.8406
+  },
+  {
+    "NavDate": "05-05-2016",
+    "NavPrice": 127.0273
+  },
+  {
+    "NavDate": "04-05-2016",
+    "NavPrice": 126.5737
+  },
+  {
+    "NavDate": "03-05-2016",
+    "NavPrice": 127.5646
+  },
+  {
+    "NavDate": "02-05-2016",
+    "NavPrice": 128.5766
+  },
+  {
+    "NavDate": "29-04-2016",
+    "NavPrice": 128.1102
+  },
+  {
+    "NavDate": "28-04-2016",
+    "NavPrice": 127.0449
+  },
+  {
+    "NavDate": "27-04-2016",
+    "NavPrice": 128.8463
+  },
+  {
+    "NavDate": "26-04-2016",
+    "NavPrice": 128.7489
+  },
+  {
+    "NavDate": "25-04-2016",
+    "NavPrice": 127.8458
+  },
+  {
+    "NavDate": "22-04-2016",
+    "NavPrice": 127.96
+  },
+  {
+    "NavDate": "21-04-2016",
+    "NavPrice": 128.0918
+  },
+  {
+    "NavDate": "20-04-2016",
+    "NavPrice": 128.5563
+  },
+  {
+    "NavDate": "18-04-2016",
+    "NavPrice": 128.4574
+  },
+  {
+    "NavDate": "13-04-2016",
+    "NavPrice": 126.4055
+  },
+  {
+    "NavDate": "12-04-2016",
+    "NavPrice": 124.7439
+  },
+  {
+    "NavDate": "11-04-2016",
+    "NavPrice": 124.0478
+  },
+  {
+    "NavDate": "08-04-2016",
+    "NavPrice": 123.2969
+  },
+  {
+    "NavDate": "07-04-2016",
+    "NavPrice": 123.4621
+  },
+  {
+    "NavDate": "06-04-2016",
+    "NavPrice": 124.1389
+  },
+  {
+    "NavDate": "05-04-2016",
+    "NavPrice": 123.5202
+  },
+  {
+    "NavDate": "04-04-2016",
+    "NavPrice": 124.634
+  },
+  {
+    "NavDate": "01-04-2016",
+    "NavPrice": 122.5923
+  },
+  {
+    "NavDate": "31-03-2016",
+    "NavPrice": 121.6542
+  },
+  {
+    "NavDate": "30-03-2016",
+    "NavPrice": 121.3324
+  },
+  {
+    "NavDate": "29-03-2016",
+    "NavPrice": 119.9302
+  },
+  {
+    "NavDate": "28-03-2016",
+    "NavPrice": 120.256
+  },
+  {
+    "NavDate": "23-03-2016",
+    "NavPrice": 121.4295
+  },
+  {
+    "NavDate": "22-03-2016",
+    "NavPrice": 120.972
+  },
+  {
+    "NavDate": "21-03-2016",
+    "NavPrice": 120.8586
+  },
+  {
+    "NavDate": "18-03-2016",
+    "NavPrice": 119.532
+  },
+  {
+    "NavDate": "17-03-2016",
+    "NavPrice": 118.7931
+  },
+  {
+    "NavDate": "16-03-2016",
+    "NavPrice": 117.9187
+  },
+  {
+    "NavDate": "15-03-2016",
+    "NavPrice": 117.6275
+  },
+  {
+    "NavDate": "14-03-2016",
+    "NavPrice": 118.8301
+  },
+  {
+    "NavDate": "11-03-2016",
+    "NavPrice": 118.4516
+  },
+  {
+    "NavDate": "10-03-2016",
+    "NavPrice": 118.8427
+  },
+  {
+    "NavDate": "09-03-2016",
+    "NavPrice": 119.2165
+  },
+  {
+    "NavDate": "08-03-2016",
+    "NavPrice": 118.4081
+  },
+  {
+    "NavDate": "04-03-2016",
+    "NavPrice": 118.4292
+  },
+  {
+    "NavDate": "03-03-2016",
+    "NavPrice": 117.8853
+  },
+  {
+    "NavDate": "02-03-2016",
+    "NavPrice": 116.6008
+  },
+  {
+    "NavDate": "01-03-2016",
+    "NavPrice": 113.8761
+  },
+  {
+    "NavDate": "29-02-2016",
+    "NavPrice": 109.9401
+  },
+  {
+    "NavDate": "26-02-2016",
+    "NavPrice": 110.8631
+  },
+  {
+    "NavDate": "25-02-2016",
+    "NavPrice": 110.934
+  },
+  {
+    "NavDate": "24-02-2016",
+    "NavPrice": 112.2638
+  },
+  {
+    "NavDate": "23-02-2016",
+    "NavPrice": 113.9705
+  },
+  {
+    "NavDate": "22-02-2016",
+    "NavPrice": 115.4377
+  },
+  {
+    "NavDate": "19-02-2016",
+    "NavPrice": 115.2046
+  },
+  {
+    "NavDate": "18-02-2016",
+    "NavPrice": 114.7688
+  },
+  {
+    "NavDate": "17-02-2016",
+    "NavPrice": 113.8351
+  },
+  {
+    "NavDate": "16-02-2016",
+    "NavPrice": 114.1957
+  },
+  {
+    "NavDate": "15-02-2016",
+    "NavPrice": 116.4822
+  },
+  {
+    "NavDate": "12-02-2016",
+    "NavPrice": 113.4812
+  },
+  {
+    "NavDate": "11-02-2016",
+    "NavPrice": 113.778
+  },
+  {
+    "NavDate": "10-02-2016",
+    "NavPrice": 118.6908
+  },
+  {
+    "NavDate": "09-02-2016",
+    "NavPrice": 119.8656
+  },
+  {
+    "NavDate": "08-02-2016",
+    "NavPrice": 121.8681
+  },
+  {
+    "NavDate": "05-02-2016",
+    "NavPrice": 121.6815
+  },
+  {
+    "NavDate": "04-02-2016",
+    "NavPrice": 120.6936
+  },
+  {
+    "NavDate": "03-02-2016",
+    "NavPrice": 120.6908
+  },
+  {
+    "NavDate": "02-02-2016",
+    "NavPrice": 123.0699
+  },
+  {
+    "NavDate": "01-02-2016",
+    "NavPrice": 125.0037
+  },
+  {
+    "NavDate": "29-01-2016",
+    "NavPrice": 125.4013
+  },
+  {
+    "NavDate": "28-01-2016",
+    "NavPrice": 122.897
+  },
+  {
+    "NavDate": "27-01-2016",
+    "NavPrice": 123.2189
+  },
+  {
+    "NavDate": "25-01-2016",
+    "NavPrice": 123.0345
+  },
+  {
+    "NavDate": "22-01-2016",
+    "NavPrice": 121.1981
+  },
+  {
+    "NavDate": "21-01-2016",
+    "NavPrice": 117.9795
+  },
+  {
+    "NavDate": "20-01-2016",
+    "NavPrice": 118.3255
+  },
+  {
+    "NavDate": "19-01-2016",
+    "NavPrice": 121.5024
+  },
+  {
+    "NavDate": "18-01-2016",
+    "NavPrice": 118.6385
+  },
+  {
+    "NavDate": "15-01-2016",
+    "NavPrice": 122.4666
+  },
+  {
+    "NavDate": "14-01-2016",
+    "NavPrice": 125.4139
+  },
+  {
+    "NavDate": "13-01-2016",
+    "NavPrice": 127.5611
+  },
+  {
+    "NavDate": "12-01-2016",
+    "NavPrice": 129.2028
+  },
+  {
+    "NavDate": "11-01-2016",
+    "NavPrice": 131.4406
+  },
+  {
+    "NavDate": "08-01-2016",
+    "NavPrice": 133.7128
+  },
+  {
+    "NavDate": "07-01-2016",
+    "NavPrice": 130.4557
+  },
+  {
+    "NavDate": "06-01-2016",
+    "NavPrice": 134.6361
+  },
+  {
+    "NavDate": "05-01-2016",
+    "NavPrice": 133.5621
+  },
+  {
+    "NavDate": "04-01-2016",
+    "NavPrice": 132.3904
+  },
+  {
+    "NavDate": "01-01-2016",
+    "NavPrice": 133.9623
+  },
+  {
+    "NavDate": "31-12-2015",
+    "NavPrice": 132.9748
+  },
+  {
+    "NavDate": "30-12-2015",
+    "NavPrice": 131.6302
+  },
+  {
+    "NavDate": "29-12-2015",
+    "NavPrice": 131.3447
+  },
+  {
+    "NavDate": "28-12-2015",
+    "NavPrice": 131.1974
+  },
+  {
+    "NavDate": "24-12-2015",
+    "NavPrice": 131.3571
+  },
+  {
+    "NavDate": "23-12-2015",
+    "NavPrice": 131.095
+  },
+  {
+    "NavDate": "22-12-2015",
+    "NavPrice": 130.1598
+  },
+  {
+    "NavDate": "21-12-2015",
+    "NavPrice": 130.3707
+  },
+  {
+    "NavDate": "18-12-2015",
+    "NavPrice": 129.5762
+  },
+  {
+    "NavDate": "17-12-2015",
+    "NavPrice": 130.1824
+  },
+  {
+    "NavDate": "16-12-2015",
+    "NavPrice": 128.4186
+  },
+  {
+    "NavDate": "15-12-2015",
+    "NavPrice": 126.943
+  },
+  {
+    "NavDate": "14-12-2015",
+    "NavPrice": 126.181
+  },
+  {
+    "NavDate": "11-12-2015",
+    "NavPrice": 126.3219
+  },
+  {
+    "NavDate": "10-12-2015",
+    "NavPrice": 127.4876
+  },
+  {
+    "NavDate": "09-12-2015",
+    "NavPrice": 125.7526
+  },
+  {
+    "NavDate": "08-12-2015",
+    "NavPrice": 128.0595
+  },
+  {
+    "NavDate": "07-12-2015",
+    "NavPrice": 129.571
+  },
+  {
+    "NavDate": "04-12-2015",
+    "NavPrice": 128.9805
+  },
+  {
+    "NavDate": "03-12-2015",
+    "NavPrice": 129.2284
+  },
+  {
+    "NavDate": "02-12-2015",
+    "NavPrice": 130.3449
+  },
+  {
+    "NavDate": "01-12-2015",
+    "NavPrice": 130.7826
+  },
+  {
+    "NavDate": "30-11-2015",
+    "NavPrice": 130.4624
+  },
+  {
+    "NavDate": "27-11-2015",
+    "NavPrice": 129.3599
+  },
+  {
+    "NavDate": "26-11-2015",
+    "NavPrice": 129.0735
+  },
+  {
+    "NavDate": "24-11-2015",
+    "NavPrice": 128.1627
+  },
+  {
+    "NavDate": "23-11-2015",
+    "NavPrice": 127.3843
+  },
+  {
+    "NavDate": "20-11-2015",
+    "NavPrice": 127.286
+  },
+  {
+    "NavDate": "19-11-2015",
+    "NavPrice": 126.515
+  },
+  {
+    "NavDate": "18-11-2015",
+    "NavPrice": 125.3883
+  },
+  {
+    "NavDate": "17-11-2015",
+    "NavPrice": 125.2377
+  },
+  {
+    "NavDate": "16-11-2015",
+    "NavPrice": 124.4403
+  },
+  {
+    "NavDate": "13-11-2015",
+    "NavPrice": 124.4218
+  },
+  {
+    "NavDate": "10-11-2015",
+    "NavPrice": 123.8068
+  },
+  {
+    "NavDate": "09-11-2015",
+    "NavPrice": 125.221
+  },
+  {
+    "NavDate": "06-11-2015",
+    "NavPrice": 124.1883
+  },
+  {
+    "NavDate": "05-11-2015",
+    "NavPrice": 124.5455
+  },
+  {
+    "NavDate": "04-11-2015",
+    "NavPrice": 124.5587
+  },
+  {
+    "NavDate": "03-11-2015",
+    "NavPrice": 124.8762
+  },
+  {
+    "NavDate": "02-11-2015",
+    "NavPrice": 124.1386
+  },
+  {
+    "NavDate": "30-10-2015",
+    "NavPrice": 123.3941
+  },
+  {
+    "NavDate": "28-10-2015",
+    "NavPrice": 124.3921
+  },
+  {
+    "NavDate": "27-10-2015",
+    "NavPrice": 124.394
+  },
+  {
+    "NavDate": "26-10-2015",
+    "NavPrice": 124.3081
+  },
+  {
+    "NavDate": "23-10-2015",
+    "NavPrice": 125.2173
+  },
+  {
+    "NavDate": "21-10-2015",
+    "NavPrice": 125.3093
+  },
+  {
+    "NavDate": "20-10-2015",
+    "NavPrice": 125.5902
+  },
+  {
+    "NavDate": "19-10-2015",
+    "NavPrice": 125.4741
+  },
+  {
+    "NavDate": "16-10-2015",
+    "NavPrice": 124.8987
+  },
+  {
+    "NavDate": "15-10-2015",
+    "NavPrice": 124.8105
+  },
+  {
+    "NavDate": "14-10-2015",
+    "NavPrice": 124.2657
+  },
+  {
+    "NavDate": "13-10-2015",
+    "NavPrice": 124.8805
+  },
+  {
+    "NavDate": "12-10-2015",
+    "NavPrice": 125.2094
+  },
+  {
+    "NavDate": "09-10-2015",
+    "NavPrice": 125.3015
+  },
+  {
+    "NavDate": "08-10-2015",
+    "NavPrice": 124.5635
+  },
+  {
+    "NavDate": "07-10-2015",
+    "NavPrice": 124.9677
+  },
+  {
+    "NavDate": "06-10-2015",
+    "NavPrice": 124.9398
+  },
+  {
+    "NavDate": "05-10-2015",
+    "NavPrice": 124.8325
+  },
+  {
+    "NavDate": "01-10-2015",
+    "NavPrice": 123.5331
+  },
+  {
+    "NavDate": "30-09-2015",
+    "NavPrice": 123.9445
+  },
+  {
+    "NavDate": "29-09-2015",
+    "NavPrice": 122.5072
+  },
+  {
+    "NavDate": "28-09-2015",
+    "NavPrice": 122.1999
+  },
+  {
+    "NavDate": "24-09-2015",
+    "NavPrice": 122.5635
+  },
+  {
+    "NavDate": "23-09-2015",
+    "NavPrice": 122.241
+  },
+  {
+    "NavDate": "22-09-2015",
+    "NavPrice": 121.9891
+  },
+  {
+    "NavDate": "21-09-2015",
+    "NavPrice": 123.2553
+  },
+  {
+    "NavDate": "18-09-2015",
+    "NavPrice": 123.4137
+  },
+  {
+    "NavDate": "16-09-2015",
+    "NavPrice": 121.6175
+  },
+  {
+    "NavDate": "15-09-2015",
+    "NavPrice": 121.3728
+  },
+  {
+    "NavDate": "14-09-2015",
+    "NavPrice": 121.8851
+  },
+  {
+    "NavDate": "11-09-2015",
+    "NavPrice": 120.6737
+  },
+  {
+    "NavDate": "10-09-2015",
+    "NavPrice": 120.6584
+  },
+  {
+    "NavDate": "09-09-2015",
+    "NavPrice": 120.9708
+  },
+  {
+    "NavDate": "08-09-2015",
+    "NavPrice": 118.8848
+  },
+  {
+    "NavDate": "07-09-2015",
+    "NavPrice": 117.8561
+  },
+  {
+    "NavDate": "04-09-2015",
+    "NavPrice": 119.7141
+  },
+  {
+    "NavDate": "03-09-2015",
+    "NavPrice": 122.1324
+  },
+  {
+    "NavDate": "02-09-2015",
+    "NavPrice": 120.6621
+  },
+  {
+    "NavDate": "01-09-2015",
+    "NavPrice": 121.0809
+  },
+  {
+    "NavDate": "31-08-2015",
+    "NavPrice": 122.7557
+  },
+  {
+    "NavDate": "28-08-2015",
+    "NavPrice": 123.5498
+  },
+  {
+    "NavDate": "27-08-2015",
+    "NavPrice": 123.3313
+  },
+  {
+    "NavDate": "26-08-2015",
+    "NavPrice": 120.443
+  },
+  {
+    "NavDate": "25-08-2015",
+    "NavPrice": 120.8063
+  },
+  {
+    "NavDate": "24-08-2015",
+    "NavPrice": 118.8623
+  },
+  {
+    "NavDate": "21-08-2015",
+    "NavPrice": 128.6001
+  },
+  {
+    "NavDate": "20-08-2015",
+    "NavPrice": 128.698
+  },
+  {
+    "NavDate": "19-08-2015",
+    "NavPrice": 129.7907
+  },
+  {
+    "NavDate": "18-08-2015",
+    "NavPrice": 129.3189
+  },
+  {
+    "NavDate": "17-08-2015",
+    "NavPrice": 128.4254
+  },
+  {
+    "NavDate": "14-08-2015",
+    "NavPrice": 128.3932
+  },
+  {
+    "NavDate": "13-08-2015",
+    "NavPrice": 126.526
+  },
+  {
+    "NavDate": "12-08-2015",
+    "NavPrice": 127.0221
+  },
+  {
+    "NavDate": "11-08-2015",
+    "NavPrice": 128.9207
+  },
+  {
+    "NavDate": "10-08-2015",
+    "NavPrice": 129.0872
+  },
+  {
+    "NavDate": "07-08-2015",
+    "NavPrice": 129.5289
+  },
+  {
+    "NavDate": "06-08-2015",
+    "NavPrice": 130.0267
+  },
+  {
+    "NavDate": "05-08-2015",
+    "NavPrice": 130.2253
+  },
+  {
+    "NavDate": "04-08-2015",
+    "NavPrice": 129.9994
+  },
+  {
+    "NavDate": "03-08-2015",
+    "NavPrice": 129.834
+  },
+  {
+    "NavDate": "31-07-2015",
+    "NavPrice": 129.7263
+  },
+  {
+    "NavDate": "30-07-2015",
+    "NavPrice": 127.4651
+  },
+  {
+    "NavDate": "29-07-2015",
+    "NavPrice": 127.0767
+  },
+  {
+    "NavDate": "28-07-2015",
+    "NavPrice": 126.5984
+  },
+  {
+    "NavDate": "27-07-2015",
+    "NavPrice": 126.6746
+  },
+  {
+    "NavDate": "24-07-2015",
+    "NavPrice": 128.2405
+  },
+  {
+    "NavDate": "23-07-2015",
+    "NavPrice": 129.2736
+  },
+  {
+    "NavDate": "22-07-2015",
+    "NavPrice": 127.7781
+  },
+  {
+    "NavDate": "21-07-2015",
+    "NavPrice": 127.063
+  },
+  {
+    "NavDate": "20-07-2015",
+    "NavPrice": 127.6446
+  },
+  {
+    "NavDate": "17-07-2015",
+    "NavPrice": 127.9745
+  },
+  {
+    "NavDate": "16-07-2015",
+    "NavPrice": 127.7179
+  },
+  {
+    "NavDate": "15-07-2015",
+    "NavPrice": 126.3899
+  },
+  {
+    "NavDate": "14-07-2015",
+    "NavPrice": 126.2065
+  },
+  {
+    "NavDate": "13-07-2015",
+    "NavPrice": 125.6995
+  },
+  {
+    "NavDate": "10-07-2015",
+    "NavPrice": 124.9211
+  },
+  {
+    "NavDate": "09-07-2015",
+    "NavPrice": 124.818
+  },
+  {
+    "NavDate": "08-07-2015",
+    "NavPrice": 125.0093
+  },
+  {
+    "NavDate": "07-07-2015",
+    "NavPrice": 126.7095
+  },
+  {
+    "NavDate": "06-07-2015",
+    "NavPrice": 125.517
+  },
+  {
+    "NavDate": "03-07-2015",
+    "NavPrice": 124.7911
+  },
+  {
+    "NavDate": "02-07-2015",
+    "NavPrice": 124.9221
+  },
+  {
+    "NavDate": "01-07-2015",
+    "NavPrice": 124.4199
+  },
+  {
+    "NavDate": "30-06-2015",
+    "NavPrice": 121.8979
+  },
+  {
+    "NavDate": "29-06-2015",
+    "NavPrice": 120.8469
+  },
+  {
+    "NavDate": "26-06-2015",
+    "NavPrice": 122.3299
+  },
+  {
+    "NavDate": "25-06-2015",
+    "NavPrice": 122.0344
+  },
+  {
+    "NavDate": "24-06-2015",
+    "NavPrice": 122.0503
+  },
+  {
+    "NavDate": "23-06-2015",
+    "NavPrice": 122.6642
+  },
+  {
+    "NavDate": "22-06-2015",
+    "NavPrice": 122.3257
+  },
+  {
+    "NavDate": "19-06-2015",
+    "NavPrice": 121.1843
+  },
+  {
+    "NavDate": "18-06-2015",
+    "NavPrice": 120.9881
+  },
+  {
+    "NavDate": "17-06-2015",
+    "NavPrice": 119.7682
+  },
+  {
+    "NavDate": "16-06-2015",
+    "NavPrice": 118.9919
+  },
+  {
+    "NavDate": "15-06-2015",
+    "NavPrice": 118.882
+  },
+  {
+    "NavDate": "12-06-2015",
+    "NavPrice": 118.3206
+  },
+  {
+    "NavDate": "11-06-2015",
+    "NavPrice": 118.3731
+  },
+  {
+    "NavDate": "10-06-2015",
+    "NavPrice": 119.7426
+  },
+  {
+    "NavDate": "09-06-2015",
+    "NavPrice": 118.1488
+  },
+  {
+    "NavDate": "08-06-2015",
+    "NavPrice": 118.6354
+  },
+  {
+    "NavDate": "05-06-2015",
+    "NavPrice": 119.6783
+  },
+  {
+    "NavDate": "04-06-2015",
+    "NavPrice": 119.1382
+  },
+  {
+    "NavDate": "03-06-2015",
+    "NavPrice": 118.9772
+  },
+  {
+    "NavDate": "02-06-2015",
+    "NavPrice": 120.4311
+  },
+  {
+    "NavDate": "01-06-2015",
+    "NavPrice": 122.5306
+  },
+  {
+    "NavDate": "29-05-2015",
+    "NavPrice": 122.7886
+  },
+  {
+    "NavDate": "28-05-2015",
+    "NavPrice": 121.3702
+  },
+  {
+    "NavDate": "27-05-2015",
+    "NavPrice": 121.7891
+  },
+  {
+    "NavDate": "26-05-2015",
+    "NavPrice": 121.9374
+  },
+  {
+    "NavDate": "25-05-2015",
+    "NavPrice": 122.1193
+  }
+]

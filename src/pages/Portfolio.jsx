@@ -1,0 +1,36 @@
+import { useState } from "react";
+import DateFilter from "../components/blog-portfolio/FilterByDate";
+import TrailingReturns from "../components/blog-portfolio/TrailingReturns";
+import EquityDrawdownChart from "../components/blog-portfolio/Charts";
+import { parse } from "date-fns";
+import { sortedData } from "../lib/calculations.js";
+
+const Portfolio = () => {
+  const [filteredData, setFilteredData] = useState(sortedData);
+
+  const handleFilter = (fromDate, toDate) => {
+    const from = fromDate.getTime();
+    const to = toDate.getTime();
+
+    const filtered = sortedData.filter((item) => {
+      const itemDate = parse(item.NavDate, "dd-MM-yyyy", new Date()).getTime();
+      return itemDate >= from && itemDate <= to;
+    });
+
+    setFilteredData(filtered);
+  };
+
+  return (
+    <div className="flex-1 overflow-auto min-h-screen">
+      <div className="w-[82%] bg-white mx-auto pr-4">
+        <TrailingReturns />
+        {/* Add Date Filter Component */}
+        <DateFilter onFilter={handleFilter} />
+        {/* Pass Filtered Data to Components */}
+        <EquityDrawdownChart navData={filteredData} />
+      </div>
+    </div>
+  );
+};
+
+export default Portfolio;
