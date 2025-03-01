@@ -14,7 +14,7 @@ const FilterByDate = ({ onFilter }) => {
 
   return (
     <div className="flex items-center justify-end">
-      <div className="flex items-end space-x-4 mb-4">
+      <div className="flex items-end space-x-4 mt-6">
         <div>
           <label className="block text-sm text-gray-800 font-medium">
             From Date

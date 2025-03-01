@@ -12,7 +12,7 @@ const TrailingReturns = () => {
 
   return (
     <div className="p-4">
-      <h2 className="text-2xl tracking-wide font-serif my-5">
+      <h2 className="text-2xl tracking-wide font-serif my-6">
         Trailing Returns
       </h2>
       <table className="w-full mx-2 border-collapse">

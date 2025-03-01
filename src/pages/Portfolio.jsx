@@ -1,9 +1,15 @@
+import { parse } from "date-fns";
 import { useState } from "react";
+import { lazy } from "react";
+
 import DateFilter from "../components/blog-portfolio/FilterByDate";
 import TrailingReturns from "../components/blog-portfolio/TrailingReturns";
-import EquityDrawdownChart from "../components/blog-portfolio/Charts";
-import { parse } from "date-fns";
+
 import { sortedData } from "../lib/calculations.js";
+
+const EquityDrawdownChart = lazy(() =>
+  import("../components/blog-portfolio/EquityChart")
+);
 
 const Portfolio = () => {
   const [filteredData, setFilteredData] = useState(sortedData);

@@ -1,3 +1,4 @@
+import { useMemo } from "react";
 import {
   LineChart,
   Line,
@@ -7,21 +8,14 @@ import {
   ResponsiveContainer,
   CartesianGrid,
 } from "recharts";
-import { useState, useEffect } from "react";
 import { processChartData } from "../../lib/calculations.js";
 
 const EquityDrawdownChart = ({ navData }) => {
-  const [chartData, setChartData] = useState([]);
-
-  useEffect(() => {
-    if (navData.length > 0) {
-      setChartData(processChartData(navData));
-    }
-  }, [navData]);
+  const chartData = useMemo(() => processChartData(navData), [navData]);
 
   return (
     <div className="md:px-4">
-      <h2 className="text-2xl tracking-wide font-serif mb-6">Equity Curve</h2>
+      <h2 className="text-2xl tracking-wide font-serif mb-5">Equity Curve</h2>
       <ResponsiveContainer width="100%" height={400}>
         <LineChart data={chartData}>
           <XAxis stroke="#9ca3af" dataKey="date" tick={false} />

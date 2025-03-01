@@ -2,6 +2,7 @@ import { BarChart2, Home, Menu } from "lucide-react";
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import { memo } from "react";
 
 const SIDEBAR_ITEMS = [
   {
@@ -72,4 +73,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default memo(Sidebar);
