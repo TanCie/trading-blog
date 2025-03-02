@@ -4,7 +4,7 @@ import Posts from "../components/blog/Posts";
 const HomePage = () => {
   return (
     <div className="flex-1 overflow-auto relative z-10 bg-gray-50">
-      <div className="mx-auto w-[85%] min-h-screen p-4  text-gray-800">
+      <div className="mx-auto md:w-[85%] min-h-screen p-4 text-gray-800">
         <h1 className="text-2xl font-semibold mt-4">Home</h1>
         <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3 my-6">
           <Card

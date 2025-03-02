@@ -45,7 +45,7 @@ const Posts = () => {
   }));
 
   return (
-    <div className="grid-cols-1 md:grid-cols-2 grid space-y-10 space-x-10">
+    <div className="grid-cols-1 md:grid-cols-2 grid space-y-10 space-x-6 lg:space-x-10">
       {posts.map((post, idx) => (
         <div key={idx}>
           <div className="text-sm text-gray-500 my-1">{post.date}</div>

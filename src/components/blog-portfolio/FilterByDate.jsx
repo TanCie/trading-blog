@@ -14,7 +14,7 @@ const FilterByDate = ({ onFilter }) => {
 
   return (
     <div className="flex items-center justify-end">
-      <div className="flex items-end space-x-4 mt-6">
+      <div className="flex flex-col md:flex-row items-center md:items-end space-x-4 mt-6">
         <div>
           <label className="block text-sm text-gray-800 font-medium">
             From Date
@@ -23,23 +23,23 @@ const FilterByDate = ({ onFilter }) => {
             selected={fromDate}
             onChange={(date) => setFromDate(date)}
             dateFormat="dd-MM-yyyy"
-            className="border border-gray-300 text-gray-700 ml-1 p-1 rounded"
+            className="border border-gray-300 text-gray-700 ml-1 md:p-1 rounded"
           />
         </div>
         <div>
-          <label className="block text-sm text-gray-800 font-medium">
+          <label className="block text-sm mt-2 md:mt-0 text-gray-800 font-medium">
             To Date
           </label>
           <DatePicker
             selected={toDate}
             onChange={(date) => setToDate(date)}
             dateFormat="dd-MM-yyyy"
-            className="border border-gray-300 text-gray-700 ml-1 p-1 rounded"
+            className="border border-gray-300 text-gray-700 ml-1 md:p-1 rounded"
           />
         </div>
         <button
           onClick={handleFilter}
-          className="bg-green-500 cursor-pointer text-white font-semibold px-4 py-1 rounded"
+          className="bg-green-500 my-2 mr-2 md:mt-0 cursor-pointer text-sm text-white font-semibold px-4 py-1 rounded"
         >
           Apply
         </button>

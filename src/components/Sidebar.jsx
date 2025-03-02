@@ -26,27 +26,20 @@ const Sidebar = () => {
       className={`relative z-10 transition-all duration-50 ease-in-out shrink-0 ${
         isSidebarOpen ? "w-64" : "w-20"
       }`}
-      animate={{ width: isSidebarOpen ? 220 : 80 }}
+      animate={{ width: isSidebarOpen ? 220 : 64 }}
     >
-      <div className="h-full bg-white backdrop-blur-md p-4 flex flex-col border-r border-gray-200">
-        {isSidebarOpen && (
-          <div className="px-2 py-4">
-            <img src="/icon.png" alt="" />
-          </div>
-        )}
-        <motion.button
-          whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.9 }}
+      <div className="h-full bg-white backdrop-blur-md py-6 px-3 flex flex-col border-r border-gray-200">
+        <button
           onClick={() => setIsSidebarOpen(!isSidebarOpen)}
-          className="p-2 rounded-full cursor-pointer hover:bg-gray-100 transition-colors max-w-fit"
+          className="p-2 cursor-pointer transition-colors max-w-fit"
         >
-          <Menu size={"24"} />
-        </motion.button>
+          {isSidebarOpen ? <img src="/icon.png" alt="" /> : <Menu size={20} />}
+        </button>
 
         <nav className="mt-6 md:mt-4 grow">
           {SIDEBAR_ITEMS.map((item, idx) => (
             <Link key={idx} to={item.href}>
-              <motion.div className="flex items-center p-4 text-sm font-medium rounded-lg hover:bg-gray-100 transition-colors mb-2">
+              <motion.div className="flex items-center p-2 text-sm font-medium rounded-lg hover:bg-gray-100 transition-colors mb-2">
                 <item.icon
                   size={20}
                   style={{ color: item.color, minWidth: "20px" }}

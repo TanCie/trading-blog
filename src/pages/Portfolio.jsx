@@ -28,7 +28,7 @@ const Portfolio = () => {
 
   return (
     <div className="flex-1 overflow-auto min-h-screen">
-      <div className="w-[94%] lg:w-[82%] bg-white mx-auto pr-4">
+      <div className="w-[96%] lg:w-[86%] bg-white mx-auto pr-2">
         <TrailingReturns />
         {/* Add Date Filter Component */}
         <DateFilter onFilter={handleFilter} />
