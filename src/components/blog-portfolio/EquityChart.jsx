@@ -19,21 +19,25 @@ const EquityDrawdownChart = ({ navData }) => {
       <h2 className="text-2xl tracking-wide font-serif mt-3 mb-5 px-2">
         Equity & Drawdown
       </h2>
-      <ResponsiveContainer width="100%" height={450}>
+      <ResponsiveContainer
+        width="100%"
+        height={window.innerWidth < 768 ? 480 : 720}
+      >
         <LineChart
           data={chartData.map((d) => ({
             ...d,
-            scaledDrawdown: d.drawdown * 5, // Scale drawdown values
+            scaledDrawdown: d.drawdown * 6, // Scale drawdown values
           }))}
         >
           {/* X-Axis */}
           <XAxis stroke="#9ca3af" dataKey="date" tick={false} />
 
-          {/* Y-Axis (Shared for both Equity & Scaled Drawdown) */}
+          {/* Y-Axis (Responsive Tick Size) */}
           <YAxis
             stroke="#9ca3af"
             domain={[-250, 500]} // Adjust domain for scaled drawdown
-            ticks={[-200, -150, -100, -50, 0, 100, 200, 300, 400, 500, 600]}
+            ticks={[-200, -150, -100, -50, 0, 50, 100, 200, 300, 400, 500, 600]}
+            tick={{ fontSize: window.innerWidth < 768 ? 10 : 14 }}
           />
 
           {/* Tooltip */}
@@ -54,7 +58,7 @@ const EquityDrawdownChart = ({ navData }) => {
             type="monotone"
             dataKey="equity"
             stroke="#22c55e"
-            strokeWidth={2}
+            strokeWidth={window.innerWidth < 768 ? 1.2 : 1.8}
           />
 
           {/* Scaled Drawdown Line (Red, Below 0) */}
@@ -62,7 +66,7 @@ const EquityDrawdownChart = ({ navData }) => {
             type="monotone"
             dataKey="scaledDrawdown"
             stroke="#ef4444"
-            strokeWidth={1.5}
+            strokeWidth={window.innerWidth < 768 ? 1 : 1.5}
             dot={false}
           />
           <Area
