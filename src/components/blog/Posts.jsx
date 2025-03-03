@@ -1,15 +1,17 @@
 const Posts = () => {
   const postHeadings = [
-    "The Future of Web Development",
-    "Mastering JavaScript in 2025",
-    "UI/UX Trends You Need to Know",
-    "Why TypeScript is the Future",
-    "Building Scalable Web Apps",
-    "Understanding React Server Components",
-    "CSS Tricks for Modern Web Design",
-    "The Power of Functional Programming",
-    "How to Ace Your Next Tech Interview",
-    "Best Practices for API Design",
+    "Stock Market Trends to Watch in 2025",
+    "Mastering Technical Analysis for Profitable Trades",
+    "How Interest Rates Impact Stock Prices",
+    "Building a Winning Investment Portfolio",
+    "Cryptocurrency vs. Stocks: Where to Invest?",
+    "The Psychology Behind Successful Trading",
+    "Understanding Risk Management in Trading",
+    "How to Read and Analyze Financial Statements",
+    "Swing Trading vs. Day Trading: Which is Better?",
+    "The Role of AI and Machine Learning in Trading",
+    "How Economic Indicators Affect Market Movements",
+    "The Best Trading Strategies for Beginners",
   ];
 
   const postDates = [
@@ -23,19 +25,23 @@ const Posts = () => {
     "August 25, 2024",
     "July 12, 2024",
     "June 5, 2024",
+    "May 20, 2024",
+    "April 15, 2024",
   ];
 
   const postParagraphs = [
-    "Web development is evolving rapidly, with new frameworks and tools emerging daily. Staying updated with trends is crucial for developers aiming for long-term success.",
-    "JavaScript continues to dominate web development. Mastering its advanced features and latest updates can help you build efficient, high-performing applications.",
-    "UI/UX trends shape the way users interact with digital products. Understanding the latest trends can help designers create engaging, seamless experiences.",
-    "TypeScript improves code quality and maintainability. Learning TypeScript can enhance your productivity and help you build more scalable applications.",
-    "Scalability is a key factor in modern web applications. Using best practices ensures your app can handle growing user demand effectively.",
-    "React Server Components are transforming the way we build web apps. Learning how to use them efficiently can improve performance and user experience.",
-    "CSS has evolved with powerful features like Grid and Flexbox. Knowing advanced CSS tricks can help you design stunning, responsive websites.",
-    "Functional programming concepts can simplify JavaScript development. Understanding these principles can make your code cleaner and easier to manage.",
-    "Tech interviews require strong problem-solving skills. Preparing for data structures, algorithms, and system design can help you land your dream job.",
-    "APIs are the backbone of modern web applications. Following best practices in API design ensures security, scalability, and ease of integration.",
+    "The stock market is constantly evolving. Staying ahead of key trends can help investors make informed decisions and maximize profits.",
+    "Technical analysis is an essential skill for traders. Learning to read charts and indicators can help predict market movements with accuracy.",
+    "Interest rates play a crucial role in stock market behavior. Understanding their impact can help investors navigate changing economic conditions.",
+    "Building a diverse investment portfolio reduces risk and enhances returns. Learn key strategies to create a well-balanced portfolio.",
+    "Cryptocurrency and stocks offer different risks and rewards. Knowing where to invest depends on your risk tolerance and market understanding.",
+    "Successful trading isn't just about numbers—it's about psychology. Controlling emotions and sticking to a strategy are key to consistent profits.",
+    "Risk management is essential for long-term trading success. Discover strategies to minimize losses and protect your capital.",
+    "Analyzing financial statements helps investors understand a company's true value. Learn the key metrics that drive stock prices.",
+    "Swing trading and day trading each have pros and cons. Understanding their differences can help you choose the right approach for your style.",
+    "AI and machine learning are revolutionizing trading strategies. Discover how automated systems and predictive models are shaping the future of investing.",
+    "Economic indicators like GDP, inflation, and employment data influence the stock market. Learning to interpret them can help you anticipate market trends.",
+    "New traders often struggle with strategy selection. Explore beginner-friendly approaches to start making profitable trades from day one.",
   ];
 
   const posts = postHeadings.map((heading, idx) => ({
