@@ -21,7 +21,7 @@ const EquityDrawdownChart = ({ navData }) => {
       </h2>
       <ResponsiveContainer
         width="100%"
-        height={window.innerWidth < 768 ? 480 : 720}
+        height={window.innerWidth < 768 ? 480 : 780}
       >
         <LineChart
           data={chartData.map((d) => ({
@@ -36,7 +36,10 @@ const EquityDrawdownChart = ({ navData }) => {
           <YAxis
             stroke="#9ca3af"
             domain={[-250, 500]} // Adjust domain for scaled drawdown
-            ticks={[-200, -150, -100, -50, 0, 50, 100, 200, 300, 400, 500, 600]}
+            ticks={[
+              -200, -150, -100, -50, 0, 50, 100, 150, 200, 250, 300, 350, 400,
+              450, 500, 560,
+            ]}
             tick={{ fontSize: window.innerWidth < 768 ? 10 : 14 }}
           />
 
@@ -51,7 +54,7 @@ const EquityDrawdownChart = ({ navData }) => {
           />
 
           {/* Grid */}
-          <CartesianGrid strokeDasharray="3 3" stroke="#4b5563" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#cfd1d5" />
 
           {/* Equity Line (Green, Above 0) */}
           <Line
